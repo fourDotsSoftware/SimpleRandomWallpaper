@@ -1,0 +1,1234 @@
+﻿<Mappings><Entry OldName="SimpleRandomWallpaper.CustomForm.tooltip" NewName="SimpleRandomWallpaper.CustomForm.cb5d73996ccee8e0f967a037f54897f7f" />
+<Entry OldName="SimpleRandomWallpaper.CustomForm.components" NewName="SimpleRandomWallpaper.CustomForm.c4deba3d43baa5b5070f9c6e8bc1e9c00" />
+<Entry OldName="SimpleRandomWallpaper.frmAbout.components" NewName="SimpleRandomWallpaper.frmAbout.c4deba3d43baa5b5070f9c6e8bc1e9c00" />
+<Entry OldName="SimpleRandomWallpaper.frmAbout.lblAbout" NewName="SimpleRandomWallpaper.frmAbout.c3592abb2f5c560d039ecf11edb512009" />
+<Entry OldName="SimpleRandomWallpaper.frmAbout.btnClose" NewName="SimpleRandomWallpaper.frmAbout.c62901f694778223e92cd768a6cf0a62f" />
+<Entry OldName="SimpleRandomWallpaper.frmAbout.pictureBox1" NewName="SimpleRandomWallpaper.frmAbout.c8666928892e3684e88c10d2f197b39a3" />
+<Entry OldName="SimpleRandomWallpaper.frmAbout.linkLabel1" NewName="SimpleRandomWallpaper.frmAbout.cd1e2bbd4ef3280d1f9b3b8edbaa2263b" />
+<Entry OldName="SimpleRandomWallpaper.frmAbout.label1" NewName="SimpleRandomWallpaper.frmAbout.cfa338ac8be49f907b98bb67a35b84489" />
+<Entry OldName="SimpleRandomWallpaper.frmAbout.label2" NewName="SimpleRandomWallpaper.frmAbout.c2959478d1d8f4cc30554b9be5a95c003" />
+<Entry OldName="SimpleRandomWallpaper.frmAbout.linkLabel2" NewName="SimpleRandomWallpaper.frmAbout.cca566e8f78f4ac06b7af300e6572fe13" />
+<Entry OldName="SimpleRandomWallpaper.frmAbout.niceLine1" NewName="SimpleRandomWallpaper.frmAbout.c83ab83b99867c7043ec020f711cd9a56" />
+<Entry OldName="SimpleRandomWallpaper.frmAbout.niceLine3" NewName="SimpleRandomWallpaper.frmAbout.c9ccb97576fc6892332b527832a5014c1" />
+<Entry OldName="SimpleRandomWallpaper.frmAbout.label3" NewName="SimpleRandomWallpaper.frmAbout.cde0e08a894c36bc943f0a7d5a0aa85ae" />
+<Entry OldName="SimpleRandomWallpaper.frmAbout.ullProductWebpage" NewName="SimpleRandomWallpaper.frmAbout.cbd5385ea407d2b6538d5c69710f9a0d6" />
+<Entry OldName="SimpleRandomWallpaper.frmAbout.niceLine2" NewName="SimpleRandomWallpaper.frmAbout.ca35f5f4c89fc4223531d1967ef5d6906" />
+<Entry OldName="SimpleRandomWallpaper.frmAbout.niceLine4" NewName="SimpleRandomWallpaper.frmAbout.c4a4c53c341c92592a52ada6a1d96a136" />
+<Entry OldName="SimpleRandomWallpaper.frmDownloadUpdate._DownloadFile" NewName="SimpleRandomWallpaper.frmDownloadUpdate.c0eb886457785f16e6874d0e04e503fa0" />
+<Entry OldName="SimpleRandomWallpaper.frmDownloadUpdate.components" NewName="SimpleRandomWallpaper.frmDownloadUpdate.c4deba3d43baa5b5070f9c6e8bc1e9c00" />
+<Entry OldName="SimpleRandomWallpaper.frmDownloadUpdate.pgBar" NewName="SimpleRandomWallpaper.frmDownloadUpdate.cd927db87304fcb7d516632026058dc75" />
+<Entry OldName="SimpleRandomWallpaper.frmDownloadUpdate.btnCancelDownload" NewName="SimpleRandomWallpaper.frmDownloadUpdate.c999abdff6a0823126246f6a2294e4064" />
+<Entry OldName="SimpleRandomWallpaper.frmDownloadUpdate.bwDownload" NewName="SimpleRandomWallpaper.frmDownloadUpdate.c80a8f9011e0853bccf2816baeb9eeef7" />
+<Entry OldName="SimpleRandomWallpaper.frmDownloadUpdate.label1" NewName="SimpleRandomWallpaper.frmDownloadUpdate.cfa338ac8be49f907b98bb67a35b84489" />
+<Entry OldName="SimpleRandomWallpaper.frmDownloadUpdate.lblTotalSize" NewName="SimpleRandomWallpaper.frmDownloadUpdate.c5bd3394f53d7989fecd96da6784869c8" />
+<Entry OldName="SimpleRandomWallpaper.frmError.components" NewName="SimpleRandomWallpaper.frmError.c4deba3d43baa5b5070f9c6e8bc1e9c00" />
+<Entry OldName="SimpleRandomWallpaper.frmError.txtError" NewName="SimpleRandomWallpaper.frmError.c086922b05007e9f9ad8c0e03bb577c19" />
+<Entry OldName="SimpleRandomWallpaper.frmError.pictureBox1" NewName="SimpleRandomWallpaper.frmError.c8666928892e3684e88c10d2f197b39a3" />
+<Entry OldName="SimpleRandomWallpaper.frmError.btnClose" NewName="SimpleRandomWallpaper.frmError.c62901f694778223e92cd768a6cf0a62f" />
+<Entry OldName="SimpleRandomWallpaper.frmLanguage.components" NewName="SimpleRandomWallpaper.frmLanguage.c4deba3d43baa5b5070f9c6e8bc1e9c00" />
+<Entry OldName="SimpleRandomWallpaper.frmLanguage.label1" NewName="SimpleRandomWallpaper.frmLanguage.cfa338ac8be49f907b98bb67a35b84489" />
+<Entry OldName="SimpleRandomWallpaper.frmLanguage.cmbLanguage" NewName="SimpleRandomWallpaper.frmLanguage.c99680ca535d026ea072bd88af7daf3c1" />
+<Entry OldName="SimpleRandomWallpaper.frmLanguage.btnOK" NewName="SimpleRandomWallpaper.frmLanguage.cb4a224c7c81e594ed150546fd1b7bb34" />
+<Entry OldName="SimpleRandomWallpaper.frmMain._IsDirty" NewName="SimpleRandomWallpaper.frmMain.c2e1d1429f80237e8e3985b3c27712d84" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.InChangeLanguage" NewName="SimpleRandomWallpaper.frmMain.ccf9e7bcebad0248506bc9f0e1eae7936" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.components" NewName="SimpleRandomWallpaper.frmMain.c4deba3d43baa5b5070f9c6e8bc1e9c00" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.menuStrip1" NewName="SimpleRandomWallpaper.frmMain.c8d0af5259ad34fea80638fd3135879f4" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.fileToolStripMenuItem" NewName="SimpleRandomWallpaper.frmMain.cb7799d6f6d98fd5a05b1aef966aae589" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.addFilesToolStripMenuItem" NewName="SimpleRandomWallpaper.frmMain.c285e708a8965d1758a6bdce449d4bd64" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.addFoldersToolStripMenuItem" NewName="SimpleRandomWallpaper.frmMain.c13ee126f3fae2e93c7b4d566aa41024b" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.importListToolStripMenuItem" NewName="SimpleRandomWallpaper.frmMain.c5e9542c5c45aa0fc35d9c8eab64be79b" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.toolStripMenuItem2" NewName="SimpleRandomWallpaper.frmMain.c99fc317eb4992df59a9571cced202a5c" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.exitToolStripMenuItem" NewName="SimpleRandomWallpaper.frmMain.cf6f3dde536d965eafdbe7c6b200b3370" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.editToolStripMenuItem" NewName="SimpleRandomWallpaper.frmMain.c14fa9c73027eda7ddbfe290d03253084" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.removeToolStripMenuItem" NewName="SimpleRandomWallpaper.frmMain.c744be349dfe118ec1f20ddf6785710b8" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.clearToolStripMenuItem" NewName="SimpleRandomWallpaper.frmMain.c3bc9a3313fefec06c0dc85979c8b4437" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.selectAllToolStripMenuItem" NewName="SimpleRandomWallpaper.frmMain.cdc4e64fd5a536956d355e8cb7a69b89d" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.seelctNoneToolStripMenuItem" NewName="SimpleRandomWallpaper.frmMain.c23c560720353914dbce1f24252d9e5a2" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.invertSelectionToolStripMenuItem" NewName="SimpleRandomWallpaper.frmMain.c70e3bb115d098a1669c1ad221c117c21" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.languageToolStripMenuItem" NewName="SimpleRandomWallpaper.frmMain.c35673668701cd143f4bc461d7778df5e" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.languages1ToolStripMenuItem" NewName="SimpleRandomWallpaper.frmMain.ce8f9043d1ca80dfcd0c0c9f0f10fd9de" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.languages2ToolStripMenuItem" NewName="SimpleRandomWallpaper.frmMain.c9520ed1a06bf0069193b8188e75cee17" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.helpToolStripMenuItem" NewName="SimpleRandomWallpaper.frmMain.c6bb45c0e1a22a35bff04448e56d5256a" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.helpGuideToolStripMenuItem" NewName="SimpleRandomWallpaper.frmMain.c29f61ce640c09e78de80a0b72d05cbbe" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.pleaseDonateToolStripMenuItem1" NewName="SimpleRandomWallpaper.frmMain.cf91a6c2c4b7a3d137a26dd5eeef84848" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.dotsSoftwarePRODUCTCATALOGToolStripMenuItem" NewName="SimpleRandomWallpaper.frmMain.ca3517adf87e51221ca67aa04ca0b4f7b" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.tiHelpFeedback" NewName="SimpleRandomWallpaper.frmMain.ccde68f1ab42d55e938d991d4e0f5dd8e" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.checkForNewVersionToolStripMenuItem" NewName="SimpleRandomWallpaper.frmMain.c24cca8effbc013cd62d11d2f44b2e603" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.toolStripMenuItem1" NewName="SimpleRandomWallpaper.frmMain.cf2fda37463e4025efab265fa85f052e4" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.followUsOnTwitterToolStripMenuItem" NewName="SimpleRandomWallpaper.frmMain.c5a1b2a7033ddd3afdc5652b0f202d6ab" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.visit4dotsSoftwareWebsiteToolStripMenuItem" NewName="SimpleRandomWallpaper.frmMain.cd6e57e6e518657df4276558856d7ca76" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.aboutToolStripMenuItem" NewName="SimpleRandomWallpaper.frmMain.c98ffe1364650b5af3391bf9464128e03" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.dgFiles" NewName="SimpleRandomWallpaper.frmMain.c1360f7052cd572313e8172d289a309f3" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.toolStrip1" NewName="SimpleRandomWallpaper.frmMain.cdbaad85e2423a1350a4129e16036caed" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.tsbRemove" NewName="SimpleRandomWallpaper.frmMain.cf9980a20b2cec0f1b70cbdba2442da40" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.toolStripSeparator3" NewName="SimpleRandomWallpaper.frmMain.c8b5089ec831caa5c1f86be4d3d091838" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.toolStripSeparator2" NewName="SimpleRandomWallpaper.frmMain.cf86687a8e75a4fe5503b16b56415b664" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.openFileDialog1" NewName="SimpleRandomWallpaper.frmMain.c0e3c68463f61095d3d629041d3ec40c8" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.folderBrowserDialog1" NewName="SimpleRandomWallpaper.frmMain.c596e2cd2d9588242966f031fef3a9980" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.cmsFiles" NewName="SimpleRandomWallpaper.frmMain.c71aaae9cda4861405613684979864b4a" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.openToolStripMenuItem" NewName="SimpleRandomWallpaper.frmMain.ce4728013e8a5f4b276ae5967fbc66760" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.exploreToolStripMenuItem" NewName="SimpleRandomWallpaper.frmMain.ce2a7cd4f19e9f83784ed6b923177522c" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.copyFullFilePathToolStripMenuItem" NewName="SimpleRandomWallpaper.frmMain.ce2029826b07aa46e3bfafb7c57b2ca12" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.lblTotal" NewName="SimpleRandomWallpaper.frmMain.c8e4252758e2387e747a625975a8ef23a" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.saveDocumentsListToolStripMenuItem" NewName="SimpleRandomWallpaper.frmMain.c5c2bdf4359354713685e164c51568a3f" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.picImage" NewName="SimpleRandomWallpaper.frmMain.c7eb4fcfc4a8bcfbcf90d6c1a4af3e1f5" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.colFolder" NewName="SimpleRandomWallpaper.frmMain.c748fbba53afee25fd8c3bad3d2963118" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.colFilename" NewName="SimpleRandomWallpaper.frmMain.cd7014d847d9b5455be7ef02e269a6c4d" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.colSize" NewName="SimpleRandomWallpaper.frmMain.c25cb9f845a6136975f7d3203adc21887" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.colFileDate" NewName="SimpleRandomWallpaper.frmMain.c19769cf4eba065490899d0a6b0e050dc" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.colFullFilePath" NewName="SimpleRandomWallpaper.frmMain.cf3baf963a9bee3be7140bb683aa054e5" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.label1" NewName="SimpleRandomWallpaper.frmMain.cfa338ac8be49f907b98bb67a35b84489" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.lblS" NewName="SimpleRandomWallpaper.frmMain.c3dda9528c14d3952f43946f519e63ce8" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.lblM" NewName="SimpleRandomWallpaper.frmMain.c0f3c703376626214b9facba6c5a112da" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.lblH" NewName="SimpleRandomWallpaper.frmMain.c4f83b780a56af0281d860fe24b76922d" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.nudS" NewName="SimpleRandomWallpaper.frmMain.c2a3f3ee21054459fa438cabbe9d7083a" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.label2" NewName="SimpleRandomWallpaper.frmMain.c2959478d1d8f4cc30554b9be5a95c003" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.nudM" NewName="SimpleRandomWallpaper.frmMain.ce117eac483a3467504d10f949d33321c" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.label4" NewName="SimpleRandomWallpaper.frmMain.cb47568ceae9d06d9b7f0b7bccc6bdf8c" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.nudH" NewName="SimpleRandomWallpaper.frmMain.c1389411e2f940ba9928d21030b216392" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.label5" NewName="SimpleRandomWallpaper.frmMain.cb06e31e4581e41c77ad45c659df82b9e" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.chkEnableForAllUsers" NewName="SimpleRandomWallpaper.frmMain.c8c4b2490e9a91042c9e9fd0276c4a8da" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.label6" NewName="SimpleRandomWallpaper.frmMain.c3d64364bc18b9f32d93aca13de456413" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.nudD" NewName="SimpleRandomWallpaper.frmMain.caf1086bd11f0a66ccb2a140b2115c173" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.label7" NewName="SimpleRandomWallpaper.frmMain.ceb1fa72ceff0b9858e99a61671f1aa8f" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.btnOK" NewName="SimpleRandomWallpaper.frmMain.cb4a224c7c81e594ed150546fd1b7bb34" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.btnExit" NewName="SimpleRandomWallpaper.frmMain.c6c3b4c0c45fdf57119baf52c6f565f7f" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.chkEnableCurrentUser" NewName="SimpleRandomWallpaper.frmMain.c6c0699799e9fbd16ffc0a49a7baf4fb6" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.importListFromExcelFileToolStripMenuItem" NewName="SimpleRandomWallpaper.frmMain.c7f05bf665b8642236e0b3fb03a1d47aa" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.enterListOfFIlesToolStripMenuItem" NewName="SimpleRandomWallpaper.frmMain.c8f1c644984cc1844dde14c09eaf864eb" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.checkForNewVersionEachWeekToolStripMenuItem" NewName="SimpleRandomWallpaper.frmMain.cb59dbab56a60d028a155a1ca733acfe5" />
+<Entry OldName="SimpleRandomWallpaper.frmMessage.components" NewName="SimpleRandomWallpaper.frmMessage.c4deba3d43baa5b5070f9c6e8bc1e9c00" />
+<Entry OldName="SimpleRandomWallpaper.frmMessage.btnOK" NewName="SimpleRandomWallpaper.frmMessage.cb4a224c7c81e594ed150546fd1b7bb34" />
+<Entry OldName="SimpleRandomWallpaper.frmMultipleFiles.BatchJoin" NewName="SimpleRandomWallpaper.frmMultipleFiles.c0a1c1b1e539b083acc17550b52e8e93e" />
+<Entry OldName="SimpleRandomWallpaper.frmMultipleFiles.components" NewName="SimpleRandomWallpaper.frmMultipleFiles.c4deba3d43baa5b5070f9c6e8bc1e9c00" />
+<Entry OldName="SimpleRandomWallpaper.frmMultipleFiles.lblBatchJoin" NewName="SimpleRandomWallpaper.frmMultipleFiles.c30fd31623de03a2b4405a11bd7d7aadc" />
+<Entry OldName="SimpleRandomWallpaper.frmMultipleFiles.btnCancel" NewName="SimpleRandomWallpaper.frmMultipleFiles.c94a540186533027645c2189961c4a9d1" />
+<Entry OldName="SimpleRandomWallpaper.frmMultipleFiles.btnOK" NewName="SimpleRandomWallpaper.frmMultipleFiles.cb4a224c7c81e594ed150546fd1b7bb34" />
+<Entry OldName="SimpleRandomWallpaper.frmMultipleFiles.label2" NewName="SimpleRandomWallpaper.frmMultipleFiles.c2959478d1d8f4cc30554b9be5a95c003" />
+<Entry OldName="SimpleRandomWallpaper.frmMultipleFiles.btnBrowse" NewName="SimpleRandomWallpaper.frmMultipleFiles.ccf91942ef60420d2d0f29729afc1c8a5" />
+<Entry OldName="SimpleRandomWallpaper.frmMultipleFiles.openFileDialog1" NewName="SimpleRandomWallpaper.frmMultipleFiles.c0e3c68463f61095d3d629041d3ec40c8" />
+<Entry OldName="SimpleRandomWallpaper.ImageComboBox.imageList" NewName="A.c9d47ddc4471b32f5db56a247485dc81c.c6f07dec787c82e9689dc8d5c0be1c08a" />
+<Entry OldName="SimpleRandomWallpaper.ComboBoxExItem._text" NewName="A.c88e926907bbfab22d92f1153db9d58f5.cca89c217b3c45f2da7c1fb572a0bc8ed" />
+<Entry OldName="SimpleRandomWallpaper.ComboBoxExItem._imageIndex" NewName="A.c88e926907bbfab22d92f1153db9d58f5.ce065591d2f3939d942da97a609e7a685" />
+<Entry OldName="SimpleRandomWallpaper.Module.BlueForeColor" NewName="A.cda38844ba405854cb27ba3d0739041aa.ccd831bf30e61a8d5ead34ad1f5b05f7d" />
+<Entry OldName="SimpleRandomWallpaper.Module.ApplicationName" NewName="A.cda38844ba405854cb27ba3d0739041aa.cd4fd3d696406fe099aa6e0d0b8a3a5e9" />
+<Entry OldName="SimpleRandomWallpaper.Module.Version" NewName="A.cda38844ba405854cb27ba3d0739041aa.cc7bbe9988fc48e8388cf9b5d0a10354e" />
+<Entry OldName="SimpleRandomWallpaper.Module.Ver" NewName="A.cda38844ba405854cb27ba3d0739041aa.c1e5999a87721cdd8676cad3985d2069a" />
+<Entry OldName="SimpleRandomWallpaper.Module.ShortApplicationTitle" NewName="A.cda38844ba405854cb27ba3d0739041aa.cf8dc4eb11fea7c7e1ce72377eeb8f18a" />
+<Entry OldName="SimpleRandomWallpaper.Module.ApplicationTitle" NewName="A.cda38844ba405854cb27ba3d0739041aa.c176f538333cdf8e2142f961883a624f4" />
+<Entry OldName="SimpleRandomWallpaper.Module.DownloadURL" NewName="A.cda38844ba405854cb27ba3d0739041aa.c82e416e97df5cee17b5aff66f4ccd26b" />
+<Entry OldName="SimpleRandomWallpaper.Module.HelpURL" NewName="A.cda38844ba405854cb27ba3d0739041aa.cae489c7229a1cb3dfaba98c69470b790" />
+<Entry OldName="SimpleRandomWallpaper.Module.ProductWebpageURL" NewName="A.cda38844ba405854cb27ba3d0739041aa.c20262204ce6d21e68c9fb03d493fc140" />
+<Entry OldName="SimpleRandomWallpaper.Module.BuyURL" NewName="A.cda38844ba405854cb27ba3d0739041aa.c3056e5c13895a7ce8bf930ffbdf14179" />
+<Entry OldName="SimpleRandomWallpaper.Module.VersionURL" NewName="A.cda38844ba405854cb27ba3d0739041aa.cf2c8196404e3e214ba6f6ebfb7dfc1d8" />
+<Entry OldName="SimpleRandomWallpaper.Module.TipText" NewName="A.cda38844ba405854cb27ba3d0739041aa.c8d59aacddcf03766ddaa3cb597e397b0" />
+<Entry OldName="SimpleRandomWallpaper.Module.GeneratedTemporaryFiles" NewName="A.cda38844ba405854cb27ba3d0739041aa.cefa6e476459e52818fb184b812d97d14" />
+<Entry OldName="SimpleRandomWallpaper.Module.args" NewName="A.cda38844ba405854cb27ba3d0739041aa.c74a6df7201cf3978bbd75e95921887c5" />
+<Entry OldName="SimpleRandomWallpaper.Module.OpenFilesFilter" NewName="A.cda38844ba405854cb27ba3d0739041aa.c98d10e5ad8898a706a7ddda93e5bdaf6" />
+<Entry OldName="SimpleRandomWallpaper.Module.AcceptableMediaInputPattern" NewName="A.cda38844ba405854cb27ba3d0739041aa.cb553323e6da4d0e3e9efb22a39432f9f" />
+<Entry OldName="SimpleRandomWallpaper.Module.AppDataDirectory" NewName="A.cda38844ba405854cb27ba3d0739041aa.c2da8b1d642e69b6e864fcb91861e5be6" />
+<Entry OldName="SimpleRandomWallpaper.Module.CurrentImagesDirectory" NewName="A.cda38844ba405854cb27ba3d0739041aa.c5746f48d90c39345db58f8087e0b3167" />
+<Entry OldName="SimpleRandomWallpaper.Module.SelectedLanguage" NewName="A.cda38844ba405854cb27ba3d0739041aa.c993a467dd3b3896bed7c1fff5fcb906f" />
+<Entry OldName="SimpleRandomWallpaper.Module.IsCommandLine" NewName="A.cda38844ba405854cb27ba3d0739041aa.cb025307281c709850ec6e198a9cebdc4" />
+<Entry OldName="SimpleRandomWallpaper.Module.IsFromWindowsExplorer" NewName="A.cda38844ba405854cb27ba3d0739041aa.c2af81dedbb336a9926ef75f4e05f5e2e" />
+<Entry OldName="SimpleRandomWallpaper.Module.DoNotOverwriteFiles" NewName="A.cda38844ba405854cb27ba3d0739041aa.c0ea43284e64c944ec7c15231b9e77a5d" />
+<Entry OldName="SimpleRandomWallpaper.Module.AskBeforeOverwrite" NewName="A.cda38844ba405854cb27ba3d0739041aa.c5497f27e42c7c6888a1d1d9564a6a3da" />
+<Entry OldName="SimpleRandomWallpaper.Module.LeaveSameDateTime" NewName="A.cda38844ba405854cb27ba3d0739041aa.cb93c6756cc2d5f07c7f285d4da2fa264" />
+<Entry OldName="SimpleRandomWallpaper.Module.OutputFilepath" NewName="A.cda38844ba405854cb27ba3d0739041aa.cc182fe7794a56b1388c494d1e5a79772" />
+<Entry OldName="SimpleRandomWallpaper.Module._Modex64" NewName="A.cda38844ba405854cb27ba3d0739041aa.c10985c09eeb335da6adfe16bc7132d62" />
+<Entry OldName="SimpleRandomWallpaper.NiceLine.components" NewName="SimpleRandomWallpaper.NiceLine.c4deba3d43baa5b5070f9c6e8bc1e9c00" />
+<Entry OldName="SimpleRandomWallpaper.NiceLine._Caption" NewName="SimpleRandomWallpaper.NiceLine.ca1c13f9dae774fc12d0377f7a8c2179d" />
+<Entry OldName="SimpleRandomWallpaper.NiceLine._CaptionMarginSpace" NewName="SimpleRandomWallpaper.NiceLine.c4f973fd5fc9a6e06fdc9a9f9a1d86deb" />
+<Entry OldName="SimpleRandomWallpaper.NiceLine._CaptionPadding" NewName="SimpleRandomWallpaper.NiceLine.c6ef065270422da99255f618fec67d9f4" />
+<Entry OldName="SimpleRandomWallpaper.NiceLine._LineVerticalAlign" NewName="SimpleRandomWallpaper.NiceLine.cb216ea22f6a933202bf98a8fadd1053a" />
+<Entry OldName="SimpleRandomWallpaper.NiceLine._CaptionOrizontalAlign" NewName="SimpleRandomWallpaper.NiceLine.c081115cd38d7f7392c2a77e09423d197" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.CREATE_UNICODE_ENVIRONMENT" NewName="SimpleRandomWallpaper.ProcessExtensions.c6a2f7aca5e816d655f3a7bfad8609ff6" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.CREATE_NO_WINDOW" NewName="SimpleRandomWallpaper.ProcessExtensions.cec2531e9c70fbda1f4f1ee43c08addae" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.CREATE_NEW_CONSOLE" NewName="SimpleRandomWallpaper.ProcessExtensions.cc9af7305de35b2c97d27f8f69ab7359a" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.INVALID_SESSION_ID" NewName="SimpleRandomWallpaper.ProcessExtensions.c9942e793c58ac72d1de4512501c59400" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.WTS_CURRENT_SERVER_HANDLE" NewName="SimpleRandomWallpaper.ProcessExtensions.c8b3ca2e76f4751d7bd214be3661e0b05" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.resourceMan" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.c5589a7822d7d3820b9df86f2f9b325d2" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.resourceCulture" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.cdee8f57790c8df8d6489b8ad24bc22bc" />
+<Entry OldName="SimpleRandomWallpaper.ResTranslate.resourceMan" NewName="A.c2f949b064c3543be618e3ce60341a880.c5589a7822d7d3820b9df86f2f9b325d2" />
+<Entry OldName="SimpleRandomWallpaper.ResTranslate.resourceCulture" NewName="A.c2f949b064c3543be618e3ce60341a880.cdee8f57790c8df8d6489b8ad24bc22bc" />
+<Entry OldName="SimpleRandomWallpaper.TranslateHelper.rm" NewName="A.c77daec8910f03aeaac8b06fa67e612d3.cbb722858bd95d081eb93fd0afa6ee632" />
+<Entry OldName="SimpleRandomWallpaper.TranslateHelper.rm2" NewName="A.c77daec8910f03aeaac8b06fa67e612d3.c18329d35a899ce414577c40c0721325b" />
+<Entry OldName="SimpleRandomWallpaper.ucTextProgressBar.WmPaint" NewName="SimpleRandomWallpaper.ucTextProgressBar.c12afd0259b34fb2d36c18170aa7bb7c9" />
+<Entry OldName="SimpleRandomWallpaper.ucTextProgressBar.components" NewName="SimpleRandomWallpaper.ucTextProgressBar.c4deba3d43baa5b5070f9c6e8bc1e9c00" />
+<Entry OldName="SimpleRandomWallpaper.UpdateHelper.bwCheckVersion" NewName="SimpleRandomWallpaper.UpdateHelper.c5d4e8607c61b9195351f0e1e1cc7e7ad" />
+<Entry OldName="SimpleRandomWallpaper.WallpaperChanger.SPI_SETDESKWALLPAPER" NewName="A.c455b444cc97b78d49644caa07ebdff1b.c223f7190fe33f2d03b0bded1d0008ceb" />
+<Entry OldName="SimpleRandomWallpaper.WallpaperChanger.SPIF_UPDATEINIFILE" NewName="A.c455b444cc97b78d49644caa07ebdff1b.c0c61288dc30f55c136e7f9758fde2d08" />
+<Entry OldName="SimpleRandomWallpaper.WallpaperChanger.SettingsFolder" NewName="A.c455b444cc97b78d49644caa07ebdff1b.caca93a7e95eb13aeb690ac5151a81223" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.resourceMan" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.c5589a7822d7d3820b9df86f2f9b325d2" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.resourceCulture" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.cdee8f57790c8df8d6489b8ad24bc22bc" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.SW.value__" NewName="SimpleRandomWallpaper.ProcessExtensions.caed9c71746a5c048fc941d4ce569c743.value__" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.SW.SW_HIDE" NewName="SimpleRandomWallpaper.ProcessExtensions.caed9c71746a5c048fc941d4ce569c743.cf743e7420e51be9a870be574513aeb25" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.SW.SW_SHOWNORMAL" NewName="SimpleRandomWallpaper.ProcessExtensions.caed9c71746a5c048fc941d4ce569c743.c067f7aa59c53875b001813e59d1366ea" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.SW.SW_NORMAL" NewName="SimpleRandomWallpaper.ProcessExtensions.caed9c71746a5c048fc941d4ce569c743.cd50021ca6c4967472e061857fda059fd" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.SW.SW_SHOWMINIMIZED" NewName="SimpleRandomWallpaper.ProcessExtensions.caed9c71746a5c048fc941d4ce569c743.c43a8056059daa5112fa38ac08cfb161f" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.SW.SW_SHOWMAXIMIZED" NewName="SimpleRandomWallpaper.ProcessExtensions.caed9c71746a5c048fc941d4ce569c743.c844223c3253deaccdcf8dc2ba4fa02c4" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.SW.SW_MAXIMIZE" NewName="SimpleRandomWallpaper.ProcessExtensions.caed9c71746a5c048fc941d4ce569c743.c075091692eb481610b092195c558f2a7" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.SW.SW_SHOWNOACTIVATE" NewName="SimpleRandomWallpaper.ProcessExtensions.caed9c71746a5c048fc941d4ce569c743.c5830fce2ea5845bd369c01a95f63efb5" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.SW.SW_SHOW" NewName="SimpleRandomWallpaper.ProcessExtensions.caed9c71746a5c048fc941d4ce569c743.c746e0bc5fe2d9fec5041650a21b6127b" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.SW.SW_MINIMIZE" NewName="SimpleRandomWallpaper.ProcessExtensions.caed9c71746a5c048fc941d4ce569c743.c443a298873eb515f41ceda742427c7c5" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.SW.SW_SHOWMINNOACTIVE" NewName="SimpleRandomWallpaper.ProcessExtensions.caed9c71746a5c048fc941d4ce569c743.c30b10e5c0d2c8075350698c6e86684aa" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.SW.SW_SHOWNA" NewName="SimpleRandomWallpaper.ProcessExtensions.caed9c71746a5c048fc941d4ce569c743.c62ba51c3027a5e2747ac7dcc0201cc45" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.SW.SW_RESTORE" NewName="SimpleRandomWallpaper.ProcessExtensions.caed9c71746a5c048fc941d4ce569c743.c5dd5c3958c80ce3adb6e864464877ec6" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.SW.SW_SHOWDEFAULT" NewName="SimpleRandomWallpaper.ProcessExtensions.caed9c71746a5c048fc941d4ce569c743.cad70387adc35fad1fd67229fefd45549" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.SW.SW_MAX" NewName="SimpleRandomWallpaper.ProcessExtensions.caed9c71746a5c048fc941d4ce569c743.c5e6d420a8282eeaa5f58fd69330f01e4" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.WTS_CONNECTSTATE_CLASS.value__" NewName="SimpleRandomWallpaper.ProcessExtensions.c219539e0435441699242423976cf05bf.value__" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.WTS_CONNECTSTATE_CLASS.WTSActive" NewName="SimpleRandomWallpaper.ProcessExtensions.c219539e0435441699242423976cf05bf.cf873075b1c350aac9b00e710f2f49c1e" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.WTS_CONNECTSTATE_CLASS.WTSConnected" NewName="SimpleRandomWallpaper.ProcessExtensions.c219539e0435441699242423976cf05bf.cc9fd95bb31079f48827efed0edd30821" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.WTS_CONNECTSTATE_CLASS.WTSConnectQuery" NewName="SimpleRandomWallpaper.ProcessExtensions.c219539e0435441699242423976cf05bf.cc5a400a5279e68fb3246e337b969e92f" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.WTS_CONNECTSTATE_CLASS.WTSShadow" NewName="SimpleRandomWallpaper.ProcessExtensions.c219539e0435441699242423976cf05bf.c214421e893c34e761a9d7e9c4437c374" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.WTS_CONNECTSTATE_CLASS.WTSDisconnected" NewName="SimpleRandomWallpaper.ProcessExtensions.c219539e0435441699242423976cf05bf.ca0295f476e19beac13721859486becef" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.WTS_CONNECTSTATE_CLASS.WTSIdle" NewName="SimpleRandomWallpaper.ProcessExtensions.c219539e0435441699242423976cf05bf.cd1db36027510056e6fb61d7f67440070" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.WTS_CONNECTSTATE_CLASS.WTSListen" NewName="SimpleRandomWallpaper.ProcessExtensions.c219539e0435441699242423976cf05bf.cd56960e2b713ca1e46efd36b5aa9652e" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.WTS_CONNECTSTATE_CLASS.WTSReset" NewName="SimpleRandomWallpaper.ProcessExtensions.c219539e0435441699242423976cf05bf.c18639506e70f576e45ea26cc48e2b60f" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.WTS_CONNECTSTATE_CLASS.WTSDown" NewName="SimpleRandomWallpaper.ProcessExtensions.c219539e0435441699242423976cf05bf.ce2c88edd835964b11b50dd6eed14ed20" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.WTS_CONNECTSTATE_CLASS.WTSInit" NewName="SimpleRandomWallpaper.ProcessExtensions.c219539e0435441699242423976cf05bf.c8c623b5c3ddc495fa1be9330c7cb8d01" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.PROCESS_INFORMATION.hProcess" NewName="SimpleRandomWallpaper.ProcessExtensions.c688d5e64d319ae749e881697e4068afe.c4ee0bd779c112c4dbdc310544d889ef7" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.PROCESS_INFORMATION.hThread" NewName="SimpleRandomWallpaper.ProcessExtensions.c688d5e64d319ae749e881697e4068afe.caacaf62cb8cc5b9750eb8aaf9b4d32e7" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.PROCESS_INFORMATION.dwProcessId" NewName="SimpleRandomWallpaper.ProcessExtensions.c688d5e64d319ae749e881697e4068afe.c3d685da7788a7eb75dfb13c842bf706b" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.PROCESS_INFORMATION.dwThreadId" NewName="SimpleRandomWallpaper.ProcessExtensions.c688d5e64d319ae749e881697e4068afe.cc945dc0281fd12bb3f5e88341c012916" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.SECURITY_IMPERSONATION_LEVEL.value__" NewName="SimpleRandomWallpaper.ProcessExtensions.c92ce1fb26148560e1b294afcceb8ab6c.value__" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.SECURITY_IMPERSONATION_LEVEL.SecurityAnonymous" NewName="SimpleRandomWallpaper.ProcessExtensions.c92ce1fb26148560e1b294afcceb8ab6c.ce252f170237535f0bb140f6da99820dc" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.SECURITY_IMPERSONATION_LEVEL.SecurityIdentification" NewName="SimpleRandomWallpaper.ProcessExtensions.c92ce1fb26148560e1b294afcceb8ab6c.c68ee7858d91b74aed5bb017d3990be1b" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.SECURITY_IMPERSONATION_LEVEL.SecurityImpersonation" NewName="SimpleRandomWallpaper.ProcessExtensions.c92ce1fb26148560e1b294afcceb8ab6c.c86d7f48850c9842063b088b1972657e6" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.SECURITY_IMPERSONATION_LEVEL.SecurityDelegation" NewName="SimpleRandomWallpaper.ProcessExtensions.c92ce1fb26148560e1b294afcceb8ab6c.c2cfbbd62bb3591beb2b16c90c3118852" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.STARTUPINFO.cb" NewName="SimpleRandomWallpaper.ProcessExtensions.c333a5865f9ef424e5a654aa2d9d4ccda.c303d6a94addaecae939738d46c864ccd" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.STARTUPINFO.lpReserved" NewName="SimpleRandomWallpaper.ProcessExtensions.c333a5865f9ef424e5a654aa2d9d4ccda.cdb5ad3d289795bd015ac62aebc1cdcba" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.STARTUPINFO.lpDesktop" NewName="SimpleRandomWallpaper.ProcessExtensions.c333a5865f9ef424e5a654aa2d9d4ccda.cf0bebd647810ad1f02bf0ea48774e9e4" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.STARTUPINFO.lpTitle" NewName="SimpleRandomWallpaper.ProcessExtensions.c333a5865f9ef424e5a654aa2d9d4ccda.c8cb757f57485168c14ce2a2d913526e6" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.STARTUPINFO.dwX" NewName="SimpleRandomWallpaper.ProcessExtensions.c333a5865f9ef424e5a654aa2d9d4ccda.c44a8372a4292bad53ccfdf940bb45304" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.STARTUPINFO.dwY" NewName="SimpleRandomWallpaper.ProcessExtensions.c333a5865f9ef424e5a654aa2d9d4ccda.cd39c134366f215bb2e62e15f88db1374" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.STARTUPINFO.dwXSize" NewName="SimpleRandomWallpaper.ProcessExtensions.c333a5865f9ef424e5a654aa2d9d4ccda.c7be2ff8bb3e76631216dbd769f76152a" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.STARTUPINFO.dwYSize" NewName="SimpleRandomWallpaper.ProcessExtensions.c333a5865f9ef424e5a654aa2d9d4ccda.cf59e200477061cc23f0514dad206c353" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.STARTUPINFO.dwXCountChars" NewName="SimpleRandomWallpaper.ProcessExtensions.c333a5865f9ef424e5a654aa2d9d4ccda.c5d8b2287f15a21e96d878848163d781b" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.STARTUPINFO.dwYCountChars" NewName="SimpleRandomWallpaper.ProcessExtensions.c333a5865f9ef424e5a654aa2d9d4ccda.c88ef98d24df12df7aa58e9cb972be0ed" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.STARTUPINFO.dwFillAttribute" NewName="SimpleRandomWallpaper.ProcessExtensions.c333a5865f9ef424e5a654aa2d9d4ccda.ca4dd5628fdc0879c32533a3ebf42431b" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.STARTUPINFO.dwFlags" NewName="SimpleRandomWallpaper.ProcessExtensions.c333a5865f9ef424e5a654aa2d9d4ccda.c86056eae1f26e7b44c1c8758ee487c50" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.STARTUPINFO.wShowWindow" NewName="SimpleRandomWallpaper.ProcessExtensions.c333a5865f9ef424e5a654aa2d9d4ccda.ca56498ab4b00fa01df13dedb37e2051a" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.STARTUPINFO.cbReserved2" NewName="SimpleRandomWallpaper.ProcessExtensions.c333a5865f9ef424e5a654aa2d9d4ccda.c42588626fd10cce0108bbf3a078aa11c" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.STARTUPINFO.lpReserved2" NewName="SimpleRandomWallpaper.ProcessExtensions.c333a5865f9ef424e5a654aa2d9d4ccda.c5a1ae557d9507af38044aed24e66ddb4" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.STARTUPINFO.hStdInput" NewName="SimpleRandomWallpaper.ProcessExtensions.c333a5865f9ef424e5a654aa2d9d4ccda.ce897e68e79f6b63630d4537ed3ae4167" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.STARTUPINFO.hStdOutput" NewName="SimpleRandomWallpaper.ProcessExtensions.c333a5865f9ef424e5a654aa2d9d4ccda.c49517c169595c6f9ac7a0a3fcdb8f363" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.STARTUPINFO.hStdError" NewName="SimpleRandomWallpaper.ProcessExtensions.c333a5865f9ef424e5a654aa2d9d4ccda.c801873187f1a2ac4affda6707815a265" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.TOKEN_TYPE.value__" NewName="SimpleRandomWallpaper.ProcessExtensions.c32de807db017fd2ff5b98c40fcd1af0c.value__" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.TOKEN_TYPE.TokenPrimary" NewName="SimpleRandomWallpaper.ProcessExtensions.c32de807db017fd2ff5b98c40fcd1af0c.c1ed103afc0f2de7f28e26850dbfbcf60" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.TOKEN_TYPE.TokenImpersonation" NewName="SimpleRandomWallpaper.ProcessExtensions.c32de807db017fd2ff5b98c40fcd1af0c.c58a90ede6b2e8984c57c09ab34bb8417" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.WTS_SESSION_INFO.SessionID" NewName="SimpleRandomWallpaper.ProcessExtensions.cb76f82fb2d5f99c4670b203e1f0ffe85.c23801b4266d6ddf4c8d9478862c51396" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.WTS_SESSION_INFO.pWinStationName" NewName="SimpleRandomWallpaper.ProcessExtensions.cb76f82fb2d5f99c4670b203e1f0ffe85.cd676507274776c8880feb510047b9000" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.WTS_SESSION_INFO.State" NewName="SimpleRandomWallpaper.ProcessExtensions.cb76f82fb2d5f99c4670b203e1f0ffe85.cb017cc3d8225313d60928112152725d2" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.TOKEN_INFORMATION_CLASS.value__" NewName="SimpleRandomWallpaper.ProcessExtensions.cded7b3c2ce43e1c2869f832630a9b25c.value__" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.TOKEN_INFORMATION_CLASS.TokenUser" NewName="SimpleRandomWallpaper.ProcessExtensions.cded7b3c2ce43e1c2869f832630a9b25c.cdb53841c25cf10d58b31a78ce0fb8080" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.TOKEN_INFORMATION_CLASS.TokenGroups" NewName="SimpleRandomWallpaper.ProcessExtensions.cded7b3c2ce43e1c2869f832630a9b25c.cf210f6c530b32d0fc7e4147c1a6c1953" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.TOKEN_INFORMATION_CLASS.TokenPrivileges" NewName="SimpleRandomWallpaper.ProcessExtensions.cded7b3c2ce43e1c2869f832630a9b25c.ca13e16c72efbddfb22ca721dd1652532" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.TOKEN_INFORMATION_CLASS.TokenOwner" NewName="SimpleRandomWallpaper.ProcessExtensions.cded7b3c2ce43e1c2869f832630a9b25c.caf6d1b784abee1b27828adf4094be3b5" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.TOKEN_INFORMATION_CLASS.TokenPrimaryGroup" NewName="SimpleRandomWallpaper.ProcessExtensions.cded7b3c2ce43e1c2869f832630a9b25c.c5948005cc700630a3fe4d444d573542b" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.TOKEN_INFORMATION_CLASS.TokenDefaultDacl" NewName="SimpleRandomWallpaper.ProcessExtensions.cded7b3c2ce43e1c2869f832630a9b25c.c8c5e620db5974927bfdf45fe3b97f775" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.TOKEN_INFORMATION_CLASS.TokenSource" NewName="SimpleRandomWallpaper.ProcessExtensions.cded7b3c2ce43e1c2869f832630a9b25c.c5f2e00baea20b7431225592d3e4f98f9" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.TOKEN_INFORMATION_CLASS.TokenType" NewName="SimpleRandomWallpaper.ProcessExtensions.cded7b3c2ce43e1c2869f832630a9b25c.ce9f4f424fff4474b8f0a9abfbba9b6a1" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.TOKEN_INFORMATION_CLASS.TokenImpersonationLevel" NewName="SimpleRandomWallpaper.ProcessExtensions.cded7b3c2ce43e1c2869f832630a9b25c.c12b3a814d0fe9cb3a6b27523bdf2b2b9" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.TOKEN_INFORMATION_CLASS.TokenStatistics" NewName="SimpleRandomWallpaper.ProcessExtensions.cded7b3c2ce43e1c2869f832630a9b25c.cb7112f6e44aab1ad94501fd6d21399ab" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.TOKEN_INFORMATION_CLASS.TokenRestrictedSids" NewName="SimpleRandomWallpaper.ProcessExtensions.cded7b3c2ce43e1c2869f832630a9b25c.caa82b3103629c2f86e9ff346edb980a1" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.TOKEN_INFORMATION_CLASS.TokenSessionId" NewName="SimpleRandomWallpaper.ProcessExtensions.cded7b3c2ce43e1c2869f832630a9b25c.c70c8658bc575687c949998de8d2998d0" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.TOKEN_INFORMATION_CLASS.TokenGroupsAndPrivileges" NewName="SimpleRandomWallpaper.ProcessExtensions.cded7b3c2ce43e1c2869f832630a9b25c.caf5338b8affc05447b413b4712175f1b" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.TOKEN_INFORMATION_CLASS.TokenSessionReference" NewName="SimpleRandomWallpaper.ProcessExtensions.cded7b3c2ce43e1c2869f832630a9b25c.c9d8bdcffb5c90f986a07df8b0d468e0c" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.TOKEN_INFORMATION_CLASS.TokenSandBoxInert" NewName="SimpleRandomWallpaper.ProcessExtensions.cded7b3c2ce43e1c2869f832630a9b25c.c4f84824cfd0f5a8dd23f9b815d6d2090" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.TOKEN_INFORMATION_CLASS.TokenAuditPolicy" NewName="SimpleRandomWallpaper.ProcessExtensions.cded7b3c2ce43e1c2869f832630a9b25c.cf81c8b42368a4a8f09166ced2a9fdf97" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.TOKEN_INFORMATION_CLASS.TokenOrigin" NewName="SimpleRandomWallpaper.ProcessExtensions.cded7b3c2ce43e1c2869f832630a9b25c.c19aaf698f8d02acdaa2498506a18d9da" />
+<Entry OldName="SimpleRandomWallpaper.CustomForm.CustomForm_Activated(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.CustomForm.c81e7d6715dd99851852b3250a77012bd(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.CustomForm.ResizeChildControls(Control co)" NewName="SimpleRandomWallpaper.CustomForm.ccd3bdb62ae5783c2ac6c95955b2e33a7(Control c8e38200df11465df18bb4006cc5ee800)" />
+<Entry OldName="SimpleRandomWallpaper.CustomForm.InitializeComponent()" NewName="SimpleRandomWallpaper.CustomForm.c05cf1beef693860dc84c34c8b14a5050()" />
+<Entry OldName="SimpleRandomWallpaper.ExcelImporter..ctor()" NewName="A.c2a13df5e462cf4facb9e52b502d6c208..ctor()" />
+<Entry OldName="SimpleRandomWallpaper.ExcelImporter.ImportListExcel(String filepath)" NewName="A.c2a13df5e462cf4facb9e52b502d6c208.c64b74a6e171bba9930d2e314ad7a8ea1(String cb844f0320a84177c962fe33183705368)" />
+<Entry OldName="SimpleRandomWallpaper.ExcelImporter.GetPart(String part)" NewName="A.c2a13df5e462cf4facb9e52b502d6c208.c43ce32d1c8cb721c3cf7c8e5d53065f2(String c76abef99eaeb6f098803c434466cf911)" />
+<Entry OldName="SimpleRandomWallpaper.ExceptionHandlersHelper..ctor()" NewName="A.c8094f4caa934d9fbc42056bef2261a21..ctor()" />
+<Entry OldName="SimpleRandomWallpaper.ExceptionHandlersHelper.AddUnhandledExceptionHandlers()" NewName="A.c8094f4caa934d9fbc42056bef2261a21.cfaf8163d2f1773644ff8685d555e76aa()" />
+<Entry OldName="SimpleRandomWallpaper.ExceptionHandlersHelper.myExceptionHandler(Object sender, UnhandledExceptionEventArgs e)" NewName="A.c8094f4caa934d9fbc42056bef2261a21.c5e30f874f124fe9130645962c76a1299(Object c5a9247ac2d444816b0c5646f66f8d3d5, UnhandledExceptionEventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.ExceptionHandlersHelper.myThreadExceptionHandler(Object sender, ThreadExceptionEventArgs e)" NewName="A.c8094f4caa934d9fbc42056bef2261a21.ccd830c91e2f06e0bd0934aac5a70aaf1(Object c5a9247ac2d444816b0c5646f66f8d3d5, ThreadExceptionEventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmAbout.frmAbout_Load(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmAbout.c9c4e6c688743c97110d0d3d27b197031(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmAbout.btnClose_Click(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmAbout.c857b6dfb38032df4a0ed2a6f66aa542f(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmAbout.linkLabel1_LinkClicked(Object sender, LinkLabelLinkClickedEventArgs e)" NewName="SimpleRandomWallpaper.frmAbout.c90fcdb1836002b66f4541a2164d10216(Object c5a9247ac2d444816b0c5646f66f8d3d5, LinkLabelLinkClickedEventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmAbout.linkLabel2_LinkClicked(Object sender, LinkLabelLinkClickedEventArgs e)" NewName="SimpleRandomWallpaper.frmAbout.c0ae877e53916396119397638237fb069(Object c5a9247ac2d444816b0c5646f66f8d3d5, LinkLabelLinkClickedEventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmAbout.InitializeComponent()" NewName="SimpleRandomWallpaper.frmAbout.c05cf1beef693860dc84c34c8b14a5050()" />
+<Entry OldName="SimpleRandomWallpaper.frmDownloadUpdate.frmDownloadUpdate_Load(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmDownloadUpdate.c254811e5b2f385418f4eba9d23346148(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmDownloadUpdate.client_DownloadFileCompleted(Object sender, AsyncCompletedEventArgs e)" NewName="SimpleRandomWallpaper.frmDownloadUpdate.c652be11b52bea29fe6d865e18f5ab31f(Object c5a9247ac2d444816b0c5646f66f8d3d5, AsyncCompletedEventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmDownloadUpdate.client_DownloadProgressChanged(Object sender, DownloadProgressChangedEventArgs e)" NewName="SimpleRandomWallpaper.frmDownloadUpdate.cb711c730eae3f0f1c938d9d41fac18b9(Object c5a9247ac2d444816b0c5646f66f8d3d5, DownloadProgressChangedEventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmDownloadUpdate.btnCancelDownload_Click(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmDownloadUpdate.ca178e33d576023e77379117d99fd265d(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmDownloadUpdate.InitializeComponent()" NewName="SimpleRandomWallpaper.frmDownloadUpdate.c05cf1beef693860dc84c34c8b14a5050()" />
+<Entry OldName="SimpleRandomWallpaper.frmError.btnClose_Click(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmError.c857b6dfb38032df4a0ed2a6f66aa542f(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmError.InitializeComponent()" NewName="SimpleRandomWallpaper.frmError.c05cf1beef693860dc84c34c8b14a5050()" />
+<Entry OldName="SimpleRandomWallpaper.frmLanguage.btnOK_Click(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmLanguage.c5104220596da8cf5ac869ead294c2c77(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmLanguage.frmLanguage_Load(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmLanguage.c171a5551ae2f6a5a630cffc871dcedbf(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmLanguage.InitializeComponent()" NewName="SimpleRandomWallpaper.frmLanguage.c05cf1beef693860dc84c34c8b14a5050()" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.get_IsDirty()" NewName="SimpleRandomWallpaper.frmMain.get_c2994a40223b10a74563d7d079b57c465()" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.set_IsDirty(Boolean value)" NewName="SimpleRandomWallpaper.frmMain.set_c2994a40223b10a74563d7d079b57c465(Boolean cc089221913ba985206a1c6ed5e337035)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.tsdbAddFile_ButtonClick(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmMain.ccad8a988d0cdde6dd7240c02fa327aec(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.tsdbAddFile_DropDownItemClicked(Object sender, ToolStripItemClickedEventArgs e)" NewName="SimpleRandomWallpaper.frmMain.c9bff9f5f464ff74828e2364bff4ce8fa(Object c5a9247ac2d444816b0c5646f66f8d3d5, ToolStripItemClickedEventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.tsbRemove_Click(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmMain.c0224f6968c64b2812e8c4d4ba94975ed(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.tsbClear_Click(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmMain.cdeff553afea3ee21c9d4f3a46334fd3a(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.tsdbAddFolder_ButtonClick(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmMain.c53845c8606c8ec516f5fd9b3ca050f20(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.tsdbAddFolder_DropDownItemClicked(Object sender, ToolStripItemClickedEventArgs e)" NewName="SimpleRandomWallpaper.frmMain.c590fe5128b251bb5dd27e6ed0eda7dfd(Object c5a9247ac2d444816b0c5646f66f8d3d5, ToolStripItemClickedEventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.tsdbImportList_ButtonClick(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmMain.ca1e4eb6031210085bff907050de6963d(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.tsdbImportList_DropDownItemClicked(Object sender, ToolStripItemClickedEventArgs e)" NewName="SimpleRandomWallpaper.frmMain.c2f02a60636b852265f24216acad86d2d(Object c5a9247ac2d444816b0c5646f66f8d3d5, ToolStripItemClickedEventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.SetupOnLoad()" NewName="SimpleRandomWallpaper.frmMain.c67978bc936cdf6178d712aec4a34b3f6()" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.AdjustSizeLocation()" NewName="SimpleRandomWallpaper.frmMain.c8eb08d172ae8d5ff73cef82175846f0a()" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.SaveSizeLocation()" NewName="SimpleRandomWallpaper.frmMain.cd0cb556b1b81468c89fa856e9bfa4599()" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.AddLanguageMenuItems()" NewName="SimpleRandomWallpaper.frmMain.ceb88fbf740cb9f376d59045f0a5553cf()" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.tiLang_Click(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmMain.cee476d3c20100a983214f2b0654eefa8(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.ChangeLanguage(String language_code)" NewName="SimpleRandomWallpaper.frmMain.c49bce19faa1d82f0919280e4d6bab945(String c0935d3c63b174e112a6f1323d5b7ff4c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.frmMain_Load(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmMain.c4d374b6a9f8b330c51fc866b8f801d9b(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.AddVisual(String[] argsvisual)" NewName="SimpleRandomWallpaper.frmMain.c8eda4d156725b563b3bf42667c2fc03c(String[] cfa229b2c29f839dfc98a6942572c3535)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.helpGuideToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmMain.c2959390d72425896d968f9fe77805e62(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.pleaseDonateToolStripMenuItem1_Click(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmMain.c2aa6e859f32b40a981e6998cc2cbb2d5(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.dotsSoftwarePRODUCTCATALOGToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmMain.cca740814e86c39dcf5a03d588bdd9800(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.aboutToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmMain.cf9d67e432c1a7af5c14e53704df54d19(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.tiHelpFeedback_Click(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmMain.cf08e59e40f9b9c2e6db4dcda7470c11e(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.followUsOnTwitterToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmMain.c86cbba3c96b07f979454e686f5509879(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.visit4dotsSoftwareWebsiteToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmMain.cb4427dd7daca57ac468f5eb00dca2f48(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.checkForNewVersionToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmMain.c0a3a8c01641755d6c6c8f5d819fa720c(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.exitToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmMain.c13542e0af080f87cb54cbb12d3e445c0(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.frmMain_FormClosing(Object sender, FormClosingEventArgs e)" NewName="SimpleRandomWallpaper.frmMain.c85012651f2518e388f75d74210646df2(Object c5a9247ac2d444816b0c5646f66f8d3d5, FormClosingEventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.selectAllToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmMain.cf39ea2a994d570b89e033c5709057f0f(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.seelctNoneToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmMain.c4944ca6dc5a32bc157c25fbdf90bee76(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.invertSelectionToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmMain.c95b26acab8c402bd24b17f9d42ed9f58(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.openToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmMain.c6c78d532d297877ee66559428726b0fa(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.exploreToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmMain.c9a7371808c490a39b12c65856fd69233(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.copyFullFilePathToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmMain.c1ec60e0514774b0fe08abb6d0afe30ff(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.cmsFiles_Opening(Object sender, CancelEventArgs e)" NewName="SimpleRandomWallpaper.frmMain.c8c64d5e127da986558dad12c0f881a78(Object c5a9247ac2d444816b0c5646f66f8d3d5, CancelEventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.dgFiles_DragEnter(Object sender, DragEventArgs e)" NewName="SimpleRandomWallpaper.frmMain.c9b558e0571a575c224085f627a4a5ae1(Object c5a9247ac2d444816b0c5646f66f8d3d5, DragEventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.dgFiles_DragOver(Object sender, DragEventArgs e)" NewName="SimpleRandomWallpaper.frmMain.cb56c012a7fcc3ecb0e2af3a83d4155b8(Object c5a9247ac2d444816b0c5646f66f8d3d5, DragEventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.dgFiles_DragDrop(Object sender, DragEventArgs e)" NewName="SimpleRandomWallpaper.frmMain.c48671969cba40dae76327928b7eb73e2(Object c5a9247ac2d444816b0c5646f66f8d3d5, DragEventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.saveDocumentsListToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmMain.c33ac3ebb4363c3e5dc5f51c14000d8bd(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.dgFiles_CellFormatting(Object sender, DataGridViewCellFormattingEventArgs e)" NewName="SimpleRandomWallpaper.frmMain.c27bc9e921dd162c06c728ed5fce1e759(Object c5a9247ac2d444816b0c5646f66f8d3d5, DataGridViewCellFormattingEventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.dgFiles_CellClick(Object sender, DataGridViewCellEventArgs e)" NewName="SimpleRandomWallpaper.frmMain.c24aa15e121bbf172e3a1a1f369ddc1ec(Object c5a9247ac2d444816b0c5646f66f8d3d5, DataGridViewCellEventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.nudD_ValueChanged(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmMain.c75d6882b0a45b77745c36e0b41b36bbc(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.chkDisable_CheckedChanged(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmMain.c78b4f81ffc7a2686fee999d14b13c351(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.btnExit_Click(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmMain.c00a34349abcb638b8a1f219f871529de(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.btnOK_Click(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmMain.c5104220596da8cf5ac869ead294c2c77(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.importListFromExcelFileToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmMain.c338a87e149febf50e51795de5993dc94(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.enterListOfFIlesToolStripMenuItem_Click(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmMain.cf1b1f22af600b25ea1a00172cddd57f4(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.InitializeComponent()" NewName="SimpleRandomWallpaper.frmMain.c05cf1beef693860dc84c34c8b14a5050()" />
+<Entry OldName="SimpleRandomWallpaper.frmMessage.btnOK_Click(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmMessage.c5104220596da8cf5ac869ead294c2c77(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMessage.frmMessage_Load(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmMessage.cda931e69cd1e9d64d57bfcfe6394b832(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMessage.InitializeComponent()" NewName="SimpleRandomWallpaper.frmMessage.c05cf1beef693860dc84c34c8b14a5050()" />
+<Entry OldName="SimpleRandomWallpaper.frmMultipleFiles.btnCancel_Click(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmMultipleFiles.c96e7a3aa299bf00f80bc3c2f7ab03341(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMultipleFiles.btnOK_Click(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmMultipleFiles.c5104220596da8cf5ac869ead294c2c77(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMultipleFiles.frmMultipleFiles_Load(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmMultipleFiles.c9c6cf917a16533f7fe05df8259905a07(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMultipleFiles.frmMultipleFiles_Activated(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmMultipleFiles.c3ab919e5f3fabb82a7fdf959d2d8e453(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMultipleFiles.btnBrowse_Click(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmMultipleFiles.c385a44c374248f217ba451aff4e85092(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMultipleFiles.InitializeComponent()" NewName="SimpleRandomWallpaper.frmMultipleFiles.c05cf1beef693860dc84c34c8b14a5050()" />
+<Entry OldName="SimpleRandomWallpaper.ImageComboBox..ctor()" NewName="A.c9d47ddc4471b32f5db56a247485dc81c..ctor()" />
+<Entry OldName="SimpleRandomWallpaper.ImageComboBox.get_ImageList()" NewName="A.c9d47ddc4471b32f5db56a247485dc81c.get_cd4d561e34cf79323f9ac6733f0139f25()" />
+<Entry OldName="SimpleRandomWallpaper.ImageComboBox.set_ImageList(ImageList value)" NewName="A.c9d47ddc4471b32f5db56a247485dc81c.set_cd4d561e34cf79323f9ac6733f0139f25(ImageList cc089221913ba985206a1c6ed5e337035)" />
+<Entry OldName="SimpleRandomWallpaper.ImageComboBox.OnDrawItem(DrawItemEventArgs ea)" NewName="A.c9d47ddc4471b32f5db56a247485dc81c.OnDrawItem(DrawItemEventArgs ea)" />
+<Entry OldName="SimpleRandomWallpaper.ComboBoxExItem..ctor()" NewName="A.c88e926907bbfab22d92f1153db9d58f5..ctor()" />
+<Entry OldName="SimpleRandomWallpaper.ComboBoxExItem..ctor(String text)" NewName="A.c88e926907bbfab22d92f1153db9d58f5..ctor(String ceca7056e0f45329fc67e9e57f6fa25e6)" />
+<Entry OldName="SimpleRandomWallpaper.ComboBoxExItem..ctor(String text, Int32 imageIndex)" NewName="A.c88e926907bbfab22d92f1153db9d58f5..ctor(String ceca7056e0f45329fc67e9e57f6fa25e6, Int32 cce4896f63b7096145a6fafe18e6c38e5)" />
+<Entry OldName="SimpleRandomWallpaper.ComboBoxExItem.get_Text()" NewName="A.c88e926907bbfab22d92f1153db9d58f5.get_cf7fd5d43b6bd5594d5bdcc4da05901ae()" />
+<Entry OldName="SimpleRandomWallpaper.ComboBoxExItem.set_Text(String value)" NewName="A.c88e926907bbfab22d92f1153db9d58f5.set_cf7fd5d43b6bd5594d5bdcc4da05901ae(String cc089221913ba985206a1c6ed5e337035)" />
+<Entry OldName="SimpleRandomWallpaper.ComboBoxExItem.get_ImageIndex()" NewName="A.c88e926907bbfab22d92f1153db9d58f5.get_c525e160d5ceb16eeb30a70ef6ad50be9()" />
+<Entry OldName="SimpleRandomWallpaper.ComboBoxExItem.set_ImageIndex(Int32 value)" NewName="A.c88e926907bbfab22d92f1153db9d58f5.set_c525e160d5ceb16eeb30a70ef6ad50be9(Int32 cc089221913ba985206a1c6ed5e337035)" />
+<Entry OldName="SimpleRandomWallpaper.ComboBoxExItem.ToString()" NewName="A.c88e926907bbfab22d92f1153db9d58f5.ToString()" />
+<Entry OldName="SimpleRandomWallpaper.Module..ctor()" NewName="A.cda38844ba405854cb27ba3d0739041aa..ctor()" />
+<Entry OldName="SimpleRandomWallpaper.Module..cctor()" NewName="A.cda38844ba405854cb27ba3d0739041aa..cctor()" />
+<Entry OldName="SimpleRandomWallpaper.Module.IsPDFDocument(String filepath)" NewName="A.cda38844ba405854cb27ba3d0739041aa.c87566d7927e491bc4c180142a009f66d(String cb844f0320a84177c962fe33183705368)" />
+<Entry OldName="SimpleRandomWallpaper.Module.get_TempFolder()" NewName="A.cda38844ba405854cb27ba3d0739041aa.get_cd5ff77d5ebe81efdb9d2575ced804adf()" />
+<Entry OldName="SimpleRandomWallpaper.Module.SendMessage(IntPtr hWnd, Int32 wMsg, Int32 wParam, Int32 lParam)" NewName="A.cda38844ba405854cb27ba3d0739041aa.c22979d3e076c88e5b0ce763d822349a0(IntPtr c17dde2c25f86c2d81312aa2ce1b37d3c, Int32 ca90a1f75c2926bcde5b17be43a43df2a, Int32 cb8384c7a28ea928bca927564e219d7cf, Int32 c4e7e413c658470daaa35dc97ea76275d)" />
+<Entry OldName="SimpleRandomWallpaper.Module.LockWindowUpdate(IntPtr hWndLock)" NewName="A.cda38844ba405854cb27ba3d0739041aa.ca3a8b62c35c25059832f40e9689d0834(IntPtr c909fb58f268d6e0e262982d96827f74f)" />
+<Entry OldName="SimpleRandomWallpaper.Module.WaitNMSeconds(Int32 mseconds)" NewName="A.cda38844ba405854cb27ba3d0739041aa.c2c100e0e16f174fe2faa51206245cb19(Int32 cfb884d34aa408c99805597ea14068814)" />
+<Entry OldName="SimpleRandomWallpaper.Module.IsLegalFilename(String name)" NewName="A.cda38844ba405854cb27ba3d0739041aa.c3e04bd36eb0b8446c26a2454000b8d17(String c632dc63ced91c4eced38e90afa33af9d)" />
+<Entry OldName="SimpleRandomWallpaper.Module.GetRelativePath(String mainDirPath, String absoluteFilePath)" NewName="A.cda38844ba405854cb27ba3d0739041aa.cba33f5f910502cf180a0c5d49f884ad3(String cd85325127bb1c9a56c17c49bbc210ff4, String c6a7db6f0e074e8dafd3bbe8a47c087bc)" />
+<Entry OldName="SimpleRandomWallpaper.Module.ShowMessage(String msg)" NewName="A.cda38844ba405854cb27ba3d0739041aa.c3479fe7387737a4ca11c4ad7a8686eb6(String cef52c800089ae9b2949bec9fa917ab7f)" />
+<Entry OldName="SimpleRandomWallpaper.Module.ShowQuestionDialog(String msg, String caption)" NewName="A.cda38844ba405854cb27ba3d0739041aa.c75f4c90f18f5010c376fdf34b17ef7d9(String cef52c800089ae9b2949bec9fa917ab7f, String c8f4f62b57bc6567c33534db007bfc58a)" />
+<Entry OldName="SimpleRandomWallpaper.Module.ShowError(Exception ex)" NewName="A.cda38844ba405854cb27ba3d0739041aa.c872b8f0a9c4122d129cc9cf165e3630a(Exception c4e29624573584378c41197a480602394)" />
+<Entry OldName="SimpleRandomWallpaper.Module.ShowError(String msg)" NewName="A.cda38844ba405854cb27ba3d0739041aa.c872b8f0a9c4122d129cc9cf165e3630a(String cef52c800089ae9b2949bec9fa917ab7f)" />
+<Entry OldName="SimpleRandomWallpaper.Module.ShowError(String msg, Exception ex)" NewName="A.cda38844ba405854cb27ba3d0739041aa.c872b8f0a9c4122d129cc9cf165e3630a(String cef52c800089ae9b2949bec9fa917ab7f, Exception c4e29624573584378c41197a480602394)" />
+<Entry OldName="SimpleRandomWallpaper.Module.ShowError(String msg, String exstr)" NewName="A.cda38844ba405854cb27ba3d0739041aa.c872b8f0a9c4122d129cc9cf165e3630a(String cef52c800089ae9b2949bec9fa917ab7f, String cc4c87a4c2fcc22aaa7b0cf73cbbf5b3d)" />
+<Entry OldName="SimpleRandomWallpaper.Module.CurrentDomain_ProcessExit(Object sender, EventArgs e)" NewName="A.cda38844ba405854cb27ba3d0739041aa.ce8705437418e6649dc8ab45e1499ebcb(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.Module.ShowQuestionDialogYesFocus(String msg, String caption)" NewName="A.cda38844ba405854cb27ba3d0739041aa.c2e10fe52fd898cb701ad63b8a00c8f5e(String cef52c800089ae9b2949bec9fa917ab7f, String c8f4f62b57bc6567c33534db007bfc58a)" />
+<Entry OldName="SimpleRandomWallpaper.Module.IsAcceptableMediaInput(String filepath)" NewName="A.cda38844ba405854cb27ba3d0739041aa.cafc384deb41236516b9ffa544b1c70c5(String cb844f0320a84177c962fe33183705368)" />
+<Entry OldName="SimpleRandomWallpaper.Module.get_Modex64()" NewName="A.cda38844ba405854cb27ba3d0739041aa.get_c8653eaa1bbe5809e3f2d47a99e34efb6()" />
+<Entry OldName="SimpleRandomWallpaper.Module.DownloadPage(String uri)" NewName="A.cda38844ba405854cb27ba3d0739041aa.cdf1b181e56080cf1f343a35c1486c161(String c1114f11e935a45336b3fef5851a8c348)" />
+<Entry OldName="SimpleRandomWallpaper.Module.HexConverter(Color c)" NewName="A.cda38844ba405854cb27ba3d0739041aa.cfdb1a3e82b2e777107bdb295ec1a8e7f(Color cce8a6d21c983a6c1a0f10a86cc2027f6)" />
+<Entry OldName="SimpleRandomWallpaper.Module.DecimalToString(Decimal dec)" NewName="A.cda38844ba405854cb27ba3d0739041aa.cafec47915d9c7806df0083e7643a3ec6(Decimal c3bf77aec41f5157b867f9ecd2dd82b09)" />
+<Entry OldName="SimpleRandomWallpaper.Module.DecimalToString(Decimal dec, Int32 decimal_places)" NewName="A.cda38844ba405854cb27ba3d0739041aa.cafec47915d9c7806df0083e7643a3ec6(Decimal c3bf77aec41f5157b867f9ecd2dd82b09, Int32 c313cb4e820b1727e3639b18fba8cf353)" />
+<Entry OldName="SimpleRandomWallpaper.Module.StringToDecimal(String str)" NewName="A.cda38844ba405854cb27ba3d0739041aa.cc11614d435ef764897952f9672bc309f(String c59818786d3742116cf4c2f37fd014980)" />
+<Entry OldName="SimpleRandomWallpaper.Module.get_IsWindows64Bit()" NewName="A.cda38844ba405854cb27ba3d0739041aa.get_c3e38bacd9ac882533acd36ac10964267()" />
+<Entry OldName="SimpleRandomWallpaper.Module.RunAdminAction(String args)" NewName="A.cda38844ba405854cb27ba3d0739041aa.c54d2856d4744ba1e86867adb847c92ac(String c74a6df7201cf3978bbd75e95921887c5)" />
+<Entry OldName="SimpleRandomWallpaper.Module.DeleteApplicationSettingsFile()" NewName="A.cda38844ba405854cb27ba3d0739041aa.c0277a9662617de1a25adcb6efd14085a()" />
+<Entry OldName="SimpleRandomWallpaper.NiceLine.InitializeComponent()" NewName="SimpleRandomWallpaper.NiceLine.c05cf1beef693860dc84c34c8b14a5050()" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.CreateProcessAsUser(IntPtr hToken, String lpApplicationName, String lpCommandLine, IntPtr lpProcessAttributes, IntPtr lpThreadAttributes, Boolean bInheritHandle, UInt32 dwCreationFlags, IntPtr lpEnvironment, String lpCurrentDirectory, STARTUPINFO&amp; lpStartupInfo, PROCESS_INFORMATION&amp; lpProcessInformation)" NewName="SimpleRandomWallpaper.ProcessExtensions.c0100ec7e840d662b7f7f4173d0555b1c(IntPtr c2114137013a53838a926331ea177b04a, String ca29ab7c7a76dbbcf0718a13a039147ac, String ce33cf3be027eddd7fc0e27318386ebfc, IntPtr c8bc4823c8c7f12dc24ed2e1b811c3321, IntPtr c3fd01e1cc891d129a8e44b9d68f546c0, Boolean c5a2ba44f2e756ecd1e775a1e969afed6, UInt32 c51c4f009ac88a12ea8d2a4a0cdff26af, IntPtr cddc5e185011e707075a6f5cac43c1316, String c28a70bd41dc88453af5773211f16a41a, c333a5865f9ef424e5a654aa2d9d4ccda&amp; c3b44a79499fe2c2bc7cb17ea7efa3527, c688d5e64d319ae749e881697e4068afe&amp; c052b8ab7eacec8f366ccb626f8a69fdc)" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.DuplicateTokenEx(IntPtr ExistingTokenHandle, UInt32 dwDesiredAccess, IntPtr lpThreadAttributes, Int32 TokenType, Int32 ImpersonationLevel, IntPtr&amp; DuplicateTokenHandle)" NewName="SimpleRandomWallpaper.ProcessExtensions.c5de064c89cf5177fed889a34398fea40(IntPtr cccdffb4a17273fb8f6f04ecd0db51d8e, UInt32 c672d7fafd8514866f488efab5295ae31, IntPtr c3fd01e1cc891d129a8e44b9d68f546c0, Int32 ce9f4f424fff4474b8f0a9abfbba9b6a1, Int32 c79f126cc453d53838336afb80c428be3, IntPtr&amp; c0b0552affc708db80f739ad174c62563)" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.CreateEnvironmentBlock(IntPtr&amp; lpEnvironment, IntPtr hToken, Boolean bInherit)" NewName="SimpleRandomWallpaper.ProcessExtensions.cc5ed07e5f802ca457c2268e125195dfb(IntPtr&amp; cddc5e185011e707075a6f5cac43c1316, IntPtr c2114137013a53838a926331ea177b04a, Boolean c43678bd114cc85a86b273bdd30a401dc)" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.DestroyEnvironmentBlock(IntPtr lpEnvironment)" NewName="SimpleRandomWallpaper.ProcessExtensions.c4b55c3dc77e0bba30c80ee1348e3b8b0(IntPtr cddc5e185011e707075a6f5cac43c1316)" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.CloseHandle(IntPtr hSnapshot)" NewName="SimpleRandomWallpaper.ProcessExtensions.c2ebbc425d2c256e1235d9bb512c6c370(IntPtr c84a0c177a4cf80cc70334ddc6599dc31)" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.WTSGetActiveConsoleSessionId()" NewName="SimpleRandomWallpaper.ProcessExtensions.cf712537a97fe5b0a4a7345b5f7a9d0a6()" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.WTSQueryUserToken(UInt32 SessionId, IntPtr&amp; phToken)" NewName="SimpleRandomWallpaper.ProcessExtensions.cab026082b802f06d6d8a4517a184641d(UInt32 c31556091b25da9c9bf5bd63dfb272e65, IntPtr&amp; c16e7cccf362d54a184247bf430d398f9)" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.WTSEnumerateSessions(IntPtr hServer, Int32 Reserved, Int32 Version, IntPtr&amp; ppSessionInfo, Int32&amp; pCount)" NewName="SimpleRandomWallpaper.ProcessExtensions.c336f221db604fef9cd03c08a3a64340a(IntPtr c6e5c3623b54f004b990e527d95bbf857, Int32 c958791cd1ffcf67fa7eab34e7fa37e98, Int32 cc7bbe9988fc48e8388cf9b5d0a10354e, IntPtr&amp; cfebf82aa4eb3fb9dcb9a4e1eac9748a3, Int32&amp; ca4a21f4ef1120a7cea24e1998141298c)" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.GetSessionUserToken(IntPtr&amp; phUserToken)" NewName="SimpleRandomWallpaper.ProcessExtensions.c93a3ff8637846ddb381a04c7781b7d4c(IntPtr&amp; cb793b670435f0b7e07c80773649e6e46)" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.ConvertSidToStringSid(IntPtr pSID, IntPtr&amp; ptrSid)" NewName="SimpleRandomWallpaper.ProcessExtensions.c1427c869d5612e02d1f1b227b058a6fc(IntPtr c2a12adfb7f5ff2c516a3ad0f1f68d378, IntPtr&amp; c7f9b0a122796d69439f28916463d51e8)" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.LocalFree(IntPtr hMem)" NewName="SimpleRandomWallpaper.ProcessExtensions.c52c4eec694c3c4ce51d658d9eb58f95f(IntPtr cac5a123099491fb492bbee58656fa1bd)" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions.GetTokenInformation(IntPtr TokenHandle, TOKEN_INFORMATION_CLASS TokenInformationClass, IntPtr TokenInformation, Int32 TokenInformationLength, Int32&amp; ReturnLength)" NewName="SimpleRandomWallpaper.ProcessExtensions.c17a1a988b3f265a6b9f18db584439972(IntPtr c62edffb9e42bb10fd814114ceb7efbde, cded7b3c2ce43e1c2869f832630a9b25c c8763fcd35bf81dd3fa7c79bc48da00f3, IntPtr cbe0416eaffa2dc88aa182923e4b56f05, Int32 c9cf9fde565d9ecdd68343cd143323338, Int32&amp; c67c1eff69d1f9efe74adef7e7cd3efbd)" />
+<Entry OldName="SimpleRandomWallpaper.Program.Main(String[] args)" NewName="A.c74ba11ec8a0529f6fef327fb932b19c1.c2a864c4613cca0405809c1e792dec2fe(String[] c74a6df7201cf3978bbd75e95921887c5)" />
+<Entry OldName="SimpleRandomWallpaper.Program.RemoveQuotes(String str)" NewName="A.c74ba11ec8a0529f6fef327fb932b19c1.cfa94d63706fdef5c60745989bcd30d89(String c59818786d3742116cf4c2f37fd014980)" />
+<Entry OldName="SimpleRandomWallpaper.RecentFilesHelper..ctor()" NewName="A.ce421a4e57278a625cb3a923da286e16e..ctor()" />
+<Entry OldName="SimpleRandomWallpaper.RecentFilesHelper.FillMenuRecentFile()" NewName="A.ce421a4e57278a625cb3a923da286e16e.ce6f11a3f72bcb7ba8522f352a297cd5c()" />
+<Entry OldName="SimpleRandomWallpaper.RecentFilesHelper.FillMenuRecentFolder()" NewName="A.ce421a4e57278a625cb3a923da286e16e.c2fb0abdbc9f727f6d2f828e4eed79a8b()" />
+<Entry OldName="SimpleRandomWallpaper.RecentFilesHelper.FillMenuRecentImportList()" NewName="A.ce421a4e57278a625cb3a923da286e16e.cd2be70a2383c27643db233f6f301852f()" />
+<Entry OldName="SimpleRandomWallpaper.RecentFilesHelper.AddRecentFile(String filepath)" NewName="A.ce421a4e57278a625cb3a923da286e16e.ced583197714c199e9c1ff1d6d12a0ef9(String cb844f0320a84177c962fe33183705368)" />
+<Entry OldName="SimpleRandomWallpaper.RecentFilesHelper.ImportListRecent(String filepath)" NewName="A.ce421a4e57278a625cb3a923da286e16e.c581ae8f5c11fbfac244b4b597a13e4d6(String cb844f0320a84177c962fe33183705368)" />
+<Entry OldName="SimpleRandomWallpaper.RecentFilesHelper.AddRecentFolder(String filepath)" NewName="A.ce421a4e57278a625cb3a923da286e16e.c0c86be1909c02c80b92aaa5780004ced(String cb844f0320a84177c962fe33183705368)" />
+<Entry OldName="SimpleRandomWallpaper.RecentFilesHelper.ArrayToListString(String[] str)" NewName="A.ce421a4e57278a625cb3a923da286e16e.c22f90d3008729d6915424b1bc3bf908a(String[] c59818786d3742116cf4c2f37fd014980)" />
+<Entry OldName="SimpleRandomWallpaper.RegistryHelper2..ctor()" NewName="A.cd69cb5e78fedfa466ddf6e46fdee94ac..ctor()" />
+<Entry OldName="SimpleRandomWallpaper.RegistryHelper2.GetKeyValue(String AppRegKey, String keystr)" NewName="A.cd69cb5e78fedfa466ddf6e46fdee94ac.c1f8afa552ad9f0be6c4a3e160f1baf73(String ce1a69473d6d2f2752347058b2a276a08, String ca438b95c603cc96ece7c8d65d1686766)" />
+<Entry OldName="SimpleRandomWallpaper.RegistryHelper2.SetKeyValue(String AppRegKey, String keystr, String keyvalue)" NewName="A.cd69cb5e78fedfa466ddf6e46fdee94ac.cb672ae3907139d0a035d1fae457cffa7(String ce1a69473d6d2f2752347058b2a276a08, String ca438b95c603cc96ece7c8d65d1686766, String cfcc4a63548cbc21030d0d4774bebc502)" />
+<Entry OldName="SimpleRandomWallpaper.RegistryHelper2.GetKeyValueLMLowPriv(String AppRegKey, String keystr)" NewName="A.cd69cb5e78fedfa466ddf6e46fdee94ac.cb558418d4608ae12c5f7ed048453de5b(String ce1a69473d6d2f2752347058b2a276a08, String ca438b95c603cc96ece7c8d65d1686766)" />
+<Entry OldName="SimpleRandomWallpaper.RegistryHelper2.RegisterKeyLmFolder(String app, String key, List`1 lstval)" NewName="A.cd69cb5e78fedfa466ddf6e46fdee94ac.c6d2bdc6a7788cb4004e4de68c4ee9c43(String c287d58d1f00cb37a2895c5332bfcaa32, String cba3b226eeac2b73c0d071a9bb03d32f2, List`1 c91cf0a3efff6d1a87aba58c001b0e5f3)" />
+<Entry OldName="SimpleRandomWallpaper.RegistryHelper2.RegisterKeyFolder(String app, String key, List`1 lstval)" NewName="A.cd69cb5e78fedfa466ddf6e46fdee94ac.c0f775ff230d630f4bb38620f0cf49730(String c287d58d1f00cb37a2895c5332bfcaa32, String cba3b226eeac2b73c0d071a9bb03d32f2, List`1 c91cf0a3efff6d1a87aba58c001b0e5f3)" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags..ctor()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a..ctor()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_ResourceManager()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_ResourceManager()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_Culture()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_Culture()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.set_Culture(CultureInfo value)" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.set_Culture(CultureInfo value)" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_albania()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_albania()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_belarus()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_belarus()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_bulgaria()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_bulgaria()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_china()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_china()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_croatia()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_croatia()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_czech_republic()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_czech_republic()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_denmark()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_denmark()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_estonia()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_estonia()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_finland()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_finland()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_france()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_france()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_georgia()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_georgia()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_germany()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_germany()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_great_britain()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_great_britain()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_greece()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_greece()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_hungary()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_hungary()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_iceland()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_iceland()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_india()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_india()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_indonesia()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_indonesia()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_iran()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_iran()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_ireland()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_ireland()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_israel()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_israel()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_italy()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_italy()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_japan()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_japan()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_kenya()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_kenya()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_latvia()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_latvia()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_lithuania()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_lithuania()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_netherlands()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_netherlands()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_norway()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_norway()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_pakistan()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_pakistan()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_philippines()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_philippines()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_poland()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_poland()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_portugal()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_portugal()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_romania()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_romania()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_russia()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_russia()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_saudi_arabia()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_saudi_arabia()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_serbia_montenegro()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_serbia_montenegro()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_slovakia()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_slovakia()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_slovenia()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_slovenia()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_south_africa()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_south_africa()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_south_korea()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_south_korea()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_spain()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_spain()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_sweden()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_sweden()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_taiwan()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_taiwan()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_thailand()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_thailand()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_turkey()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_turkey()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_ukraine()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_ukraine()" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags.get_flag_vietnam()" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a.get_flag_vietnam()" />
+<Entry OldName="SimpleRandomWallpaper.ResTranslate..ctor()" NewName="A.c2f949b064c3543be618e3ce60341a880..ctor()" />
+<Entry OldName="SimpleRandomWallpaper.ResTranslate.get_ResourceManager()" NewName="A.c2f949b064c3543be618e3ce60341a880.get_ResourceManager()" />
+<Entry OldName="SimpleRandomWallpaper.ResTranslate.get_Culture()" NewName="A.c2f949b064c3543be618e3ce60341a880.get_Culture()" />
+<Entry OldName="SimpleRandomWallpaper.ResTranslate.set_Culture(CultureInfo value)" NewName="A.c2f949b064c3543be618e3ce60341a880.set_Culture(CultureInfo value)" />
+<Entry OldName="SimpleRandomWallpaper.TranslateHelper..ctor()" NewName="A.c77daec8910f03aeaac8b06fa67e612d3..ctor()" />
+<Entry OldName="SimpleRandomWallpaper.TranslateHelper..cctor()" NewName="A.c77daec8910f03aeaac8b06fa67e612d3..cctor()" />
+<Entry OldName="SimpleRandomWallpaper.TranslateHelper.Translate(String str)" NewName="A.c77daec8910f03aeaac8b06fa67e612d3.cc68ecfa5db3cb4eda87d8a433f990fc3(String c59818786d3742116cf4c2f37fd014980)" />
+<Entry OldName="SimpleRandomWallpaper.ucTextProgressBar.InitializeComponent()" NewName="SimpleRandomWallpaper.ucTextProgressBar.c05cf1beef693860dc84c34c8b14a5050()" />
+<Entry OldName="SimpleRandomWallpaper.UpdateHelper.bwCheckVersion_ProgressChanged(Object sender, ProgressChangedEventArgs e)" NewName="SimpleRandomWallpaper.UpdateHelper.cce3c669368cfd13365eb9f2fb156f269(Object c5a9247ac2d444816b0c5646f66f8d3d5, ProgressChangedEventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.UpdateHelper.bwCheckVersion_RunWorkerCompleted(Object sender, RunWorkerCompletedEventArgs e)" NewName="SimpleRandomWallpaper.UpdateHelper.c6e705a09e052e762ecd91b9ac4e11b53(Object c5a9247ac2d444816b0c5646f66f8d3d5, RunWorkerCompletedEventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.UpdateHelper.bwCheckVersion_DoWork(Object sender, DoWorkEventArgs e)" NewName="SimpleRandomWallpaper.UpdateHelper.cd109b4f50ddee8d9d6618d9b9e48af3f(Object c5a9247ac2d444816b0c5646f66f8d3d5, DoWorkEventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.WallpaperChanger..ctor()" NewName="A.c455b444cc97b78d49644caa07ebdff1b..ctor()" />
+<Entry OldName="SimpleRandomWallpaper.WallpaperChanger..cctor()" NewName="A.c455b444cc97b78d49644caa07ebdff1b..cctor()" />
+<Entry OldName="SimpleRandomWallpaper.WallpaperChanger.SystemParametersInfo(UInt32 uiAction, UInt32 uiParam, String pvParam, UInt32 fWinIni)" NewName="A.c455b444cc97b78d49644caa07ebdff1b.c9d3e800d09998167387e9da07ea81d50(UInt32 c35e2a90a76237169497611dc7c71c6fc, UInt32 c337a5e6c826517e287283793980e1c57, String c628048eeb4443f0a6bd490111c4df168, UInt32 c6627685c7e213e5469029091670ac3a0)" />
+<Entry OldName="SimpleRandomWallpaper.WallpaperChanger.FindWindow(String lpClassName, String lpWindowName)" NewName="A.c455b444cc97b78d49644caa07ebdff1b.c54238cc87277ba5c31aa0ad806127ad5(String cca8cc76f8e7c774d35dae39c29d7050b, String c587ea6e2140850b91c5f1e8f58f44fcb)" />
+<Entry OldName="SimpleRandomWallpaper.WallpaperChanger.SetParent(IntPtr hWndChild, IntPtr hWndNewParent)" NewName="A.c455b444cc97b78d49644caa07ebdff1b.c420c2f407ee5985857f13a32dcc5dcec(IntPtr c4246b4613ddde55d3d5530165f305010, IntPtr ce8d55738bcd526979abfbfae60d7d806)" />
+<Entry OldName="SimpleRandomWallpaper.WallpaperChanger.GetDesktopWindow()" NewName="A.c455b444cc97b78d49644caa07ebdff1b.c9ba9d5e4735e79d78624e0e3f1f921cf()" />
+<Entry OldName="SimpleRandomWallpaper.WallpaperChanger.SetWallpaper(String file)" NewName="A.c455b444cc97b78d49644caa07ebdff1b.cf7c9048315023e073f9e7275f5488cc4(String c35739f499b3ca14f33020ab42c3bb087)" />
+<Entry OldName="SimpleRandomWallpaper.WallpaperChanger.SetRandomWallpaper(String sid)" NewName="A.c455b444cc97b78d49644caa07ebdff1b.c2881223d6fb34b7c4c81eb69928bde92(String c418a36d5f71229385c2e1de11b2ce718)" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources..ctor()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e..ctor()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_ResourceManager()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_ResourceManager()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_Culture()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_Culture()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.set_Culture(CultureInfo value)" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.set_Culture(CultureInfo value)" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get__4dots_logo_official()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get__4dots_logo_official()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get__4dots_logo_official_icon()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get__4dots_logo_official_icon()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_about()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_about()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_add()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_add()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_add1()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_add1()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_arrow_down_green()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_arrow_down_green()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_arrow_left_blue()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_arrow_left_blue()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_arrow_right_blue()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_arrow_right_blue()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_arrow_up_green()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_arrow_up_green()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_brush2()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_brush2()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_brush4()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_brush4()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_bullet_ball_glass_blue()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_bullet_ball_glass_blue()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_bullet_ball_glass_blue_16()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_bullet_ball_glass_blue_16()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_bullet_ball_glass_green()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_bullet_ball_glass_green()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_bullet_ball_glass_red()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_bullet_ball_glass_red()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_bullet_ball_glass_yellow()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_bullet_ball_glass_yellow()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_cart_icon_b_24()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_cart_icon_b_24()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_check()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_check()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_copy()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_copy()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_cut()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_cut()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_delete()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_delete()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_delete1()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_delete1()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_disk_blue()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_disk_blue()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_document_preferences()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_document_preferences()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_earth()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_earth()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_edit()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_edit()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_exit()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_exit()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_exit1()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_exit1()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_facebook_24()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_facebook_24()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_facebook_32()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_facebook_32()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_flash()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_flash()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_flash1()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_flash1()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_folder()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_folder()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_folder_add()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_folder_add()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_folder1()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_folder1()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_googleplus_24()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_googleplus_24()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_help2()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_help2()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_import1()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_import1()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_information()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_information()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_key1()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_key1()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_linkedin_24()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_linkedin_24()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_mail()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_mail()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_media_pause()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_media_pause()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_media_stop()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_media_stop()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_navigate_beginning()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_navigate_beginning()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_navigate_end()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_navigate_end()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_preferences()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_preferences()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_simple_random_wallpaper_48()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_simple_random_wallpaper_48()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_twitter_24()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_twitter_24()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_twitter_32()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_twitter_32()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_warning()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_warning()" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources.get_youtube_32()" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e.get_youtube_32()" />
+<Entry OldName="SimpleRandomWallpaper.ExcelImporter" NewName="A.c2a13df5e462cf4facb9e52b502d6c208" />
+<Entry OldName="SimpleRandomWallpaper.ExceptionHandlersHelper" NewName="A.c8094f4caa934d9fbc42056bef2261a21" />
+<Entry OldName="SimpleRandomWallpaper.ImageComboBox" NewName="A.c9d47ddc4471b32f5db56a247485dc81c" />
+<Entry OldName="SimpleRandomWallpaper.ComboBoxExItem" NewName="A.c88e926907bbfab22d92f1153db9d58f5" />
+<Entry OldName="SimpleRandomWallpaper.Module" NewName="A.cda38844ba405854cb27ba3d0739041aa" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions+SW" NewName="SimpleRandomWallpaper.ProcessExtensions+caed9c71746a5c048fc941d4ce569c743" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions+WTS_CONNECTSTATE_CLASS" NewName="SimpleRandomWallpaper.ProcessExtensions+c219539e0435441699242423976cf05bf" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions+PROCESS_INFORMATION" NewName="SimpleRandomWallpaper.ProcessExtensions+c688d5e64d319ae749e881697e4068afe" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions+SECURITY_IMPERSONATION_LEVEL" NewName="SimpleRandomWallpaper.ProcessExtensions+c92ce1fb26148560e1b294afcceb8ab6c" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions+STARTUPINFO" NewName="SimpleRandomWallpaper.ProcessExtensions+c333a5865f9ef424e5a654aa2d9d4ccda" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions+TOKEN_TYPE" NewName="SimpleRandomWallpaper.ProcessExtensions+c32de807db017fd2ff5b98c40fcd1af0c" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions+WTS_SESSION_INFO" NewName="SimpleRandomWallpaper.ProcessExtensions+cb76f82fb2d5f99c4670b203e1f0ffe85" />
+<Entry OldName="SimpleRandomWallpaper.ProcessExtensions+TOKEN_INFORMATION_CLASS" NewName="SimpleRandomWallpaper.ProcessExtensions+cded7b3c2ce43e1c2869f832630a9b25c" />
+<Entry OldName="SimpleRandomWallpaper.Program" NewName="A.c74ba11ec8a0529f6fef327fb932b19c1" />
+<Entry OldName="SimpleRandomWallpaper.RecentFilesHelper" NewName="A.ce421a4e57278a625cb3a923da286e16e" />
+<Entry OldName="SimpleRandomWallpaper.RegistryHelper2" NewName="A.cd69cb5e78fedfa466ddf6e46fdee94ac" />
+<Entry OldName="SimpleRandomWallpaper.ResFlags" NewName="A.c9ce9b048ba97c9eda33a9c939a91314a" />
+<Entry OldName="SimpleRandomWallpaper.ResTranslate" NewName="A.c2f949b064c3543be618e3ce60341a880" />
+<Entry OldName="SimpleRandomWallpaper.TranslateHelper" NewName="A.c77daec8910f03aeaac8b06fa67e612d3" />
+<Entry OldName="SimpleRandomWallpaper.WallpaperChanger" NewName="A.c455b444cc97b78d49644caa07ebdff1b" />
+<Entry OldName="SimpleRandomWallpaper.Properties.Resources" NewName="A.cce23ac33d5b66f0ea41891fdbf10196e" />
+<Assembly Name="SimpleRandomWallpaper"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Method Token="100663297" Name="" Variables="" ParamCnt="0" />
+<Type Token="33554434" Name="SimpleRandomWallpaper.CustomForm" />
+<Method Token="100663298" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663299" Name="OnLoad" Variables="this;e;V_0;co;V_2;V_3;V_4;V_5;ex;" ParamCnt="2" />
+<Method Token="100663300" Name="CustomForm_Activated" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663301" Name="OnActivated" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663302" Name="ResizeControls" Variables="this;V_0;k;V_2;k;left;right;top;bottom;height;V_9;j;V_11;V_12;V_13;chk;V_15;chk;V_17;chk;V_19;V_20;" ParamCnt="1" />
+<Method Token="100663303" Name="ResizeChildControls" Variables="this;co;k;V_1;k;left;right;top;bottom;height;V_8;j;V_10;V_11;V_12;chk;V_14;chk;V_16;chk;V_18;V_19;" ParamCnt="2" />
+<Method Token="100663304" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663305" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67108865" Name="LoadComplete" />
+<Field Token="67108866" Name="tooltip" />
+<Field Token="67108867" Name="components" />
+<Type Token="33554436" Name="SimpleRandomWallpaper.ExcelImporter" />
+<Method Token="100663307" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663308" Name="ImportListExcel" Variables="this;filepath;stream;excelReader;curdir;result;V_4;V_5;V_6;m;k;V_9;file;exk;V_12;V_13;V_14;" ParamCnt="2" />
+<Method Token="100663309" Name="GetPart" Variables="part;V_0;epos;V_2;V_3;epos;V_5;V_6;" ParamCnt="1" />
+<Type Token="33554437" Name="SimpleRandomWallpaper.ExceptionHandlersHelper" />
+<Method Token="100663310" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663311" Name="AddUnhandledExceptionHandlers" Variables="" ParamCnt="0" />
+<Method Token="100663312" Name="myExceptionHandler" Variables="sender;e;ex;" ParamCnt="2" />
+<Method Token="100663313" Name="myThreadExceptionHandler" Variables="sender;e;" ParamCnt="2" />
+<Type Token="33554439" Name="SimpleRandomWallpaper.frmAbout" />
+<Method Token="100663320" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663321" Name="frmAbout_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663322" Name="btnClose_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663323" Name="linkLabel1_LinkClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663324" Name="linkLabel2_LinkClicked" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663325" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663326" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108869" Name="components" />
+<Field Token="67108870" Name="lblAbout" />
+<Field Token="67108871" Name="btnClose" />
+<Field Token="67108872" Name="pictureBox1" />
+<Field Token="67108873" Name="linkLabel1" />
+<Field Token="67108874" Name="label1" />
+<Field Token="67108875" Name="label2" />
+<Field Token="67108876" Name="linkLabel2" />
+<Field Token="67108877" Name="niceLine1" />
+<Field Token="67108878" Name="niceLine3" />
+<Field Token="67108879" Name="label3" />
+<Field Token="67108880" Name="ullProductWebpage" />
+<Field Token="67108881" Name="niceLine2" />
+<Field Token="67108882" Name="niceLine4" />
+<Type Token="33554440" Name="SimpleRandomWallpaper.frmDownloadUpdate" />
+<Method Token="100663327" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663328" Name="get_DownloadFile" Variables="this;V_0;spos;file;tempdir;V_4;" ParamCnt="1" />
+<Method Token="100663329" Name="get_DownloadURL" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663330" Name="frmDownloadUpdate_Load" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663331" Name="client_DownloadFileCompleted" Variables="this;sender;e;V_0;ex;" ParamCnt="3" />
+<Method Token="100663332" Name="client_DownloadProgressChanged" Variables="this;sender;e;ukb;umb;V_2;" ParamCnt="3" />
+<Method Token="100663333" Name="GetEXEDownloadURL" Variables="this;durl;V_1;spos;program;V_4;V_5;" ParamCnt="1" />
+<Method Token="100663334" Name="btnCancelDownload_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663335" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663336" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108883" Name="_DownloadFile" />
+<Field Token="67108884" Name="client" />
+<Field Token="67108885" Name="Cancelled" />
+<Field Token="67108886" Name="components" />
+<Field Token="67108887" Name="pgBar" />
+<Field Token="67108888" Name="btnCancelDownload" />
+<Field Token="67108889" Name="bwDownload" />
+<Field Token="67108890" Name="label1" />
+<Field Token="67108891" Name="lblTotalSize" />
+<Type Token="33554441" Name="SimpleRandomWallpaper.frmError" />
+<Method Token="100663337" Name=".ctor" Variables="this;lbl;txt;" ParamCnt="3" />
+<Method Token="100663338" Name="btnClose_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663339" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663340" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108892" Name="components" />
+<Field Token="67108893" Name="txtError" />
+<Field Token="67108894" Name="pictureBox1" />
+<Field Token="67108895" Name="lblError" />
+<Field Token="67108896" Name="btnClose" />
+<Type Token="33554442" Name="SimpleRandomWallpaper.frmLanguage" />
+<Method Token="100663341" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663342" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663343" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663344" Name="DownloadLanguage" Variables="langcode;lastversion;languagesdownloaded;resetlangdown;dllfile;downurl;lang_has_been_downloaded;V_3;V_4;V_5;V_6;pr;V_8;V_9;V_10;" ParamCnt="4" />
+<Method Token="100663345" Name="SetLanguages" Variables="" ParamCnt="0" />
+<Method Token="100663346" Name="frmLanguage_Load" Variables="this;sender;e;k;V_1;" ParamCnt="3" />
+<Method Token="100663347" Name="SetLanguage" Variables="lang;setlang;lastversion;languagesdownloaded;resetlangdown;keym;keym2;V_7;V_8;V_9;V_10;V_11;V_12;fl;V_14;V_15;V_16;ex;" ParamCnt="0" />
+<Method Token="100663348" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663349" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108897" Name="LangCodes" />
+<Field Token="67108898" Name="LangDesc" />
+<Field Token="67108899" Name="LangImg" />
+<Field Token="67108900" Name="SelectedLanguageCode" />
+<Field Token="67108901" Name="LangURL" />
+<Field Token="67108902" Name="RegKeyName" />
+<Field Token="67108903" Name="components" />
+<Field Token="67108904" Name="label1" />
+<Field Token="67108905" Name="cmbLanguage" />
+<Field Token="67108906" Name="btnOK" />
+<Type Token="33554443" Name="SimpleRandomWallpaper.frmMain" />
+<Method Token="100663350" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663351" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663352" Name="get_IsDirty" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663353" Name="set_IsDirty" Variables="this;value;V_0;" ParamCnt="2" />
+<Method Token="100663354" Name="tsdbAddFile_ButtonClick" Variables="this;sender;e;V_0;k;V_2;V_3;f;" ParamCnt="3" />
+<Method Token="100663355" Name="tsdbAddFile_DropDownItemClicked" Variables="this;sender;e;V_0;f;" ParamCnt="3" />
+<Method Token="100663356" Name="tsbRemove_Click" Variables="this;sender;e;cells;rows;k;V_3;V_4;k;V_6;" ParamCnt="3" />
+<Method Token="100663357" Name="tsbClear_Click" Variables="this;sender;e;dres;V_1;" ParamCnt="3" />
+<Method Token="100663358" Name="tsdbAddFolder_ButtonClick" Variables="this;sender;e;V_0;V_1;f;" ParamCnt="3" />
+<Method Token="100663359" Name="tsdbAddFolder_DropDownItemClicked" Variables="this;sender;e;V_0;f;" ParamCnt="3" />
+<Method Token="100663360" Name="ImportList" Variables="this;listfilepath;curdir;sr;line;filepath;password;V_5;compos;V_7;epos;V_9;V_10;epos;V_12;V_13;V_14;V_15;V_16;exq;V_18;V_19;V_20;ex;" ParamCnt="2" />
+<Method Token="100663361" Name="tsdbImportList_ButtonClick" Variables="this;sender;e;V_0;V_1;f;" ParamCnt="3" />
+<Method Token="100663362" Name="tsdbImportList_DropDownItemClicked" Variables="this;sender;e;V_0;f;" ParamCnt="3" />
+<Method Token="100663363" Name="AddFile" Variables="this;filepath;ext;dr;fi;sizekb;V_4;V_5;" ParamCnt="2" />
+<Method Token="100663364" Name="AddFolder" Variables="this;folder_path;subdirs;silent;V_0;V_1;dres;V_3;dr;di;V_6;" ParamCnt="4" />
+<Method Token="100663365" Name="SetupOnLoad" Variables="this;enabled;interval;enableforall;lstimg;regkey;regkey2;valnames;V_7;V_8;V_9;V_10;V_11;intervalSecs;ts;V_14;V_15;V_16;V_17;V_18;k;line;subdirs;V_22;V_23;V_24;V_25;" ParamCnt="1" />
+<Method Token="100663366" Name="AdjustSizeLocation" Variables="this;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;" ParamCnt="1" />
+<Method Token="100663367" Name="SaveSizeLocation" Variables="this;" ParamCnt="1" />
+<Method Token="100663368" Name="AddLanguageMenuItems" Variables="this;k;ti;V_2;V_3;V_4;" ParamCnt="1" />
+<Method Token="100663369" Name="tiLang_Click" Variables="this;sender;e;ti;langcode;k;til;V_4;V_5;k;til;V_8;V_9;" ParamCnt="3" />
+<Method Token="100663370" Name="ChangeLanguage" Variables="this;language_code;maximized;V_1;" ParamCnt="2" />
+<Method Token="100663371" Name="frmMain_Load" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663372" Name="AddVisual" Variables="this;argsvisual;k;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663373" Name="helpGuideToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663374" Name="pleaseDonateToolStripMenuItem1_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663375" Name="dotsSoftwarePRODUCTCATALOGToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663376" Name="aboutToolStripMenuItem_Click" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663377" Name="tiHelpFeedback_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663378" Name="followUsOnTwitterToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663379" Name="visit4dotsSoftwareWebsiteToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663380" Name="checkForNewVersionToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663381" Name="exitToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663382" Name="frmMain_FormClosing" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663383" Name="selectAllToolStripMenuItem_Click" Variables="this;sender;e;k;V_1;" ParamCnt="3" />
+<Method Token="100663384" Name="seelctNoneToolStripMenuItem_Click" Variables="this;sender;e;k;V_1;" ParamCnt="3" />
+<Method Token="100663385" Name="invertSelectionToolStripMenuItem_Click" Variables="this;sender;e;k;V_1;" ParamCnt="3" />
+<Method Token="100663386" Name="openToolStripMenuItem_Click" Variables="this;sender;e;drv;dr;filepath;V_3;" ParamCnt="3" />
+<Method Token="100663387" Name="exploreToolStripMenuItem_Click" Variables="this;sender;e;drv;dr;filepath;args;info;" ParamCnt="3" />
+<Method Token="100663388" Name="copyFullFilePathToolStripMenuItem_Click" Variables="this;sender;e;drv;dr;filepath;" ParamCnt="3" />
+<Method Token="100663389" Name="cmsFiles_Opening" Variables="this;sender;e;p;hit;V_2;V_3;V_4;" ParamCnt="3" />
+<Method Token="100663390" Name="dgFiles_DragEnter" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663391" Name="dgFiles_DragOver" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663392" Name="dgFiles_DragDrop" Variables="this;sender;e;V_0;filez;k;V_3;V_4;V_5;" ParamCnt="3" />
+<Method Token="100663393" Name="saveDocumentsListToolStripMenuItem_Click" Variables="this;sender;e;opf;V_1;sw;k;V_4;" ParamCnt="3" />
+<Method Token="100663394" Name="dgFiles_CellFormatting" Variables="this;sender;e;V_0;dv;V_2;" ParamCnt="3" />
+<Method Token="100663395" Name="dgFiles_CellClick" Variables="this;sender;e;V_0;fp;V_2;img;" ParamCnt="3" />
+<Method Token="100663396" Name="nudD_ValueChanged" Variables="this;sender;e;ts;V_1;" ParamCnt="3" />
+<Method Token="100663397" Name="chkDisable_CheckedChanged" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663398" Name="btnExit_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663399" Name="btnOK_Click" Variables="this;sender;e;file;lstimg;ts;args;suc;sw;k;V_7;V_8;subdirs;strsubdirs;V_11;V_12;V_13;V_14;V_15;" ParamCnt="3" />
+<Method Token="100663400" Name="importListFromExcelFileToolStripMenuItem_Click" Variables="this;sender;e;openFileDialog1;V_1;xl;" ParamCnt="3" />
+<Method Token="100663401" Name="enterListOfFIlesToolStripMenuItem_Click" Variables="this;sender;e;txt;f;k;V_3;V_4;k;V_6;V_7;V_8;" ParamCnt="3" />
+<Method Token="100663402" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663403" Name="InitializeComponent" Variables="this;resources;dataGridViewCellStyle1;" ParamCnt="1" />
+<Field Token="67108907" Name="Instance" />
+<Field Token="67108908" Name="SilentAdd" />
+<Field Token="67108909" Name="SilentAddErr" />
+<Field Token="67108910" Name="Err" />
+<Field Token="67108911" Name="dt" />
+<Field Token="67108912" Name="dtClipboard" />
+<Field Token="67108913" Name="_IsDirty" />
+<Field Token="67108914" Name="InChangeLanguage" />
+<Field Token="67108915" Name="components" />
+<Field Token="67108916" Name="menuStrip1" />
+<Field Token="67108917" Name="fileToolStripMenuItem" />
+<Field Token="67108918" Name="addFilesToolStripMenuItem" />
+<Field Token="67108919" Name="addFoldersToolStripMenuItem" />
+<Field Token="67108920" Name="importListToolStripMenuItem" />
+<Field Token="67108921" Name="toolStripMenuItem2" />
+<Field Token="67108922" Name="exitToolStripMenuItem" />
+<Field Token="67108923" Name="editToolStripMenuItem" />
+<Field Token="67108924" Name="removeToolStripMenuItem" />
+<Field Token="67108925" Name="clearToolStripMenuItem" />
+<Field Token="67108926" Name="selectAllToolStripMenuItem" />
+<Field Token="67108927" Name="seelctNoneToolStripMenuItem" />
+<Field Token="67108928" Name="invertSelectionToolStripMenuItem" />
+<Field Token="67108929" Name="languageToolStripMenuItem" />
+<Field Token="67108930" Name="languages1ToolStripMenuItem" />
+<Field Token="67108931" Name="languages2ToolStripMenuItem" />
+<Field Token="67108932" Name="helpToolStripMenuItem" />
+<Field Token="67108933" Name="helpGuideToolStripMenuItem" />
+<Field Token="67108934" Name="pleaseDonateToolStripMenuItem1" />
+<Field Token="67108935" Name="dotsSoftwarePRODUCTCATALOGToolStripMenuItem" />
+<Field Token="67108936" Name="tiHelpFeedback" />
+<Field Token="67108937" Name="checkForNewVersionToolStripMenuItem" />
+<Field Token="67108938" Name="toolStripMenuItem1" />
+<Field Token="67108939" Name="followUsOnTwitterToolStripMenuItem" />
+<Field Token="67108940" Name="visit4dotsSoftwareWebsiteToolStripMenuItem" />
+<Field Token="67108941" Name="aboutToolStripMenuItem" />
+<Field Token="67108942" Name="dgFiles" />
+<Field Token="67108943" Name="toolStrip1" />
+<Field Token="67108944" Name="tsdbAddFile" />
+<Field Token="67108945" Name="tsbRemove" />
+<Field Token="67108946" Name="toolStripSeparator3" />
+<Field Token="67108947" Name="tsdbAddFolder" />
+<Field Token="67108948" Name="tsdbImportList" />
+<Field Token="67108949" Name="toolStripSeparator2" />
+<Field Token="67108950" Name="openFileDialog1" />
+<Field Token="67108951" Name="folderBrowserDialog1" />
+<Field Token="67108952" Name="cmsFiles" />
+<Field Token="67108953" Name="openToolStripMenuItem" />
+<Field Token="67108954" Name="exploreToolStripMenuItem" />
+<Field Token="67108955" Name="copyFullFilePathToolStripMenuItem" />
+<Field Token="67108956" Name="lblTotal" />
+<Field Token="67108957" Name="saveDocumentsListToolStripMenuItem" />
+<Field Token="67108958" Name="picImage" />
+<Field Token="67108959" Name="colFolder" />
+<Field Token="67108960" Name="colFilename" />
+<Field Token="67108961" Name="colSize" />
+<Field Token="67108962" Name="colFileDate" />
+<Field Token="67108963" Name="colFullFilePath" />
+<Field Token="67108964" Name="label1" />
+<Field Token="67108965" Name="lblS" />
+<Field Token="67108966" Name="lblM" />
+<Field Token="67108967" Name="lblH" />
+<Field Token="67108968" Name="nudS" />
+<Field Token="67108969" Name="label2" />
+<Field Token="67108970" Name="nudM" />
+<Field Token="67108971" Name="label4" />
+<Field Token="67108972" Name="nudH" />
+<Field Token="67108973" Name="label5" />
+<Field Token="67108974" Name="chkEnableForAllUsers" />
+<Field Token="67108975" Name="label6" />
+<Field Token="67108976" Name="nudD" />
+<Field Token="67108977" Name="label7" />
+<Field Token="67108978" Name="btnOK" />
+<Field Token="67108979" Name="btnExit" />
+<Field Token="67108980" Name="chkEnableCurrentUser" />
+<Field Token="67108981" Name="importListFromExcelFileToolStripMenuItem" />
+<Field Token="67108982" Name="enterListOfFIlesToolStripMenuItem" />
+<Field Token="67108983" Name="checkForNewVersionEachWeekToolStripMenuItem" />
+<Type Token="33554444" Name="SimpleRandomWallpaper.frmMessage" />
+<Method Token="100663404" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663405" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663406" Name="frmMessage_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663407" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663408" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108984" Name="components" />
+<Field Token="67108985" Name="lblMsg" />
+<Field Token="67108986" Name="txtMsg" />
+<Field Token="67108987" Name="btnOK" />
+<Field Token="67108988" Name="chkShow" />
+<Type Token="33554445" Name="SimpleRandomWallpaper.frmMultipleFiles" />
+<Method Token="100663409" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663410" Name=".ctor" Variables="this;txt;" ParamCnt="2" />
+<Method Token="100663411" Name="btnCancel_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663412" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663413" Name="frmMultipleFiles_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663414" Name="frmMultipleFiles_Activated" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663415" Name="btnBrowse_Click" Variables="this;sender;e;V_0;k;V_2;" ParamCnt="3" />
+<Method Token="100663416" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663417" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108989" Name="Output" />
+<Field Token="67108990" Name="BatchJoin" />
+<Field Token="67108991" Name="components" />
+<Field Token="67108992" Name="lblBatchJoin" />
+<Field Token="67108993" Name="btnCancel" />
+<Field Token="67108994" Name="btnOK" />
+<Field Token="67108995" Name="txtFiles" />
+<Field Token="67108996" Name="label2" />
+<Field Token="67108997" Name="btnBrowse" />
+<Field Token="67108998" Name="openFileDialog1" />
+<Type Token="33554446" Name="SimpleRandomWallpaper.ImageComboBox" />
+<Method Token="100663418" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663419" Name="get_ImageList" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663420" Name="set_ImageList" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663421" Name="OnDrawItem" Variables="this;ea;item;imageSize;bounds;V_3;V_4;" ParamCnt="2" />
+<Field Token="67108999" Name="imageList" />
+<Type Token="33554447" Name="SimpleRandomWallpaper.ComboBoxExItem" />
+<Method Token="100663422" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663423" Name=".ctor" Variables="this;text;" ParamCnt="2" />
+<Method Token="100663424" Name=".ctor" Variables="this;text;imageIndex;" ParamCnt="3" />
+<Method Token="100663425" Name="get_Text" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663426" Name="set_Text" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663427" Name="get_ImageIndex" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663428" Name="set_ImageIndex" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663429" Name="ToString" Variables="this;V_0;" ParamCnt="1" />
+<Field Token="67109000" Name="_text" />
+<Field Token="67109001" Name="_imageIndex" />
+<Type Token="33554449" Name="SimpleRandomWallpaper.Module" />
+<Method Token="100663433" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663434" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663435" Name="IsPDFDocument" Variables="filepath;ext;V_1;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663436" Name="get_TempFolder" Variables="path;V_1;V_2;" ParamCnt="0" />
+<Method Token="100663437" Name="SendMessage" Variables="hWnd;wMsg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663438" Name="LockWindowUpdate" Variables="hWndLock;" ParamCnt="1" />
+<Method Token="100663439" Name="WaitNMSeconds" Variables="mseconds;_desired;V_1;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663440" Name="IsLegalFilename" Variables="name;fileInfo;V_1;" ParamCnt="1" />
+<Method Token="100663441" Name="GetRelativePath" Variables="mainDirPath;absoluteFilePath;firstPathParts;secondPathParts;sameCounter;newPath;i;V_5;V_6;V_7;V_8;i;V_10;V_11;V_12;V_13;i;V_15;" ParamCnt="2" />
+<Method Token="100663442" Name="ShowMessage" Variables="msg;V_0;" ParamCnt="1" />
+<Method Token="100663443" Name="ShowQuestionDialog" Variables="msg;caption;V_0;" ParamCnt="2" />
+<Method Token="100663444" Name="ShowError" Variables="ex;" ParamCnt="1" />
+<Method Token="100663445" Name="ShowError" Variables="msg;V_0;f;" ParamCnt="1" />
+<Method Token="100663446" Name="ShowError" Variables="msg;ex;" ParamCnt="2" />
+<Method Token="100663447" Name="ShowError" Variables="msg;exstr;" ParamCnt="2" />
+<Method Token="100663448" Name="CurrentDomain_ProcessExit" Variables="sender;e;" ParamCnt="2" />
+<Method Token="100663449" Name="ShowQuestionDialogYesFocus" Variables="msg;caption;V_0;" ParamCnt="2" />
+<Method Token="100663450" Name="IsAcceptableMediaInput" Variables="filepath;fi;V_1;V_2;" ParamCnt="1" />
+<Method Token="100663451" Name="get_Modex64" Variables="V_0;V_1;V_2;V_3;V_4;" ParamCnt="0" />
+<Method Token="100663452" Name="DownloadPage" Variables="uri;client;data;reader;s;V_4;ex;" ParamCnt="1" />
+<Method Token="100663453" Name="HexConverter" Variables="c;rtn;V_1;ex;V_3;" ParamCnt="1" />
+<Method Token="100663454" Name="DecimalToString" Variables="dec;V_0;" ParamCnt="1" />
+<Method Token="100663455" Name="DecimalToString" Variables="dec;decimal_places;format;V_1;k;V_3;V_4;" ParamCnt="2" />
+<Method Token="100663456" Name="StringToDecimal" Variables="str;epos;V_1;V_2;V_3;V_4;ihask;sintegral;integral_part;V_8;ihask;sintegral;integral_part;sdecimal;decimal_part;d10;ddecimal_part;ddec;dintegral_part;d;V_19;k;V_21;V_22;" ParamCnt="1" />
+<Method Token="100663457" Name="get_IsWindows64Bit" Variables="p;V_1;V_2;V_3;" ParamCnt="0" />
+<Method Token="100663458" Name="RunAdminAction" Variables="args;pr;V_1;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663459" Name="DeleteApplicationSettingsFile" Variables="settingsFile;fi;V_2;ex;" ParamCnt="0" />
+<Field Token="67109003" Name="BlueForeColor" />
+<Field Token="67109004" Name="ApplicationName" />
+<Field Token="67109005" Name="Version" />
+<Field Token="67109006" Name="Ver" />
+<Field Token="67109007" Name="ShortApplicationTitle" />
+<Field Token="67109008" Name="ApplicationTitle" />
+<Field Token="67109009" Name="DownloadURL" />
+<Field Token="67109010" Name="HelpURL" />
+<Field Token="67109011" Name="ProductWebpageURL" />
+<Field Token="67109012" Name="BuyURL" />
+<Field Token="67109013" Name="VersionURL" />
+<Field Token="67109014" Name="TipText" />
+<Field Token="67109015" Name="GeneratedTemporaryFiles" />
+<Field Token="67109016" Name="args" />
+<Field Token="67109017" Name="OpenFilesFilter" />
+<Field Token="67109018" Name="AcceptableMediaInputPattern" />
+<Field Token="67109019" Name="AppDataDirectory" />
+<Field Token="67109020" Name="CurrentImagesDirectory" />
+<Field Token="67109021" Name="SelectedLanguage" />
+<Field Token="67109022" Name="IsCommandLine" />
+<Field Token="67109023" Name="IsFromWindowsExplorer" />
+<Field Token="67109024" Name="DoNotOverwriteFiles" />
+<Field Token="67109025" Name="AskBeforeOverwrite" />
+<Field Token="67109026" Name="LeaveSameDateTime" />
+<Field Token="67109027" Name="OutputFilepath" />
+<Field Token="67109028" Name="_Modex64" />
+<Type Token="33554450" Name="SimpleRandomWallpaper.NiceLine" />
+<Method Token="100663460" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663461" Name="get_Caption" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663462" Name="set_Caption" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663463" Name="get_CaptionMarginSpace" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663464" Name="set_CaptionMarginSpace" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663465" Name="get_CaptionPadding" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663466" Name="set_CaptionPadding" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663467" Name="get_LineVerticalAlign" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663468" Name="set_LineVerticalAlign" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663469" Name="get_CaptionOrizontalAlign" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663470" Name="set_CaptionOrizontalAlign" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663471" Name="Dispose" Variables="this;disposing;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663472" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Method Token="100663473" Name="OnPaint" Variables="this;e;ym;captionSizeF;captionLength;beforeCaption;afterCaption;V_5;V_6;V_7;V_8;V_9;V_10;V_11;" ParamCnt="2" />
+<Method Token="100663474" Name="OnResize" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663475" Name="OnFontChanged" Variables="this;e;" ParamCnt="2" />
+<Field Token="67109029" Name="components" />
+<Field Token="67109030" Name="_Caption" />
+<Field Token="67109031" Name="_CaptionMarginSpace" />
+<Field Token="67109032" Name="_CaptionPadding" />
+<Field Token="67109033" Name="_LineVerticalAlign" />
+<Field Token="67109034" Name="_CaptionOrizontalAlign" />
+<Type Token="33554451" Name="SimpleRandomWallpaper.LineVerticalAlign" />
+<Field Token="67109035" Name="value__" />
+<Field Token="67109036" Name="Top" />
+<Field Token="67109037" Name="Middle" />
+<Field Token="67109038" Name="Bottom" />
+<Type Token="33554452" Name="SimpleRandomWallpaper.CaptionOrizontalAlign" />
+<Field Token="67109039" Name="value__" />
+<Field Token="67109040" Name="Left" />
+<Field Token="67109041" Name="Center" />
+<Field Token="67109042" Name="Right" />
+<Type Token="33554454" Name="SimpleRandomWallpaper.ProcessExtensions" />
+<Method Token="100663483" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663484" Name="CreateProcessAsUser" Variables="hToken;lpApplicationName;lpCommandLine;lpProcessAttributes;lpThreadAttributes;bInheritHandle;dwCreationFlags;lpEnvironment;lpCurrentDirectory;lpStartupInfo;lpProcessInformation;" ParamCnt="11" />
+<Method Token="100663485" Name="DuplicateTokenEx" Variables="ExistingTokenHandle;dwDesiredAccess;lpThreadAttributes;TokenType;ImpersonationLevel;DuplicateTokenHandle;" ParamCnt="6" />
+<Method Token="100663486" Name="CreateEnvironmentBlock" Variables="lpEnvironment;hToken;bInherit;" ParamCnt="3" />
+<Method Token="100663487" Name="DestroyEnvironmentBlock" Variables="lpEnvironment;" ParamCnt="1" />
+<Method Token="100663488" Name="CloseHandle" Variables="hSnapshot;" ParamCnt="1" />
+<Method Token="100663489" Name="WTSGetActiveConsoleSessionId" Variables="" ParamCnt="0" />
+<Method Token="100663490" Name="WTSQueryUserToken" Variables="SessionId;phToken;" ParamCnt="2" />
+<Method Token="100663491" Name="WTSEnumerateSessions" Variables="hServer;Reserved;Version;ppSessionInfo;pCount;" ParamCnt="5" />
+<Method Token="100663492" Name="GetSessionUserToken" Variables="phUserToken;bResult;hImpersonationToken;activeSessionId;pSessionInfo;sessionCount;V_5;arrayElementSize;current;i;si;V_10;V_11;V_12;V_13;V_14;" ParamCnt="1" />
+<Method Token="100663493" Name="StartProcessAsCurrentUser" Variables="appPath;cmdLine;workDir;visible;hUserToken;startInfo;procInfo;pEnv;iResultOfCreateProcessAsUser;dwCreationFlags;V_6;V_7;V_8;V_9;V_10;" ParamCnt="4" />
+<Method Token="100663494" Name="ConvertSidToStringSid" Variables="pSID;ptrSid;" ParamCnt="2" />
+<Method Token="100663495" Name="LocalFree" Variables="hMem;" ParamCnt="1" />
+<Method Token="100663496" Name="GetTokenInformation" Variables="TokenHandle;TokenInformationClass;TokenInformation;TokenInformationLength;ReturnLength;" ParamCnt="5" />
+<Method Token="100663497" Name="GetCurrentSessionUsername" Variables="hUserToken;TokenInfLength;Result;TokenInformation;sidstr;V_5;V_6;TokenUser;pstr;ok;V_10;" ParamCnt="0" />
+<Field Token="67109049" Name="CREATE_UNICODE_ENVIRONMENT" />
+<Field Token="67109050" Name="CREATE_NO_WINDOW" />
+<Field Token="67109051" Name="CREATE_NEW_CONSOLE" />
+<Field Token="67109052" Name="INVALID_SESSION_ID" />
+<Field Token="67109053" Name="WTS_CURRENT_SERVER_HANDLE" />
+<Type Token="33554455" Name="SimpleRandomWallpaper.Program" />
+<Method Token="100663498" Name="Main" Variables="args;V_0;str;k;V_3;V_4;V_5;V_6;sid;V_8;" ParamCnt="1" />
+<Method Token="100663499" Name="RemoveQuotes" Variables="str;V_0;V_1;V_2;" ParamCnt="1" />
+<Type Token="33554456" Name="SimpleRandomWallpaper.RecentFilesHelper" />
+<Method Token="100663500" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663501" Name="FillMenuRecentFile" Variables="str;k;V_2;" ParamCnt="0" />
+<Method Token="100663502" Name="FillMenuRecentFolder" Variables="str;k;V_2;" ParamCnt="0" />
+<Method Token="100663503" Name="FillMenuRecentImportList" Variables="str;k;V_2;" ParamCnt="0" />
+<Method Token="100663504" Name="AddRecentFile" Variables="filepath;str;strl;newrec;V_3;k;V_5;" ParamCnt="1" />
+<Method Token="100663505" Name="ImportListRecent" Variables="filepath;str;strl;newrec;V_3;k;V_5;" ParamCnt="1" />
+<Method Token="100663506" Name="AddRecentFolder" Variables="filepath;str;strl;newrec;V_3;k;V_5;" ParamCnt="1" />
+<Method Token="100663507" Name="ArrayToListString" Variables="str;strl;k;V_2;V_3;" ParamCnt="1" />
+<Type Token="33554457" Name="SimpleRandomWallpaper.RegistryHelper2" />
+<Method Token="100663508" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663509" Name="GetKeyValue" Variables="AppRegKey;keystr;key;key2;key3;V_3;V_4;V_5;V_6;V_7;V_8;" ParamCnt="2" />
+<Method Token="100663510" Name="SetKeyValue" Variables="AppRegKey;keystr;keyvalue;key;key2;key3;V_3;V_4;V_5;V_6;V_7;V_8;" ParamCnt="3" />
+<Method Token="100663511" Name="GetKeyValueLMLowPriv" Variables="AppRegKey;keystr;key;key2;key3;V_3;V_4;V_5;V_6;" ParamCnt="2" />
+<Method Token="100663512" Name="RegisterKeyLmFolder" Variables="app;key;lstval;keym;keym2;valnames;V_3;V_4;V_5;V_6;V_7;k;V_9;k;V_11;V_12;" ParamCnt="3" />
+<Method Token="100663513" Name="RegisterKeyFolder" Variables="app;key;lstval;keym;keym2;valnames;V_3;V_4;V_5;V_6;V_7;k;V_9;k;V_11;V_12;" ParamCnt="3" />
+<Type Token="33554458" Name="SimpleRandomWallpaper.ResFlags" />
+<Method Token="100663514" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663515" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
+<Method Token="100663516" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663517" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663518" Name="get_flag_albania" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663519" Name="get_flag_belarus" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663520" Name="get_flag_bulgaria" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663521" Name="get_flag_china" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663522" Name="get_flag_croatia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663523" Name="get_flag_czech_republic" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663524" Name="get_flag_denmark" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663525" Name="get_flag_estonia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663526" Name="get_flag_finland" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663527" Name="get_flag_france" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663528" Name="get_flag_georgia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663529" Name="get_flag_germany" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663530" Name="get_flag_great_britain" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663531" Name="get_flag_greece" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663532" Name="get_flag_hungary" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663533" Name="get_flag_iceland" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663534" Name="get_flag_india" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663535" Name="get_flag_indonesia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663536" Name="get_flag_iran" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663537" Name="get_flag_ireland" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663538" Name="get_flag_israel" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663539" Name="get_flag_italy" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663540" Name="get_flag_japan" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663541" Name="get_flag_kenya" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663542" Name="get_flag_latvia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663543" Name="get_flag_lithuania" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663544" Name="get_flag_netherlands" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663545" Name="get_flag_norway" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663546" Name="get_flag_pakistan" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663547" Name="get_flag_philippines" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663548" Name="get_flag_poland" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663549" Name="get_flag_portugal" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663550" Name="get_flag_romania" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663551" Name="get_flag_russia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663552" Name="get_flag_saudi_arabia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663553" Name="get_flag_serbia_montenegro" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663554" Name="get_flag_slovakia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663555" Name="get_flag_slovenia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663556" Name="get_flag_south_africa" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663557" Name="get_flag_south_korea" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663558" Name="get_flag_spain" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663559" Name="get_flag_sweden" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663560" Name="get_flag_taiwan" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663561" Name="get_flag_thailand" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663562" Name="get_flag_turkey" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663563" Name="get_flag_ukraine" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663564" Name="get_flag_vietnam" Variables="obj;V_1;" ParamCnt="0" />
+<Field Token="67109054" Name="resourceMan" />
+<Field Token="67109055" Name="resourceCulture" />
+<Type Token="33554459" Name="SimpleRandomWallpaper.ResTranslate" />
+<Method Token="100663565" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663566" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
+<Method Token="100663567" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663568" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Field Token="67109056" Name="resourceMan" />
+<Field Token="67109057" Name="resourceCulture" />
+<Type Token="33554460" Name="SimpleRandomWallpaper.TranslateHelper" />
+<Method Token="100663569" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663570" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663571" Name="Translate" Variables="str;V_0;cm;V_2;cm;trnstr;V_5;V_6;V_7;V_8;V_9;V_10;V_11;" ParamCnt="1" />
+<Field Token="67109058" Name="rm" />
+<Field Token="67109059" Name="rm2" />
+<Type Token="33554461" Name="SimpleRandomWallpaper.ucTextProgressBar" />
+<Method Token="100663572" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663573" Name="SetText" Variables="this;str;V_0;" ParamCnt="2" />
+<Method Token="100663574" Name="UpdatePercentage" Variables="this;curval;maxval;perc;" ParamCnt="1" />
+<Method Token="100663575" Name="zOnPaint" Variables="this;e;curval;maxval;perc;rangerect;font;brBack;V_6;fillBrush;sPoint;V_9;p;" ParamCnt="2" />
+<Method Token="100663576" Name="WndProc" Variables="this;m;V_0;V_1;graphics;font;textSize;" ParamCnt="2" />
+<Method Token="100663577" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663578" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67109060" Name="lblText" />
+<Field Token="67109061" Name="WmPaint" />
+<Field Token="67109062" Name="components" />
+<Type Token="33554462" Name="SimpleRandomWallpaper.UpdateHelper" />
+<Method Token="100663579" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663580" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663581" Name="InitializeCheckVersionWeek" Variables="lastcheck;V_1;month;day;year;dtlast;V_6;V_7;V_8;" ParamCnt="0" />
+<Method Token="100663582" Name="InitializeCheckVersion" Variables="" ParamCnt="0" />
+<Method Token="100663583" Name="bwCheckVersion_ProgressChanged" Variables="sender;e;res;V_1;V_2;V_3;fdu;resq;V_6;fdu;" ParamCnt="2" />
+<Method Token="100663584" Name="bwCheckVersion_RunWorkerCompleted" Variables="sender;e;" ParamCnt="2" />
+<Method Token="100663585" Name="bwCheckVersion_DoWork" Variables="sender;e;res;" ParamCnt="2" />
+<Method Token="100663586" Name="CheckVersionBackground" Variables="onstart;res;str;V_3;V_4;V_5;epos;price;V_8;sr;line;found;epos;title;version;app;V_16;verdotpos;vermajor;verminor;curverepos;V_21;curver;dotpos;curmajor;curminor;V_26;V_27;V_28;V_29;V_30;V_31;V_32;V_33;V_34;" ParamCnt="0" />
+<Method Token="100663587" Name="DownloadPage" Variables="uri;client;data;reader;s;V_4;ex;" ParamCnt="1" />
+<Method Token="100663588" Name="CheckVersion" Variables="onstart;str;V_1;sr;line;found;epos;title;version;app;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;" ParamCnt="1" />
+<Field Token="67109063" Name="bwCheckVersion" />
+<Type Token="33554463" Name="SimpleRandomWallpaper.CheckVersionResult" />
+<Method Token="100663589" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Field Token="67109064" Name="NewVersionReleased" />
+<Field Token="67109065" Name="ItIsNecessaryToUpdate" />
+<Field Token="67109066" Name="OutputMessage" />
+<Type Token="33554464" Name="SimpleRandomWallpaper.URLLinkLabel" />
+<Method Token="100663590" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663591" Name="OnClick" Variables="this;e;" ParamCnt="2" />
+<Type Token="33554465" Name="SimpleRandomWallpaper.WallpaperChanger" />
+<Method Token="100663592" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663593" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663594" Name="SystemParametersInfo" Variables="uiAction;uiParam;pvParam;fWinIni;" ParamCnt="4" />
+<Method Token="100663595" Name="FindWindow" Variables="lpClassName;lpWindowName;" ParamCnt="2" />
+<Method Token="100663596" Name="SetParent" Variables="hWndChild;hWndNewParent;" ParamCnt="2" />
+<Method Token="100663597" Name="GetDesktopWindow" Variables="" ParamCnt="0" />
+<Method Token="100663598" Name="SetWallpaper" Variables="file;tpath;filez;npath;img;V_4;k;fi;V_7;V_8;V_9;" ParamCnt="1" />
+<Method Token="100663599" Name="SetRandomWallpaper" Variables="sid;lstimg;regkey;regkey2;valnames;r;l;wfile;V_7;V_8;V_9;V_10;k;line;subdirs;V_14;V_15;V_16;filez;V_18;m;V_20;V_21;V_22;V_23;V_24;V_25;" ParamCnt="1" />
+<Field Token="67109067" Name="SPI_SETDESKWALLPAPER" />
+<Field Token="67109068" Name="SPIF_UPDATEINIFILE" />
+<Field Token="67109069" Name="SettingsFolder" />
+<Type Token="33554466" Name="SimpleRandomWallpaper.Properties.Resources" />
+<Method Token="100663600" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663601" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
+<Method Token="100663602" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663603" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663604" Name="get__4dots_logo_official" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663605" Name="get__4dots_logo_official_icon" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663606" Name="get_about" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663607" Name="get_add" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663608" Name="get_add1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663609" Name="get_arrow_down_green" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663610" Name="get_arrow_left_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663611" Name="get_arrow_right_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663612" Name="get_arrow_up_green" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663613" Name="get_brush2" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663614" Name="get_brush4" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663615" Name="get_bullet_ball_glass_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663616" Name="get_bullet_ball_glass_blue_16" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663617" Name="get_bullet_ball_glass_green" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663618" Name="get_bullet_ball_glass_red" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663619" Name="get_bullet_ball_glass_yellow" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663620" Name="get_cart_icon_b_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663621" Name="get_check" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663622" Name="get_copy" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663623" Name="get_cut" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663624" Name="get_delete" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663625" Name="get_delete1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663626" Name="get_disk_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663627" Name="get_document_preferences" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663628" Name="get_earth" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663629" Name="get_edit" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663630" Name="get_exit" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663631" Name="get_exit1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663632" Name="get_facebook_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663633" Name="get_facebook_32" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663634" Name="get_flash" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663635" Name="get_flash1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663636" Name="get_folder" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663637" Name="get_folder_add" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663638" Name="get_folder1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663639" Name="get_googleplus_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663640" Name="get_help2" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663641" Name="get_import1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663642" Name="get_information" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663643" Name="get_key1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663644" Name="get_linkedin_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663645" Name="get_mail" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663646" Name="get_media_pause" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663647" Name="get_media_stop" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663648" Name="get_navigate_beginning" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663649" Name="get_navigate_end" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663650" Name="get_preferences" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663651" Name="get_simple_random_wallpaper_48" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663652" Name="get_twitter_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663653" Name="get_twitter_32" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663654" Name="get_warning" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663655" Name="get_youtube_32" Variables="obj;V_1;" ParamCnt="0" />
+<Field Token="67109070" Name="resourceMan" />
+<Field Token="67109071" Name="resourceCulture" />
+<Type Token="33554467" Name="SimpleRandomWallpaper.Properties.Settings" />
+<Method Token="100663656" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663657" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663658" Name="get_Default" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663659" Name="get_Language" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663660" Name="set_Language" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663661" Name="get_Maximized" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663662" Name="set_Maximized" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663663" Name="get_Width" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663664" Name="set_Width" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663665" Name="get_Height" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663666" Name="set_Height" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663667" Name="get_Left" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663668" Name="set_Left" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663669" Name="get_Top" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663670" Name="set_Top" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663671" Name="get_Price" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663672" Name="set_Price" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663673" Name="get_LastCheckVersion" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663674" Name="set_LastCheckVersion" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663675" Name="get_ShowMessage" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663676" Name="set_ShowMessage" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663677" Name="get_AddFolderRecent" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663678" Name="set_AddFolderRecent" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663679" Name="get_AddFilesRecent" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663680" Name="set_AddFilesRecent" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663681" Name="get_ImportListRecent" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663682" Name="set_ImportListRecent" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663683" Name="get_Initialized" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663684" Name="set_Initialized" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663685" Name="get_CheckWeek" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663686" Name="set_CheckWeek" Variables="this;value;" ParamCnt="2" />
+<Field Token="67109072" Name="defaultInstance" />
+<Type Token="33554468" Name="SimpleRandomWallpaper.ProcessExtensions/SW" />
+<Field Token="67109073" Name="value__" />
+<Field Token="67109074" Name="SW_HIDE" />
+<Field Token="67109075" Name="SW_SHOWNORMAL" />
+<Field Token="67109076" Name="SW_NORMAL" />
+<Field Token="67109077" Name="SW_SHOWMINIMIZED" />
+<Field Token="67109078" Name="SW_SHOWMAXIMIZED" />
+<Field Token="67109079" Name="SW_MAXIMIZE" />
+<Field Token="67109080" Name="SW_SHOWNOACTIVATE" />
+<Field Token="67109081" Name="SW_SHOW" />
+<Field Token="67109082" Name="SW_MINIMIZE" />
+<Field Token="67109083" Name="SW_SHOWMINNOACTIVE" />
+<Field Token="67109084" Name="SW_SHOWNA" />
+<Field Token="67109085" Name="SW_RESTORE" />
+<Field Token="67109086" Name="SW_SHOWDEFAULT" />
+<Field Token="67109087" Name="SW_MAX" />
+<Type Token="33554469" Name="SimpleRandomWallpaper.ProcessExtensions/WTS_CONNECTSTATE_CLASS" />
+<Field Token="67109088" Name="value__" />
+<Field Token="67109089" Name="WTSActive" />
+<Field Token="67109090" Name="WTSConnected" />
+<Field Token="67109091" Name="WTSConnectQuery" />
+<Field Token="67109092" Name="WTSShadow" />
+<Field Token="67109093" Name="WTSDisconnected" />
+<Field Token="67109094" Name="WTSIdle" />
+<Field Token="67109095" Name="WTSListen" />
+<Field Token="67109096" Name="WTSReset" />
+<Field Token="67109097" Name="WTSDown" />
+<Field Token="67109098" Name="WTSInit" />
+<Type Token="33554470" Name="SimpleRandomWallpaper.ProcessExtensions/PROCESS_INFORMATION" />
+<Field Token="67109099" Name="hProcess" />
+<Field Token="67109100" Name="hThread" />
+<Field Token="67109101" Name="dwProcessId" />
+<Field Token="67109102" Name="dwThreadId" />
+<Type Token="33554471" Name="SimpleRandomWallpaper.ProcessExtensions/SECURITY_IMPERSONATION_LEVEL" />
+<Field Token="67109103" Name="value__" />
+<Field Token="67109104" Name="SecurityAnonymous" />
+<Field Token="67109105" Name="SecurityIdentification" />
+<Field Token="67109106" Name="SecurityImpersonation" />
+<Field Token="67109107" Name="SecurityDelegation" />
+<Type Token="33554472" Name="SimpleRandomWallpaper.ProcessExtensions/STARTUPINFO" />
+<Field Token="67109108" Name="cb" />
+<Field Token="67109109" Name="lpReserved" />
+<Field Token="67109110" Name="lpDesktop" />
+<Field Token="67109111" Name="lpTitle" />
+<Field Token="67109112" Name="dwX" />
+<Field Token="67109113" Name="dwY" />
+<Field Token="67109114" Name="dwXSize" />
+<Field Token="67109115" Name="dwYSize" />
+<Field Token="67109116" Name="dwXCountChars" />
+<Field Token="67109117" Name="dwYCountChars" />
+<Field Token="67109118" Name="dwFillAttribute" />
+<Field Token="67109119" Name="dwFlags" />
+<Field Token="67109120" Name="wShowWindow" />
+<Field Token="67109121" Name="cbReserved2" />
+<Field Token="67109122" Name="lpReserved2" />
+<Field Token="67109123" Name="hStdInput" />
+<Field Token="67109124" Name="hStdOutput" />
+<Field Token="67109125" Name="hStdError" />
+<Type Token="33554473" Name="SimpleRandomWallpaper.ProcessExtensions/TOKEN_TYPE" />
+<Field Token="67109126" Name="value__" />
+<Field Token="67109127" Name="TokenPrimary" />
+<Field Token="67109128" Name="TokenImpersonation" />
+<Type Token="33554474" Name="SimpleRandomWallpaper.ProcessExtensions/WTS_SESSION_INFO" />
+<Field Token="67109129" Name="SessionID" />
+<Field Token="67109130" Name="pWinStationName" />
+<Field Token="67109131" Name="State" />
+<Type Token="33554475" Name="SimpleRandomWallpaper.ProcessExtensions/TOKEN_INFORMATION_CLASS" />
+<Field Token="67109132" Name="value__" />
+<Field Token="67109133" Name="TokenUser" />
+<Field Token="67109134" Name="TokenGroups" />
+<Field Token="67109135" Name="TokenPrivileges" />
+<Field Token="67109136" Name="TokenOwner" />
+<Field Token="67109137" Name="TokenPrimaryGroup" />
+<Field Token="67109138" Name="TokenDefaultDacl" />
+<Field Token="67109139" Name="TokenSource" />
+<Field Token="67109140" Name="TokenType" />
+<Field Token="67109141" Name="TokenImpersonationLevel" />
+<Field Token="67109142" Name="TokenStatistics" />
+<Field Token="67109143" Name="TokenRestrictedSids" />
+<Field Token="67109144" Name="TokenSessionId" />
+<Field Token="67109145" Name="TokenGroupsAndPrivileges" />
+<Field Token="67109146" Name="TokenSessionReference" />
+<Field Token="67109147" Name="TokenSandBoxInert" />
+<Field Token="67109148" Name="TokenAuditPolicy" />
+<Field Token="67109149" Name="TokenOrigin" />
+<Type Token="33554476" Name="SimpleRandomWallpaper.ProcessExtensions/TOKEN_USER" />
+<Field Token="67109150" Name="User" />
+<Type Token="33554477" Name="SimpleRandomWallpaper.ProcessExtensions/SID_AND_ATTRIBUTES" />
+<Field Token="67109151" Name="Sid" />
+<Field Token="67109152" Name="Attributes" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663306" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly></Mappings>
