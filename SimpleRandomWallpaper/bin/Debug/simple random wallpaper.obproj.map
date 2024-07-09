@@ -30,6 +30,8 @@
 <Entry OldName="SimpleRandomWallpaper.frmLanguage.cmbLanguage" NewName="SimpleRandomWallpaper.frmLanguage.c99680ca535d026ea072bd88af7daf3c1" />
 <Entry OldName="SimpleRandomWallpaper.frmLanguage.btnOK" NewName="SimpleRandomWallpaper.frmLanguage.cb4a224c7c81e594ed150546fd1b7bb34" />
 <Entry OldName="SimpleRandomWallpaper.frmMain._IsDirty" NewName="SimpleRandomWallpaper.frmMain.c2e1d1429f80237e8e3985b3c27712d84" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.FreeForPersonalUse" NewName="SimpleRandomWallpaper.frmMain.cc2d6e3293ad2a3df6b0562a6fcd487f3" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.FreeForPersonalAndCommercialUse" NewName="SimpleRandomWallpaper.frmMain.cc85bb45dbbb8fe39c3d873188d3bc601" />
 <Entry OldName="SimpleRandomWallpaper.frmMain.InChangeLanguage" NewName="SimpleRandomWallpaper.frmMain.ccf9e7bcebad0248506bc9f0e1eae7936" />
 <Entry OldName="SimpleRandomWallpaper.frmMain.components" NewName="SimpleRandomWallpaper.frmMain.c4deba3d43baa5b5070f9c6e8bc1e9c00" />
 <Entry OldName="SimpleRandomWallpaper.frmMain.menuStrip1" NewName="SimpleRandomWallpaper.frmMain.c8d0af5259ad34fea80638fd3135879f4" />
@@ -97,6 +99,7 @@
 <Entry OldName="SimpleRandomWallpaper.frmMain.importListFromExcelFileToolStripMenuItem" NewName="SimpleRandomWallpaper.frmMain.c7f05bf665b8642236e0b3fb03a1d47aa" />
 <Entry OldName="SimpleRandomWallpaper.frmMain.enterListOfFIlesToolStripMenuItem" NewName="SimpleRandomWallpaper.frmMain.c8f1c644984cc1844dde14c09eaf864eb" />
 <Entry OldName="SimpleRandomWallpaper.frmMain.checkForNewVersionEachWeekToolStripMenuItem" NewName="SimpleRandomWallpaper.frmMain.cb59dbab56a60d028a155a1ca733acfe5" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.downloadSoftwareToolStripMenuItem" NewName="SimpleRandomWallpaper.frmMain.cfa4b72a871d75643344df043c757f5d2" />
 <Entry OldName="SimpleRandomWallpaper.frmMessage.components" NewName="SimpleRandomWallpaper.frmMessage.c4deba3d43baa5b5070f9c6e8bc1e9c00" />
 <Entry OldName="SimpleRandomWallpaper.frmMessage.btnOK" NewName="SimpleRandomWallpaper.frmMessage.cb4a224c7c81e594ed150546fd1b7bb34" />
 <Entry OldName="SimpleRandomWallpaper.frmMultipleFiles.BatchJoin" NewName="SimpleRandomWallpaper.frmMultipleFiles.c0a1c1b1e539b083acc17550b52e8e93e" />
@@ -273,6 +276,7 @@
 <Entry OldName="SimpleRandomWallpaper.frmMain.tsdbAddFolder_DropDownItemClicked(Object sender, ToolStripItemClickedEventArgs e)" NewName="SimpleRandomWallpaper.frmMain.c590fe5128b251bb5dd27e6ed0eda7dfd(Object c5a9247ac2d444816b0c5646f66f8d3d5, ToolStripItemClickedEventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
 <Entry OldName="SimpleRandomWallpaper.frmMain.tsdbImportList_ButtonClick(Object sender, EventArgs e)" NewName="SimpleRandomWallpaper.frmMain.ca1e4eb6031210085bff907050de6963d(Object c5a9247ac2d444816b0c5646f66f8d3d5, EventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
 <Entry OldName="SimpleRandomWallpaper.frmMain.tsdbImportList_DropDownItemClicked(Object sender, ToolStripItemClickedEventArgs e)" NewName="SimpleRandomWallpaper.frmMain.c2f02a60636b852265f24216acad86d2d(Object c5a9247ac2d444816b0c5646f66f8d3d5, ToolStripItemClickedEventArgs c85e9803cdd5dd3ba5b0a121bb38f3c0c)" />
+<Entry OldName="SimpleRandomWallpaper.frmMain.SetTitle()" NewName="SimpleRandomWallpaper.frmMain.c5ce92bf3819a2f1f25291bc28c75b9cd()" />
 <Entry OldName="SimpleRandomWallpaper.frmMain.SetupOnLoad()" NewName="SimpleRandomWallpaper.frmMain.c67978bc936cdf6178d712aec4a34b3f6()" />
 <Entry OldName="SimpleRandomWallpaper.frmMain.AdjustSizeLocation()" NewName="SimpleRandomWallpaper.frmMain.c8eb08d172ae8d5ff73cef82175846f0a()" />
 <Entry OldName="SimpleRandomWallpaper.frmMain.SaveSizeLocation()" NewName="SimpleRandomWallpaper.frmMain.cd0cb556b1b81468c89fa856e9bfa4599()" />
@@ -646,45 +650,46 @@
 <Method Token="100663362" Name="tsdbImportList_DropDownItemClicked" Variables="this;sender;e;V_0;f;" ParamCnt="3" />
 <Method Token="100663363" Name="AddFile" Variables="this;filepath;ext;dr;fi;sizekb;V_4;V_5;" ParamCnt="2" />
 <Method Token="100663364" Name="AddFolder" Variables="this;folder_path;subdirs;silent;V_0;V_1;dres;V_3;dr;di;V_6;" ParamCnt="4" />
-<Method Token="100663365" Name="SetupOnLoad" Variables="this;enabled;interval;enableforall;lstimg;regkey;regkey2;valnames;V_7;V_8;V_9;V_10;V_11;intervalSecs;ts;V_14;V_15;V_16;V_17;V_18;k;line;subdirs;V_22;V_23;V_24;V_25;" ParamCnt="1" />
-<Method Token="100663366" Name="AdjustSizeLocation" Variables="this;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;" ParamCnt="1" />
-<Method Token="100663367" Name="SaveSizeLocation" Variables="this;" ParamCnt="1" />
-<Method Token="100663368" Name="AddLanguageMenuItems" Variables="this;k;ti;V_2;V_3;V_4;" ParamCnt="1" />
-<Method Token="100663369" Name="tiLang_Click" Variables="this;sender;e;ti;langcode;k;til;V_4;V_5;k;til;V_8;V_9;" ParamCnt="3" />
-<Method Token="100663370" Name="ChangeLanguage" Variables="this;language_code;maximized;V_1;" ParamCnt="2" />
-<Method Token="100663371" Name="frmMain_Load" Variables="this;sender;e;V_0;" ParamCnt="3" />
-<Method Token="100663372" Name="AddVisual" Variables="this;argsvisual;k;V_1;V_2;V_3;" ParamCnt="2" />
-<Method Token="100663373" Name="helpGuideToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
-<Method Token="100663374" Name="pleaseDonateToolStripMenuItem1_Click" Variables="this;sender;e;" ParamCnt="3" />
-<Method Token="100663375" Name="dotsSoftwarePRODUCTCATALOGToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
-<Method Token="100663376" Name="aboutToolStripMenuItem_Click" Variables="this;sender;e;f;" ParamCnt="3" />
-<Method Token="100663377" Name="tiHelpFeedback_Click" Variables="this;sender;e;" ParamCnt="3" />
-<Method Token="100663378" Name="followUsOnTwitterToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
-<Method Token="100663379" Name="visit4dotsSoftwareWebsiteToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
-<Method Token="100663380" Name="checkForNewVersionToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
-<Method Token="100663381" Name="exitToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
-<Method Token="100663382" Name="frmMain_FormClosing" Variables="this;sender;e;" ParamCnt="3" />
-<Method Token="100663383" Name="selectAllToolStripMenuItem_Click" Variables="this;sender;e;k;V_1;" ParamCnt="3" />
-<Method Token="100663384" Name="seelctNoneToolStripMenuItem_Click" Variables="this;sender;e;k;V_1;" ParamCnt="3" />
-<Method Token="100663385" Name="invertSelectionToolStripMenuItem_Click" Variables="this;sender;e;k;V_1;" ParamCnt="3" />
-<Method Token="100663386" Name="openToolStripMenuItem_Click" Variables="this;sender;e;drv;dr;filepath;V_3;" ParamCnt="3" />
-<Method Token="100663387" Name="exploreToolStripMenuItem_Click" Variables="this;sender;e;drv;dr;filepath;args;info;" ParamCnt="3" />
-<Method Token="100663388" Name="copyFullFilePathToolStripMenuItem_Click" Variables="this;sender;e;drv;dr;filepath;" ParamCnt="3" />
-<Method Token="100663389" Name="cmsFiles_Opening" Variables="this;sender;e;p;hit;V_2;V_3;V_4;" ParamCnt="3" />
-<Method Token="100663390" Name="dgFiles_DragEnter" Variables="this;sender;e;V_0;" ParamCnt="3" />
-<Method Token="100663391" Name="dgFiles_DragOver" Variables="this;sender;e;V_0;" ParamCnt="3" />
-<Method Token="100663392" Name="dgFiles_DragDrop" Variables="this;sender;e;V_0;filez;k;V_3;V_4;V_5;" ParamCnt="3" />
-<Method Token="100663393" Name="saveDocumentsListToolStripMenuItem_Click" Variables="this;sender;e;opf;V_1;sw;k;V_4;" ParamCnt="3" />
-<Method Token="100663394" Name="dgFiles_CellFormatting" Variables="this;sender;e;V_0;dv;V_2;" ParamCnt="3" />
-<Method Token="100663395" Name="dgFiles_CellClick" Variables="this;sender;e;V_0;fp;V_2;img;" ParamCnt="3" />
-<Method Token="100663396" Name="nudD_ValueChanged" Variables="this;sender;e;ts;V_1;" ParamCnt="3" />
-<Method Token="100663397" Name="chkDisable_CheckedChanged" Variables="this;sender;e;V_0;" ParamCnt="3" />
-<Method Token="100663398" Name="btnExit_Click" Variables="this;sender;e;" ParamCnt="3" />
-<Method Token="100663399" Name="btnOK_Click" Variables="this;sender;e;file;lstimg;ts;args;suc;sw;k;V_7;V_8;subdirs;strsubdirs;V_11;V_12;V_13;V_14;V_15;" ParamCnt="3" />
-<Method Token="100663400" Name="importListFromExcelFileToolStripMenuItem_Click" Variables="this;sender;e;openFileDialog1;V_1;xl;" ParamCnt="3" />
-<Method Token="100663401" Name="enterListOfFIlesToolStripMenuItem_Click" Variables="this;sender;e;txt;f;k;V_3;V_4;k;V_6;V_7;V_8;" ParamCnt="3" />
-<Method Token="100663402" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
-<Method Token="100663403" Name="InitializeComponent" Variables="this;resources;dataGridViewCellStyle1;" ParamCnt="1" />
+<Method Token="100663365" Name="SetTitle" Variables="this;str;V_1;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663366" Name="SetupOnLoad" Variables="this;enabled;interval;enableforall;lstimg;regkey;regkey2;valnames;V_7;V_8;V_9;V_10;V_11;intervalSecs;ts;V_14;V_15;V_16;V_17;V_18;k;line;subdirs;V_22;V_23;V_24;V_25;" ParamCnt="1" />
+<Method Token="100663367" Name="AdjustSizeLocation" Variables="this;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;" ParamCnt="1" />
+<Method Token="100663368" Name="SaveSizeLocation" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663369" Name="AddLanguageMenuItems" Variables="this;k;ti;V_2;V_3;V_4;" ParamCnt="1" />
+<Method Token="100663370" Name="tiLang_Click" Variables="this;sender;e;ti;langcode;k;til;V_4;V_5;k;til;V_8;V_9;" ParamCnt="3" />
+<Method Token="100663371" Name="ChangeLanguage" Variables="this;language_code;maximized;V_1;" ParamCnt="2" />
+<Method Token="100663372" Name="frmMain_Load" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663373" Name="AddVisual" Variables="this;argsvisual;k;V_1;V_2;V_3;" ParamCnt="2" />
+<Method Token="100663374" Name="helpGuideToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663375" Name="pleaseDonateToolStripMenuItem1_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663376" Name="dotsSoftwarePRODUCTCATALOGToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663377" Name="aboutToolStripMenuItem_Click" Variables="this;sender;e;f;" ParamCnt="3" />
+<Method Token="100663378" Name="tiHelpFeedback_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663379" Name="followUsOnTwitterToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663380" Name="visit4dotsSoftwareWebsiteToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663381" Name="checkForNewVersionToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663382" Name="exitToolStripMenuItem_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663383" Name="frmMain_FormClosing" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663384" Name="selectAllToolStripMenuItem_Click" Variables="this;sender;e;k;V_1;" ParamCnt="3" />
+<Method Token="100663385" Name="seelctNoneToolStripMenuItem_Click" Variables="this;sender;e;k;V_1;" ParamCnt="3" />
+<Method Token="100663386" Name="invertSelectionToolStripMenuItem_Click" Variables="this;sender;e;k;V_1;" ParamCnt="3" />
+<Method Token="100663387" Name="openToolStripMenuItem_Click" Variables="this;sender;e;drv;dr;filepath;V_3;" ParamCnt="3" />
+<Method Token="100663388" Name="exploreToolStripMenuItem_Click" Variables="this;sender;e;drv;dr;filepath;args;info;" ParamCnt="3" />
+<Method Token="100663389" Name="copyFullFilePathToolStripMenuItem_Click" Variables="this;sender;e;drv;dr;filepath;" ParamCnt="3" />
+<Method Token="100663390" Name="cmsFiles_Opening" Variables="this;sender;e;p;hit;V_2;V_3;V_4;" ParamCnt="3" />
+<Method Token="100663391" Name="dgFiles_DragEnter" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663392" Name="dgFiles_DragOver" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663393" Name="dgFiles_DragDrop" Variables="this;sender;e;V_0;filez;k;V_3;V_4;V_5;" ParamCnt="3" />
+<Method Token="100663394" Name="saveDocumentsListToolStripMenuItem_Click" Variables="this;sender;e;opf;V_1;sw;k;V_4;" ParamCnt="3" />
+<Method Token="100663395" Name="dgFiles_CellFormatting" Variables="this;sender;e;V_0;dv;V_2;" ParamCnt="3" />
+<Method Token="100663396" Name="dgFiles_CellClick" Variables="this;sender;e;V_0;fp;V_2;img;" ParamCnt="3" />
+<Method Token="100663397" Name="nudD_ValueChanged" Variables="this;sender;e;ts;V_1;" ParamCnt="3" />
+<Method Token="100663398" Name="chkDisable_CheckedChanged" Variables="this;sender;e;V_0;" ParamCnt="3" />
+<Method Token="100663399" Name="btnExit_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663400" Name="btnOK_Click" Variables="this;sender;e;file;lstimg;ts;args;suc;sw;k;V_7;V_8;subdirs;strsubdirs;V_11;V_12;V_13;V_14;V_15;" ParamCnt="3" />
+<Method Token="100663401" Name="importListFromExcelFileToolStripMenuItem_Click" Variables="this;sender;e;openFileDialog1;V_1;xl;" ParamCnt="3" />
+<Method Token="100663402" Name="enterListOfFIlesToolStripMenuItem_Click" Variables="this;sender;e;txt;f;k;V_3;V_4;k;V_6;V_7;V_8;" ParamCnt="3" />
+<Method Token="100663403" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663404" Name="InitializeComponent" Variables="this;resources;dataGridViewCellStyle1;" ParamCnt="1" />
 <Field Token="67108907" Name="Instance" />
 <Field Token="67108908" Name="SilentAdd" />
 <Field Token="67108909" Name="SilentAddErr" />
@@ -692,543 +697,546 @@
 <Field Token="67108911" Name="dt" />
 <Field Token="67108912" Name="dtClipboard" />
 <Field Token="67108913" Name="_IsDirty" />
-<Field Token="67108914" Name="InChangeLanguage" />
-<Field Token="67108915" Name="components" />
-<Field Token="67108916" Name="menuStrip1" />
-<Field Token="67108917" Name="fileToolStripMenuItem" />
-<Field Token="67108918" Name="addFilesToolStripMenuItem" />
-<Field Token="67108919" Name="addFoldersToolStripMenuItem" />
-<Field Token="67108920" Name="importListToolStripMenuItem" />
-<Field Token="67108921" Name="toolStripMenuItem2" />
-<Field Token="67108922" Name="exitToolStripMenuItem" />
-<Field Token="67108923" Name="editToolStripMenuItem" />
-<Field Token="67108924" Name="removeToolStripMenuItem" />
-<Field Token="67108925" Name="clearToolStripMenuItem" />
-<Field Token="67108926" Name="selectAllToolStripMenuItem" />
-<Field Token="67108927" Name="seelctNoneToolStripMenuItem" />
-<Field Token="67108928" Name="invertSelectionToolStripMenuItem" />
-<Field Token="67108929" Name="languageToolStripMenuItem" />
-<Field Token="67108930" Name="languages1ToolStripMenuItem" />
-<Field Token="67108931" Name="languages2ToolStripMenuItem" />
-<Field Token="67108932" Name="helpToolStripMenuItem" />
-<Field Token="67108933" Name="helpGuideToolStripMenuItem" />
-<Field Token="67108934" Name="pleaseDonateToolStripMenuItem1" />
-<Field Token="67108935" Name="dotsSoftwarePRODUCTCATALOGToolStripMenuItem" />
-<Field Token="67108936" Name="tiHelpFeedback" />
-<Field Token="67108937" Name="checkForNewVersionToolStripMenuItem" />
-<Field Token="67108938" Name="toolStripMenuItem1" />
-<Field Token="67108939" Name="followUsOnTwitterToolStripMenuItem" />
-<Field Token="67108940" Name="visit4dotsSoftwareWebsiteToolStripMenuItem" />
-<Field Token="67108941" Name="aboutToolStripMenuItem" />
-<Field Token="67108942" Name="dgFiles" />
-<Field Token="67108943" Name="toolStrip1" />
-<Field Token="67108944" Name="tsdbAddFile" />
-<Field Token="67108945" Name="tsbRemove" />
-<Field Token="67108946" Name="toolStripSeparator3" />
-<Field Token="67108947" Name="tsdbAddFolder" />
-<Field Token="67108948" Name="tsdbImportList" />
-<Field Token="67108949" Name="toolStripSeparator2" />
-<Field Token="67108950" Name="openFileDialog1" />
-<Field Token="67108951" Name="folderBrowserDialog1" />
-<Field Token="67108952" Name="cmsFiles" />
-<Field Token="67108953" Name="openToolStripMenuItem" />
-<Field Token="67108954" Name="exploreToolStripMenuItem" />
-<Field Token="67108955" Name="copyFullFilePathToolStripMenuItem" />
-<Field Token="67108956" Name="lblTotal" />
-<Field Token="67108957" Name="saveDocumentsListToolStripMenuItem" />
-<Field Token="67108958" Name="picImage" />
-<Field Token="67108959" Name="colFolder" />
-<Field Token="67108960" Name="colFilename" />
-<Field Token="67108961" Name="colSize" />
-<Field Token="67108962" Name="colFileDate" />
-<Field Token="67108963" Name="colFullFilePath" />
-<Field Token="67108964" Name="label1" />
-<Field Token="67108965" Name="lblS" />
-<Field Token="67108966" Name="lblM" />
-<Field Token="67108967" Name="lblH" />
-<Field Token="67108968" Name="nudS" />
-<Field Token="67108969" Name="label2" />
-<Field Token="67108970" Name="nudM" />
-<Field Token="67108971" Name="label4" />
-<Field Token="67108972" Name="nudH" />
-<Field Token="67108973" Name="label5" />
-<Field Token="67108974" Name="chkEnableForAllUsers" />
-<Field Token="67108975" Name="label6" />
-<Field Token="67108976" Name="nudD" />
-<Field Token="67108977" Name="label7" />
-<Field Token="67108978" Name="btnOK" />
-<Field Token="67108979" Name="btnExit" />
-<Field Token="67108980" Name="chkEnableCurrentUser" />
-<Field Token="67108981" Name="importListFromExcelFileToolStripMenuItem" />
-<Field Token="67108982" Name="enterListOfFIlesToolStripMenuItem" />
-<Field Token="67108983" Name="checkForNewVersionEachWeekToolStripMenuItem" />
+<Field Token="67108914" Name="FreeForPersonalUse" />
+<Field Token="67108915" Name="FreeForPersonalAndCommercialUse" />
+<Field Token="67108916" Name="InChangeLanguage" />
+<Field Token="67108917" Name="components" />
+<Field Token="67108918" Name="menuStrip1" />
+<Field Token="67108919" Name="fileToolStripMenuItem" />
+<Field Token="67108920" Name="addFilesToolStripMenuItem" />
+<Field Token="67108921" Name="addFoldersToolStripMenuItem" />
+<Field Token="67108922" Name="importListToolStripMenuItem" />
+<Field Token="67108923" Name="toolStripMenuItem2" />
+<Field Token="67108924" Name="exitToolStripMenuItem" />
+<Field Token="67108925" Name="editToolStripMenuItem" />
+<Field Token="67108926" Name="removeToolStripMenuItem" />
+<Field Token="67108927" Name="clearToolStripMenuItem" />
+<Field Token="67108928" Name="selectAllToolStripMenuItem" />
+<Field Token="67108929" Name="seelctNoneToolStripMenuItem" />
+<Field Token="67108930" Name="invertSelectionToolStripMenuItem" />
+<Field Token="67108931" Name="languageToolStripMenuItem" />
+<Field Token="67108932" Name="languages1ToolStripMenuItem" />
+<Field Token="67108933" Name="languages2ToolStripMenuItem" />
+<Field Token="67108934" Name="helpToolStripMenuItem" />
+<Field Token="67108935" Name="helpGuideToolStripMenuItem" />
+<Field Token="67108936" Name="pleaseDonateToolStripMenuItem1" />
+<Field Token="67108937" Name="dotsSoftwarePRODUCTCATALOGToolStripMenuItem" />
+<Field Token="67108938" Name="tiHelpFeedback" />
+<Field Token="67108939" Name="checkForNewVersionToolStripMenuItem" />
+<Field Token="67108940" Name="toolStripMenuItem1" />
+<Field Token="67108941" Name="followUsOnTwitterToolStripMenuItem" />
+<Field Token="67108942" Name="visit4dotsSoftwareWebsiteToolStripMenuItem" />
+<Field Token="67108943" Name="aboutToolStripMenuItem" />
+<Field Token="67108944" Name="dgFiles" />
+<Field Token="67108945" Name="toolStrip1" />
+<Field Token="67108946" Name="tsdbAddFile" />
+<Field Token="67108947" Name="tsbRemove" />
+<Field Token="67108948" Name="toolStripSeparator3" />
+<Field Token="67108949" Name="tsdbAddFolder" />
+<Field Token="67108950" Name="tsdbImportList" />
+<Field Token="67108951" Name="toolStripSeparator2" />
+<Field Token="67108952" Name="openFileDialog1" />
+<Field Token="67108953" Name="folderBrowserDialog1" />
+<Field Token="67108954" Name="cmsFiles" />
+<Field Token="67108955" Name="openToolStripMenuItem" />
+<Field Token="67108956" Name="exploreToolStripMenuItem" />
+<Field Token="67108957" Name="copyFullFilePathToolStripMenuItem" />
+<Field Token="67108958" Name="lblTotal" />
+<Field Token="67108959" Name="saveDocumentsListToolStripMenuItem" />
+<Field Token="67108960" Name="picImage" />
+<Field Token="67108961" Name="colFolder" />
+<Field Token="67108962" Name="colFilename" />
+<Field Token="67108963" Name="colSize" />
+<Field Token="67108964" Name="colFileDate" />
+<Field Token="67108965" Name="colFullFilePath" />
+<Field Token="67108966" Name="label1" />
+<Field Token="67108967" Name="lblS" />
+<Field Token="67108968" Name="lblM" />
+<Field Token="67108969" Name="lblH" />
+<Field Token="67108970" Name="nudS" />
+<Field Token="67108971" Name="label2" />
+<Field Token="67108972" Name="nudM" />
+<Field Token="67108973" Name="label4" />
+<Field Token="67108974" Name="nudH" />
+<Field Token="67108975" Name="label5" />
+<Field Token="67108976" Name="chkEnableForAllUsers" />
+<Field Token="67108977" Name="label6" />
+<Field Token="67108978" Name="nudD" />
+<Field Token="67108979" Name="label7" />
+<Field Token="67108980" Name="btnOK" />
+<Field Token="67108981" Name="btnExit" />
+<Field Token="67108982" Name="chkEnableCurrentUser" />
+<Field Token="67108983" Name="importListFromExcelFileToolStripMenuItem" />
+<Field Token="67108984" Name="enterListOfFIlesToolStripMenuItem" />
+<Field Token="67108985" Name="checkForNewVersionEachWeekToolStripMenuItem" />
+<Field Token="67108986" Name="downloadSoftwareToolStripMenuItem" />
 <Type Token="33554444" Name="SimpleRandomWallpaper.frmMessage" />
-<Method Token="100663404" Name=".ctor" Variables="this;" ParamCnt="1" />
-<Method Token="100663405" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
-<Method Token="100663406" Name="frmMessage_Load" Variables="this;sender;e;" ParamCnt="3" />
-<Method Token="100663407" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
-<Method Token="100663408" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
-<Field Token="67108984" Name="components" />
-<Field Token="67108985" Name="lblMsg" />
-<Field Token="67108986" Name="txtMsg" />
-<Field Token="67108987" Name="btnOK" />
-<Field Token="67108988" Name="chkShow" />
+<Method Token="100663405" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663406" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663407" Name="frmMessage_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663408" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663409" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108987" Name="components" />
+<Field Token="67108988" Name="lblMsg" />
+<Field Token="67108989" Name="txtMsg" />
+<Field Token="67108990" Name="btnOK" />
+<Field Token="67108991" Name="chkShow" />
 <Type Token="33554445" Name="SimpleRandomWallpaper.frmMultipleFiles" />
-<Method Token="100663409" Name=".ctor" Variables="this;" ParamCnt="1" />
-<Method Token="100663410" Name=".ctor" Variables="this;txt;" ParamCnt="2" />
-<Method Token="100663411" Name="btnCancel_Click" Variables="this;sender;e;" ParamCnt="3" />
-<Method Token="100663412" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
-<Method Token="100663413" Name="frmMultipleFiles_Load" Variables="this;sender;e;" ParamCnt="3" />
-<Method Token="100663414" Name="frmMultipleFiles_Activated" Variables="this;sender;e;" ParamCnt="3" />
-<Method Token="100663415" Name="btnBrowse_Click" Variables="this;sender;e;V_0;k;V_2;" ParamCnt="3" />
-<Method Token="100663416" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
-<Method Token="100663417" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
-<Field Token="67108989" Name="Output" />
-<Field Token="67108990" Name="BatchJoin" />
-<Field Token="67108991" Name="components" />
-<Field Token="67108992" Name="lblBatchJoin" />
-<Field Token="67108993" Name="btnCancel" />
-<Field Token="67108994" Name="btnOK" />
-<Field Token="67108995" Name="txtFiles" />
-<Field Token="67108996" Name="label2" />
-<Field Token="67108997" Name="btnBrowse" />
-<Field Token="67108998" Name="openFileDialog1" />
+<Method Token="100663410" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663411" Name=".ctor" Variables="this;txt;" ParamCnt="2" />
+<Method Token="100663412" Name="btnCancel_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663413" Name="btnOK_Click" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663414" Name="frmMultipleFiles_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663415" Name="frmMultipleFiles_Activated" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663416" Name="btnBrowse_Click" Variables="this;sender;e;V_0;k;V_2;" ParamCnt="3" />
+<Method Token="100663417" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663418" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108992" Name="Output" />
+<Field Token="67108993" Name="BatchJoin" />
+<Field Token="67108994" Name="components" />
+<Field Token="67108995" Name="lblBatchJoin" />
+<Field Token="67108996" Name="btnCancel" />
+<Field Token="67108997" Name="btnOK" />
+<Field Token="67108998" Name="txtFiles" />
+<Field Token="67108999" Name="label2" />
+<Field Token="67109000" Name="btnBrowse" />
+<Field Token="67109001" Name="openFileDialog1" />
 <Type Token="33554446" Name="SimpleRandomWallpaper.ImageComboBox" />
-<Method Token="100663418" Name=".ctor" Variables="this;" ParamCnt="1" />
-<Method Token="100663419" Name="get_ImageList" Variables="this;V_0;" ParamCnt="1" />
-<Method Token="100663420" Name="set_ImageList" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663421" Name="OnDrawItem" Variables="this;ea;item;imageSize;bounds;V_3;V_4;" ParamCnt="2" />
-<Field Token="67108999" Name="imageList" />
+<Method Token="100663419" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663420" Name="get_ImageList" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663421" Name="set_ImageList" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663422" Name="OnDrawItem" Variables="this;ea;item;imageSize;bounds;V_3;V_4;" ParamCnt="2" />
+<Field Token="67109002" Name="imageList" />
 <Type Token="33554447" Name="SimpleRandomWallpaper.ComboBoxExItem" />
-<Method Token="100663422" Name=".ctor" Variables="this;" ParamCnt="1" />
-<Method Token="100663423" Name=".ctor" Variables="this;text;" ParamCnt="2" />
-<Method Token="100663424" Name=".ctor" Variables="this;text;imageIndex;" ParamCnt="3" />
-<Method Token="100663425" Name="get_Text" Variables="this;V_0;" ParamCnt="1" />
-<Method Token="100663426" Name="set_Text" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663427" Name="get_ImageIndex" Variables="this;V_0;" ParamCnt="1" />
-<Method Token="100663428" Name="set_ImageIndex" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663429" Name="ToString" Variables="this;V_0;" ParamCnt="1" />
-<Field Token="67109000" Name="_text" />
-<Field Token="67109001" Name="_imageIndex" />
+<Method Token="100663423" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663424" Name=".ctor" Variables="this;text;" ParamCnt="2" />
+<Method Token="100663425" Name=".ctor" Variables="this;text;imageIndex;" ParamCnt="3" />
+<Method Token="100663426" Name="get_Text" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663427" Name="set_Text" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663428" Name="get_ImageIndex" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663429" Name="set_ImageIndex" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663430" Name="ToString" Variables="this;V_0;" ParamCnt="1" />
+<Field Token="67109003" Name="_text" />
+<Field Token="67109004" Name="_imageIndex" />
 <Type Token="33554449" Name="SimpleRandomWallpaper.Module" />
-<Method Token="100663433" Name=".ctor" Variables="this;" ParamCnt="1" />
-<Method Token="100663434" Name=".cctor" Variables="" ParamCnt="0" />
-<Method Token="100663435" Name="IsPDFDocument" Variables="filepath;ext;V_1;V_2;V_3;" ParamCnt="1" />
-<Method Token="100663436" Name="get_TempFolder" Variables="path;V_1;V_2;" ParamCnt="0" />
-<Method Token="100663437" Name="SendMessage" Variables="hWnd;wMsg;wParam;lParam;" ParamCnt="4" />
-<Method Token="100663438" Name="LockWindowUpdate" Variables="hWndLock;" ParamCnt="1" />
-<Method Token="100663439" Name="WaitNMSeconds" Variables="mseconds;_desired;V_1;V_2;V_3;" ParamCnt="1" />
-<Method Token="100663440" Name="IsLegalFilename" Variables="name;fileInfo;V_1;" ParamCnt="1" />
-<Method Token="100663441" Name="GetRelativePath" Variables="mainDirPath;absoluteFilePath;firstPathParts;secondPathParts;sameCounter;newPath;i;V_5;V_6;V_7;V_8;i;V_10;V_11;V_12;V_13;i;V_15;" ParamCnt="2" />
-<Method Token="100663442" Name="ShowMessage" Variables="msg;V_0;" ParamCnt="1" />
-<Method Token="100663443" Name="ShowQuestionDialog" Variables="msg;caption;V_0;" ParamCnt="2" />
-<Method Token="100663444" Name="ShowError" Variables="ex;" ParamCnt="1" />
-<Method Token="100663445" Name="ShowError" Variables="msg;V_0;f;" ParamCnt="1" />
-<Method Token="100663446" Name="ShowError" Variables="msg;ex;" ParamCnt="2" />
-<Method Token="100663447" Name="ShowError" Variables="msg;exstr;" ParamCnt="2" />
-<Method Token="100663448" Name="CurrentDomain_ProcessExit" Variables="sender;e;" ParamCnt="2" />
-<Method Token="100663449" Name="ShowQuestionDialogYesFocus" Variables="msg;caption;V_0;" ParamCnt="2" />
-<Method Token="100663450" Name="IsAcceptableMediaInput" Variables="filepath;fi;V_1;V_2;" ParamCnt="1" />
-<Method Token="100663451" Name="get_Modex64" Variables="V_0;V_1;V_2;V_3;V_4;" ParamCnt="0" />
-<Method Token="100663452" Name="DownloadPage" Variables="uri;client;data;reader;s;V_4;ex;" ParamCnt="1" />
-<Method Token="100663453" Name="HexConverter" Variables="c;rtn;V_1;ex;V_3;" ParamCnt="1" />
-<Method Token="100663454" Name="DecimalToString" Variables="dec;V_0;" ParamCnt="1" />
-<Method Token="100663455" Name="DecimalToString" Variables="dec;decimal_places;format;V_1;k;V_3;V_4;" ParamCnt="2" />
-<Method Token="100663456" Name="StringToDecimal" Variables="str;epos;V_1;V_2;V_3;V_4;ihask;sintegral;integral_part;V_8;ihask;sintegral;integral_part;sdecimal;decimal_part;d10;ddecimal_part;ddec;dintegral_part;d;V_19;k;V_21;V_22;" ParamCnt="1" />
-<Method Token="100663457" Name="get_IsWindows64Bit" Variables="p;V_1;V_2;V_3;" ParamCnt="0" />
-<Method Token="100663458" Name="RunAdminAction" Variables="args;pr;V_1;V_2;V_3;" ParamCnt="1" />
-<Method Token="100663459" Name="DeleteApplicationSettingsFile" Variables="settingsFile;fi;V_2;ex;" ParamCnt="0" />
-<Field Token="67109003" Name="BlueForeColor" />
-<Field Token="67109004" Name="ApplicationName" />
-<Field Token="67109005" Name="Version" />
-<Field Token="67109006" Name="Ver" />
-<Field Token="67109007" Name="ShortApplicationTitle" />
-<Field Token="67109008" Name="ApplicationTitle" />
-<Field Token="67109009" Name="DownloadURL" />
-<Field Token="67109010" Name="HelpURL" />
-<Field Token="67109011" Name="ProductWebpageURL" />
-<Field Token="67109012" Name="BuyURL" />
-<Field Token="67109013" Name="VersionURL" />
-<Field Token="67109014" Name="TipText" />
-<Field Token="67109015" Name="GeneratedTemporaryFiles" />
-<Field Token="67109016" Name="args" />
-<Field Token="67109017" Name="OpenFilesFilter" />
-<Field Token="67109018" Name="AcceptableMediaInputPattern" />
-<Field Token="67109019" Name="AppDataDirectory" />
-<Field Token="67109020" Name="CurrentImagesDirectory" />
-<Field Token="67109021" Name="SelectedLanguage" />
-<Field Token="67109022" Name="IsCommandLine" />
-<Field Token="67109023" Name="IsFromWindowsExplorer" />
-<Field Token="67109024" Name="DoNotOverwriteFiles" />
-<Field Token="67109025" Name="AskBeforeOverwrite" />
-<Field Token="67109026" Name="LeaveSameDateTime" />
-<Field Token="67109027" Name="OutputFilepath" />
-<Field Token="67109028" Name="_Modex64" />
+<Method Token="100663434" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663435" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663436" Name="IsPDFDocument" Variables="filepath;ext;V_1;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663437" Name="get_TempFolder" Variables="path;V_1;V_2;" ParamCnt="0" />
+<Method Token="100663438" Name="SendMessage" Variables="hWnd;wMsg;wParam;lParam;" ParamCnt="4" />
+<Method Token="100663439" Name="LockWindowUpdate" Variables="hWndLock;" ParamCnt="1" />
+<Method Token="100663440" Name="WaitNMSeconds" Variables="mseconds;_desired;V_1;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663441" Name="IsLegalFilename" Variables="name;fileInfo;V_1;" ParamCnt="1" />
+<Method Token="100663442" Name="GetRelativePath" Variables="mainDirPath;absoluteFilePath;firstPathParts;secondPathParts;sameCounter;newPath;i;V_5;V_6;V_7;V_8;i;V_10;V_11;V_12;V_13;i;V_15;" ParamCnt="2" />
+<Method Token="100663443" Name="ShowMessage" Variables="msg;V_0;" ParamCnt="1" />
+<Method Token="100663444" Name="ShowQuestionDialog" Variables="msg;caption;V_0;" ParamCnt="2" />
+<Method Token="100663445" Name="ShowError" Variables="ex;" ParamCnt="1" />
+<Method Token="100663446" Name="ShowError" Variables="msg;V_0;f;" ParamCnt="1" />
+<Method Token="100663447" Name="ShowError" Variables="msg;ex;" ParamCnt="2" />
+<Method Token="100663448" Name="ShowError" Variables="msg;exstr;" ParamCnt="2" />
+<Method Token="100663449" Name="CurrentDomain_ProcessExit" Variables="sender;e;" ParamCnt="2" />
+<Method Token="100663450" Name="ShowQuestionDialogYesFocus" Variables="msg;caption;V_0;" ParamCnt="2" />
+<Method Token="100663451" Name="IsAcceptableMediaInput" Variables="filepath;fi;V_1;V_2;" ParamCnt="1" />
+<Method Token="100663452" Name="get_Modex64" Variables="V_0;V_1;V_2;V_3;V_4;" ParamCnt="0" />
+<Method Token="100663453" Name="DownloadPage" Variables="uri;client;data;reader;s;V_4;ex;" ParamCnt="1" />
+<Method Token="100663454" Name="HexConverter" Variables="c;rtn;V_1;ex;V_3;" ParamCnt="1" />
+<Method Token="100663455" Name="DecimalToString" Variables="dec;V_0;" ParamCnt="1" />
+<Method Token="100663456" Name="DecimalToString" Variables="dec;decimal_places;format;V_1;k;V_3;V_4;" ParamCnt="2" />
+<Method Token="100663457" Name="StringToDecimal" Variables="str;epos;V_1;V_2;V_3;V_4;ihask;sintegral;integral_part;V_8;ihask;sintegral;integral_part;sdecimal;decimal_part;d10;ddecimal_part;ddec;dintegral_part;d;V_19;k;V_21;V_22;" ParamCnt="1" />
+<Method Token="100663458" Name="get_IsWindows64Bit" Variables="p;V_1;V_2;V_3;" ParamCnt="0" />
+<Method Token="100663459" Name="RunAdminAction" Variables="args;pr;V_1;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663460" Name="DeleteApplicationSettingsFile" Variables="settingsFile;fi;V_2;ex;" ParamCnt="0" />
+<Field Token="67109006" Name="BlueForeColor" />
+<Field Token="67109007" Name="ApplicationName" />
+<Field Token="67109008" Name="Version" />
+<Field Token="67109009" Name="Ver" />
+<Field Token="67109010" Name="ShortApplicationTitle" />
+<Field Token="67109011" Name="ApplicationTitle" />
+<Field Token="67109012" Name="DownloadURL" />
+<Field Token="67109013" Name="HelpURL" />
+<Field Token="67109014" Name="ProductWebpageURL" />
+<Field Token="67109015" Name="BuyURL" />
+<Field Token="67109016" Name="VersionURL" />
+<Field Token="67109017" Name="TipText" />
+<Field Token="67109018" Name="GeneratedTemporaryFiles" />
+<Field Token="67109019" Name="args" />
+<Field Token="67109020" Name="OpenFilesFilter" />
+<Field Token="67109021" Name="AcceptableMediaInputPattern" />
+<Field Token="67109022" Name="AppDataDirectory" />
+<Field Token="67109023" Name="CurrentImagesDirectory" />
+<Field Token="67109024" Name="SelectedLanguage" />
+<Field Token="67109025" Name="IsCommandLine" />
+<Field Token="67109026" Name="IsFromWindowsExplorer" />
+<Field Token="67109027" Name="DoNotOverwriteFiles" />
+<Field Token="67109028" Name="AskBeforeOverwrite" />
+<Field Token="67109029" Name="LeaveSameDateTime" />
+<Field Token="67109030" Name="OutputFilepath" />
+<Field Token="67109031" Name="_Modex64" />
 <Type Token="33554450" Name="SimpleRandomWallpaper.NiceLine" />
-<Method Token="100663460" Name=".ctor" Variables="this;" ParamCnt="1" />
-<Method Token="100663461" Name="get_Caption" Variables="this;V_0;" ParamCnt="1" />
-<Method Token="100663462" Name="set_Caption" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663463" Name="get_CaptionMarginSpace" Variables="this;V_0;" ParamCnt="1" />
-<Method Token="100663464" Name="set_CaptionMarginSpace" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663465" Name="get_CaptionPadding" Variables="this;V_0;" ParamCnt="1" />
-<Method Token="100663466" Name="set_CaptionPadding" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663467" Name="get_LineVerticalAlign" Variables="this;V_0;" ParamCnt="1" />
-<Method Token="100663468" Name="set_LineVerticalAlign" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663469" Name="get_CaptionOrizontalAlign" Variables="this;V_0;" ParamCnt="1" />
-<Method Token="100663470" Name="set_CaptionOrizontalAlign" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663471" Name="Dispose" Variables="this;disposing;V_0;V_1;" ParamCnt="2" />
-<Method Token="100663472" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
-<Method Token="100663473" Name="OnPaint" Variables="this;e;ym;captionSizeF;captionLength;beforeCaption;afterCaption;V_5;V_6;V_7;V_8;V_9;V_10;V_11;" ParamCnt="2" />
-<Method Token="100663474" Name="OnResize" Variables="this;e;" ParamCnt="2" />
-<Method Token="100663475" Name="OnFontChanged" Variables="this;e;" ParamCnt="2" />
-<Field Token="67109029" Name="components" />
-<Field Token="67109030" Name="_Caption" />
-<Field Token="67109031" Name="_CaptionMarginSpace" />
-<Field Token="67109032" Name="_CaptionPadding" />
-<Field Token="67109033" Name="_LineVerticalAlign" />
-<Field Token="67109034" Name="_CaptionOrizontalAlign" />
+<Method Token="100663461" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663462" Name="get_Caption" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663463" Name="set_Caption" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663464" Name="get_CaptionMarginSpace" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663465" Name="set_CaptionMarginSpace" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663466" Name="get_CaptionPadding" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663467" Name="set_CaptionPadding" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663468" Name="get_LineVerticalAlign" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663469" Name="set_LineVerticalAlign" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663470" Name="get_CaptionOrizontalAlign" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663471" Name="set_CaptionOrizontalAlign" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663472" Name="Dispose" Variables="this;disposing;V_0;V_1;" ParamCnt="2" />
+<Method Token="100663473" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Method Token="100663474" Name="OnPaint" Variables="this;e;ym;captionSizeF;captionLength;beforeCaption;afterCaption;V_5;V_6;V_7;V_8;V_9;V_10;V_11;" ParamCnt="2" />
+<Method Token="100663475" Name="OnResize" Variables="this;e;" ParamCnt="2" />
+<Method Token="100663476" Name="OnFontChanged" Variables="this;e;" ParamCnt="2" />
+<Field Token="67109032" Name="components" />
+<Field Token="67109033" Name="_Caption" />
+<Field Token="67109034" Name="_CaptionMarginSpace" />
+<Field Token="67109035" Name="_CaptionPadding" />
+<Field Token="67109036" Name="_LineVerticalAlign" />
+<Field Token="67109037" Name="_CaptionOrizontalAlign" />
 <Type Token="33554451" Name="SimpleRandomWallpaper.LineVerticalAlign" />
-<Field Token="67109035" Name="value__" />
-<Field Token="67109036" Name="Top" />
-<Field Token="67109037" Name="Middle" />
-<Field Token="67109038" Name="Bottom" />
+<Field Token="67109038" Name="value__" />
+<Field Token="67109039" Name="Top" />
+<Field Token="67109040" Name="Middle" />
+<Field Token="67109041" Name="Bottom" />
 <Type Token="33554452" Name="SimpleRandomWallpaper.CaptionOrizontalAlign" />
-<Field Token="67109039" Name="value__" />
-<Field Token="67109040" Name="Left" />
-<Field Token="67109041" Name="Center" />
-<Field Token="67109042" Name="Right" />
+<Field Token="67109042" Name="value__" />
+<Field Token="67109043" Name="Left" />
+<Field Token="67109044" Name="Center" />
+<Field Token="67109045" Name="Right" />
 <Type Token="33554454" Name="SimpleRandomWallpaper.ProcessExtensions" />
-<Method Token="100663483" Name=".cctor" Variables="" ParamCnt="0" />
-<Method Token="100663484" Name="CreateProcessAsUser" Variables="hToken;lpApplicationName;lpCommandLine;lpProcessAttributes;lpThreadAttributes;bInheritHandle;dwCreationFlags;lpEnvironment;lpCurrentDirectory;lpStartupInfo;lpProcessInformation;" ParamCnt="11" />
-<Method Token="100663485" Name="DuplicateTokenEx" Variables="ExistingTokenHandle;dwDesiredAccess;lpThreadAttributes;TokenType;ImpersonationLevel;DuplicateTokenHandle;" ParamCnt="6" />
-<Method Token="100663486" Name="CreateEnvironmentBlock" Variables="lpEnvironment;hToken;bInherit;" ParamCnt="3" />
-<Method Token="100663487" Name="DestroyEnvironmentBlock" Variables="lpEnvironment;" ParamCnt="1" />
-<Method Token="100663488" Name="CloseHandle" Variables="hSnapshot;" ParamCnt="1" />
-<Method Token="100663489" Name="WTSGetActiveConsoleSessionId" Variables="" ParamCnt="0" />
-<Method Token="100663490" Name="WTSQueryUserToken" Variables="SessionId;phToken;" ParamCnt="2" />
-<Method Token="100663491" Name="WTSEnumerateSessions" Variables="hServer;Reserved;Version;ppSessionInfo;pCount;" ParamCnt="5" />
-<Method Token="100663492" Name="GetSessionUserToken" Variables="phUserToken;bResult;hImpersonationToken;activeSessionId;pSessionInfo;sessionCount;V_5;arrayElementSize;current;i;si;V_10;V_11;V_12;V_13;V_14;" ParamCnt="1" />
-<Method Token="100663493" Name="StartProcessAsCurrentUser" Variables="appPath;cmdLine;workDir;visible;hUserToken;startInfo;procInfo;pEnv;iResultOfCreateProcessAsUser;dwCreationFlags;V_6;V_7;V_8;V_9;V_10;" ParamCnt="4" />
-<Method Token="100663494" Name="ConvertSidToStringSid" Variables="pSID;ptrSid;" ParamCnt="2" />
-<Method Token="100663495" Name="LocalFree" Variables="hMem;" ParamCnt="1" />
-<Method Token="100663496" Name="GetTokenInformation" Variables="TokenHandle;TokenInformationClass;TokenInformation;TokenInformationLength;ReturnLength;" ParamCnt="5" />
-<Method Token="100663497" Name="GetCurrentSessionUsername" Variables="hUserToken;TokenInfLength;Result;TokenInformation;sidstr;V_5;V_6;TokenUser;pstr;ok;V_10;" ParamCnt="0" />
-<Field Token="67109049" Name="CREATE_UNICODE_ENVIRONMENT" />
-<Field Token="67109050" Name="CREATE_NO_WINDOW" />
-<Field Token="67109051" Name="CREATE_NEW_CONSOLE" />
-<Field Token="67109052" Name="INVALID_SESSION_ID" />
-<Field Token="67109053" Name="WTS_CURRENT_SERVER_HANDLE" />
+<Method Token="100663484" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663485" Name="CreateProcessAsUser" Variables="hToken;lpApplicationName;lpCommandLine;lpProcessAttributes;lpThreadAttributes;bInheritHandle;dwCreationFlags;lpEnvironment;lpCurrentDirectory;lpStartupInfo;lpProcessInformation;" ParamCnt="11" />
+<Method Token="100663486" Name="DuplicateTokenEx" Variables="ExistingTokenHandle;dwDesiredAccess;lpThreadAttributes;TokenType;ImpersonationLevel;DuplicateTokenHandle;" ParamCnt="6" />
+<Method Token="100663487" Name="CreateEnvironmentBlock" Variables="lpEnvironment;hToken;bInherit;" ParamCnt="3" />
+<Method Token="100663488" Name="DestroyEnvironmentBlock" Variables="lpEnvironment;" ParamCnt="1" />
+<Method Token="100663489" Name="CloseHandle" Variables="hSnapshot;" ParamCnt="1" />
+<Method Token="100663490" Name="WTSGetActiveConsoleSessionId" Variables="" ParamCnt="0" />
+<Method Token="100663491" Name="WTSQueryUserToken" Variables="SessionId;phToken;" ParamCnt="2" />
+<Method Token="100663492" Name="WTSEnumerateSessions" Variables="hServer;Reserved;Version;ppSessionInfo;pCount;" ParamCnt="5" />
+<Method Token="100663493" Name="GetSessionUserToken" Variables="phUserToken;bResult;hImpersonationToken;activeSessionId;pSessionInfo;sessionCount;V_5;arrayElementSize;current;i;si;V_10;V_11;V_12;V_13;V_14;" ParamCnt="1" />
+<Method Token="100663494" Name="StartProcessAsCurrentUser" Variables="appPath;cmdLine;workDir;visible;hUserToken;startInfo;procInfo;pEnv;iResultOfCreateProcessAsUser;dwCreationFlags;V_6;V_7;V_8;V_9;V_10;" ParamCnt="4" />
+<Method Token="100663495" Name="ConvertSidToStringSid" Variables="pSID;ptrSid;" ParamCnt="2" />
+<Method Token="100663496" Name="LocalFree" Variables="hMem;" ParamCnt="1" />
+<Method Token="100663497" Name="GetTokenInformation" Variables="TokenHandle;TokenInformationClass;TokenInformation;TokenInformationLength;ReturnLength;" ParamCnt="5" />
+<Method Token="100663498" Name="GetCurrentSessionUsername" Variables="hUserToken;TokenInfLength;Result;TokenInformation;sidstr;V_5;V_6;TokenUser;pstr;ok;V_10;" ParamCnt="0" />
+<Field Token="67109052" Name="CREATE_UNICODE_ENVIRONMENT" />
+<Field Token="67109053" Name="CREATE_NO_WINDOW" />
+<Field Token="67109054" Name="CREATE_NEW_CONSOLE" />
+<Field Token="67109055" Name="INVALID_SESSION_ID" />
+<Field Token="67109056" Name="WTS_CURRENT_SERVER_HANDLE" />
 <Type Token="33554455" Name="SimpleRandomWallpaper.Program" />
-<Method Token="100663498" Name="Main" Variables="args;V_0;str;k;V_3;V_4;V_5;V_6;sid;V_8;" ParamCnt="1" />
-<Method Token="100663499" Name="RemoveQuotes" Variables="str;V_0;V_1;V_2;" ParamCnt="1" />
+<Method Token="100663499" Name="Main" Variables="args;V_0;str;k;V_3;V_4;V_5;V_6;sid;V_8;" ParamCnt="1" />
+<Method Token="100663500" Name="RemoveQuotes" Variables="str;V_0;V_1;V_2;" ParamCnt="1" />
 <Type Token="33554456" Name="SimpleRandomWallpaper.RecentFilesHelper" />
-<Method Token="100663500" Name=".ctor" Variables="this;" ParamCnt="1" />
-<Method Token="100663501" Name="FillMenuRecentFile" Variables="str;k;V_2;" ParamCnt="0" />
-<Method Token="100663502" Name="FillMenuRecentFolder" Variables="str;k;V_2;" ParamCnt="0" />
-<Method Token="100663503" Name="FillMenuRecentImportList" Variables="str;k;V_2;" ParamCnt="0" />
-<Method Token="100663504" Name="AddRecentFile" Variables="filepath;str;strl;newrec;V_3;k;V_5;" ParamCnt="1" />
-<Method Token="100663505" Name="ImportListRecent" Variables="filepath;str;strl;newrec;V_3;k;V_5;" ParamCnt="1" />
-<Method Token="100663506" Name="AddRecentFolder" Variables="filepath;str;strl;newrec;V_3;k;V_5;" ParamCnt="1" />
-<Method Token="100663507" Name="ArrayToListString" Variables="str;strl;k;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663501" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663502" Name="FillMenuRecentFile" Variables="str;k;V_2;" ParamCnt="0" />
+<Method Token="100663503" Name="FillMenuRecentFolder" Variables="str;k;V_2;" ParamCnt="0" />
+<Method Token="100663504" Name="FillMenuRecentImportList" Variables="str;k;V_2;" ParamCnt="0" />
+<Method Token="100663505" Name="AddRecentFile" Variables="filepath;str;strl;newrec;V_3;k;V_5;" ParamCnt="1" />
+<Method Token="100663506" Name="ImportListRecent" Variables="filepath;str;strl;newrec;V_3;k;V_5;" ParamCnt="1" />
+<Method Token="100663507" Name="AddRecentFolder" Variables="filepath;str;strl;newrec;V_3;k;V_5;" ParamCnt="1" />
+<Method Token="100663508" Name="ArrayToListString" Variables="str;strl;k;V_2;V_3;" ParamCnt="1" />
 <Type Token="33554457" Name="SimpleRandomWallpaper.RegistryHelper2" />
-<Method Token="100663508" Name=".ctor" Variables="this;" ParamCnt="1" />
-<Method Token="100663509" Name="GetKeyValue" Variables="AppRegKey;keystr;key;key2;key3;V_3;V_4;V_5;V_6;V_7;V_8;" ParamCnt="2" />
-<Method Token="100663510" Name="SetKeyValue" Variables="AppRegKey;keystr;keyvalue;key;key2;key3;V_3;V_4;V_5;V_6;V_7;V_8;" ParamCnt="3" />
-<Method Token="100663511" Name="GetKeyValueLMLowPriv" Variables="AppRegKey;keystr;key;key2;key3;V_3;V_4;V_5;V_6;" ParamCnt="2" />
-<Method Token="100663512" Name="RegisterKeyLmFolder" Variables="app;key;lstval;keym;keym2;valnames;V_3;V_4;V_5;V_6;V_7;k;V_9;k;V_11;V_12;" ParamCnt="3" />
-<Method Token="100663513" Name="RegisterKeyFolder" Variables="app;key;lstval;keym;keym2;valnames;V_3;V_4;V_5;V_6;V_7;k;V_9;k;V_11;V_12;" ParamCnt="3" />
+<Method Token="100663509" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663510" Name="GetKeyValue" Variables="AppRegKey;keystr;key;key2;key3;V_3;V_4;V_5;V_6;V_7;V_8;" ParamCnt="2" />
+<Method Token="100663511" Name="SetKeyValue" Variables="AppRegKey;keystr;keyvalue;key;key2;key3;V_3;V_4;V_5;V_6;V_7;V_8;" ParamCnt="3" />
+<Method Token="100663512" Name="GetKeyValueLMLowPriv" Variables="AppRegKey;keystr;key;key2;key3;V_3;V_4;V_5;V_6;" ParamCnt="2" />
+<Method Token="100663513" Name="RegisterKeyLmFolder" Variables="app;key;lstval;keym;keym2;valnames;V_3;V_4;V_5;V_6;V_7;k;V_9;k;V_11;V_12;" ParamCnt="3" />
+<Method Token="100663514" Name="RegisterKeyFolder" Variables="app;key;lstval;keym;keym2;valnames;V_3;V_4;V_5;V_6;V_7;k;V_9;k;V_11;V_12;" ParamCnt="3" />
 <Type Token="33554458" Name="SimpleRandomWallpaper.ResFlags" />
-<Method Token="100663514" Name=".ctor" Variables="this;" ParamCnt="1" />
-<Method Token="100663515" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
-<Method Token="100663516" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
-<Method Token="100663517" Name="set_Culture" Variables="value;" ParamCnt="1" />
-<Method Token="100663518" Name="get_flag_albania" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663519" Name="get_flag_belarus" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663520" Name="get_flag_bulgaria" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663521" Name="get_flag_china" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663522" Name="get_flag_croatia" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663523" Name="get_flag_czech_republic" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663524" Name="get_flag_denmark" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663525" Name="get_flag_estonia" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663526" Name="get_flag_finland" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663527" Name="get_flag_france" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663528" Name="get_flag_georgia" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663529" Name="get_flag_germany" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663530" Name="get_flag_great_britain" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663531" Name="get_flag_greece" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663532" Name="get_flag_hungary" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663533" Name="get_flag_iceland" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663534" Name="get_flag_india" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663535" Name="get_flag_indonesia" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663536" Name="get_flag_iran" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663537" Name="get_flag_ireland" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663538" Name="get_flag_israel" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663539" Name="get_flag_italy" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663540" Name="get_flag_japan" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663541" Name="get_flag_kenya" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663542" Name="get_flag_latvia" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663543" Name="get_flag_lithuania" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663544" Name="get_flag_netherlands" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663545" Name="get_flag_norway" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663546" Name="get_flag_pakistan" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663547" Name="get_flag_philippines" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663548" Name="get_flag_poland" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663549" Name="get_flag_portugal" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663550" Name="get_flag_romania" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663551" Name="get_flag_russia" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663552" Name="get_flag_saudi_arabia" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663553" Name="get_flag_serbia_montenegro" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663554" Name="get_flag_slovakia" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663555" Name="get_flag_slovenia" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663556" Name="get_flag_south_africa" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663557" Name="get_flag_south_korea" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663558" Name="get_flag_spain" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663559" Name="get_flag_sweden" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663560" Name="get_flag_taiwan" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663561" Name="get_flag_thailand" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663562" Name="get_flag_turkey" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663563" Name="get_flag_ukraine" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663564" Name="get_flag_vietnam" Variables="obj;V_1;" ParamCnt="0" />
-<Field Token="67109054" Name="resourceMan" />
-<Field Token="67109055" Name="resourceCulture" />
+<Method Token="100663515" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663516" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
+<Method Token="100663517" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663518" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663519" Name="get_flag_albania" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663520" Name="get_flag_belarus" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663521" Name="get_flag_bulgaria" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663522" Name="get_flag_china" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663523" Name="get_flag_croatia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663524" Name="get_flag_czech_republic" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663525" Name="get_flag_denmark" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663526" Name="get_flag_estonia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663527" Name="get_flag_finland" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663528" Name="get_flag_france" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663529" Name="get_flag_georgia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663530" Name="get_flag_germany" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663531" Name="get_flag_great_britain" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663532" Name="get_flag_greece" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663533" Name="get_flag_hungary" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663534" Name="get_flag_iceland" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663535" Name="get_flag_india" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663536" Name="get_flag_indonesia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663537" Name="get_flag_iran" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663538" Name="get_flag_ireland" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663539" Name="get_flag_israel" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663540" Name="get_flag_italy" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663541" Name="get_flag_japan" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663542" Name="get_flag_kenya" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663543" Name="get_flag_latvia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663544" Name="get_flag_lithuania" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663545" Name="get_flag_netherlands" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663546" Name="get_flag_norway" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663547" Name="get_flag_pakistan" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663548" Name="get_flag_philippines" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663549" Name="get_flag_poland" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663550" Name="get_flag_portugal" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663551" Name="get_flag_romania" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663552" Name="get_flag_russia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663553" Name="get_flag_saudi_arabia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663554" Name="get_flag_serbia_montenegro" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663555" Name="get_flag_slovakia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663556" Name="get_flag_slovenia" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663557" Name="get_flag_south_africa" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663558" Name="get_flag_south_korea" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663559" Name="get_flag_spain" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663560" Name="get_flag_sweden" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663561" Name="get_flag_taiwan" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663562" Name="get_flag_thailand" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663563" Name="get_flag_turkey" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663564" Name="get_flag_ukraine" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663565" Name="get_flag_vietnam" Variables="obj;V_1;" ParamCnt="0" />
+<Field Token="67109057" Name="resourceMan" />
+<Field Token="67109058" Name="resourceCulture" />
 <Type Token="33554459" Name="SimpleRandomWallpaper.ResTranslate" />
-<Method Token="100663565" Name=".ctor" Variables="this;" ParamCnt="1" />
-<Method Token="100663566" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
-<Method Token="100663567" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
-<Method Token="100663568" Name="set_Culture" Variables="value;" ParamCnt="1" />
-<Field Token="67109056" Name="resourceMan" />
-<Field Token="67109057" Name="resourceCulture" />
+<Method Token="100663566" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663567" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
+<Method Token="100663568" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663569" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Field Token="67109059" Name="resourceMan" />
+<Field Token="67109060" Name="resourceCulture" />
 <Type Token="33554460" Name="SimpleRandomWallpaper.TranslateHelper" />
-<Method Token="100663569" Name=".ctor" Variables="this;" ParamCnt="1" />
-<Method Token="100663570" Name=".cctor" Variables="" ParamCnt="0" />
-<Method Token="100663571" Name="Translate" Variables="str;V_0;cm;V_2;cm;trnstr;V_5;V_6;V_7;V_8;V_9;V_10;V_11;" ParamCnt="1" />
-<Field Token="67109058" Name="rm" />
-<Field Token="67109059" Name="rm2" />
+<Method Token="100663570" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663571" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663572" Name="Translate" Variables="str;V_0;cm;V_2;cm;trnstr;V_5;V_6;V_7;V_8;V_9;V_10;V_11;" ParamCnt="1" />
+<Field Token="67109061" Name="rm" />
+<Field Token="67109062" Name="rm2" />
 <Type Token="33554461" Name="SimpleRandomWallpaper.ucTextProgressBar" />
-<Method Token="100663572" Name=".ctor" Variables="this;" ParamCnt="1" />
-<Method Token="100663573" Name="SetText" Variables="this;str;V_0;" ParamCnt="2" />
-<Method Token="100663574" Name="UpdatePercentage" Variables="this;curval;maxval;perc;" ParamCnt="1" />
-<Method Token="100663575" Name="zOnPaint" Variables="this;e;curval;maxval;perc;rangerect;font;brBack;V_6;fillBrush;sPoint;V_9;p;" ParamCnt="2" />
-<Method Token="100663576" Name="WndProc" Variables="this;m;V_0;V_1;graphics;font;textSize;" ParamCnt="2" />
-<Method Token="100663577" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
-<Method Token="100663578" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
-<Field Token="67109060" Name="lblText" />
-<Field Token="67109061" Name="WmPaint" />
-<Field Token="67109062" Name="components" />
+<Method Token="100663573" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663574" Name="SetText" Variables="this;str;V_0;" ParamCnt="2" />
+<Method Token="100663575" Name="UpdatePercentage" Variables="this;curval;maxval;perc;" ParamCnt="1" />
+<Method Token="100663576" Name="zOnPaint" Variables="this;e;curval;maxval;perc;rangerect;font;brBack;V_6;fillBrush;sPoint;V_9;p;" ParamCnt="2" />
+<Method Token="100663577" Name="WndProc" Variables="this;m;V_0;V_1;graphics;font;textSize;" ParamCnt="2" />
+<Method Token="100663578" Name="Dispose" Variables="this;disposing;V_0;" ParamCnt="2" />
+<Method Token="100663579" Name="InitializeComponent" Variables="this;" ParamCnt="1" />
+<Field Token="67109063" Name="lblText" />
+<Field Token="67109064" Name="WmPaint" />
+<Field Token="67109065" Name="components" />
 <Type Token="33554462" Name="SimpleRandomWallpaper.UpdateHelper" />
-<Method Token="100663579" Name=".ctor" Variables="this;" ParamCnt="1" />
-<Method Token="100663580" Name=".cctor" Variables="" ParamCnt="0" />
-<Method Token="100663581" Name="InitializeCheckVersionWeek" Variables="lastcheck;V_1;month;day;year;dtlast;V_6;V_7;V_8;" ParamCnt="0" />
-<Method Token="100663582" Name="InitializeCheckVersion" Variables="" ParamCnt="0" />
-<Method Token="100663583" Name="bwCheckVersion_ProgressChanged" Variables="sender;e;res;V_1;V_2;V_3;fdu;resq;V_6;fdu;" ParamCnt="2" />
-<Method Token="100663584" Name="bwCheckVersion_RunWorkerCompleted" Variables="sender;e;" ParamCnt="2" />
-<Method Token="100663585" Name="bwCheckVersion_DoWork" Variables="sender;e;res;" ParamCnt="2" />
-<Method Token="100663586" Name="CheckVersionBackground" Variables="onstart;res;str;V_3;V_4;V_5;epos;price;V_8;sr;line;found;epos;title;version;app;V_16;verdotpos;vermajor;verminor;curverepos;V_21;curver;dotpos;curmajor;curminor;V_26;V_27;V_28;V_29;V_30;V_31;V_32;V_33;V_34;" ParamCnt="0" />
-<Method Token="100663587" Name="DownloadPage" Variables="uri;client;data;reader;s;V_4;ex;" ParamCnt="1" />
-<Method Token="100663588" Name="CheckVersion" Variables="onstart;str;V_1;sr;line;found;epos;title;version;app;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;" ParamCnt="1" />
-<Field Token="67109063" Name="bwCheckVersion" />
+<Method Token="100663580" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663581" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663582" Name="InitializeCheckVersionWeek" Variables="lastcheck;V_1;month;day;year;dtlast;V_6;V_7;V_8;" ParamCnt="0" />
+<Method Token="100663583" Name="InitializeCheckVersion" Variables="" ParamCnt="0" />
+<Method Token="100663584" Name="bwCheckVersion_ProgressChanged" Variables="sender;e;res;V_1;V_2;V_3;fdu;resq;V_6;fdu;" ParamCnt="2" />
+<Method Token="100663585" Name="bwCheckVersion_RunWorkerCompleted" Variables="sender;e;" ParamCnt="2" />
+<Method Token="100663586" Name="bwCheckVersion_DoWork" Variables="sender;e;res;" ParamCnt="2" />
+<Method Token="100663587" Name="CheckVersionBackground" Variables="onstart;res;str;V_3;V_4;V_5;epos;price;V_8;sr;line;found;epos;title;version;app;V_16;verdotpos;vermajor;verminor;curverepos;V_21;curver;dotpos;curmajor;curminor;V_26;V_27;V_28;V_29;V_30;V_31;V_32;V_33;V_34;" ParamCnt="0" />
+<Method Token="100663588" Name="DownloadPage" Variables="uri;client;data;reader;s;V_4;ex;" ParamCnt="1" />
+<Method Token="100663589" Name="CheckVersion" Variables="onstart;str;V_1;sr;line;found;epos;title;version;app;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;" ParamCnt="1" />
+<Field Token="67109066" Name="bwCheckVersion" />
 <Type Token="33554463" Name="SimpleRandomWallpaper.CheckVersionResult" />
-<Method Token="100663589" Name=".ctor" Variables="this;" ParamCnt="1" />
-<Field Token="67109064" Name="NewVersionReleased" />
-<Field Token="67109065" Name="ItIsNecessaryToUpdate" />
-<Field Token="67109066" Name="OutputMessage" />
-<Type Token="33554464" Name="SimpleRandomWallpaper.URLLinkLabel" />
 <Method Token="100663590" Name=".ctor" Variables="this;" ParamCnt="1" />
-<Method Token="100663591" Name="OnClick" Variables="this;e;" ParamCnt="2" />
+<Field Token="67109067" Name="NewVersionReleased" />
+<Field Token="67109068" Name="ItIsNecessaryToUpdate" />
+<Field Token="67109069" Name="OutputMessage" />
+<Type Token="33554464" Name="SimpleRandomWallpaper.URLLinkLabel" />
+<Method Token="100663591" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663592" Name="OnClick" Variables="this;e;" ParamCnt="2" />
 <Type Token="33554465" Name="SimpleRandomWallpaper.WallpaperChanger" />
-<Method Token="100663592" Name=".ctor" Variables="this;" ParamCnt="1" />
-<Method Token="100663593" Name=".cctor" Variables="" ParamCnt="0" />
-<Method Token="100663594" Name="SystemParametersInfo" Variables="uiAction;uiParam;pvParam;fWinIni;" ParamCnt="4" />
-<Method Token="100663595" Name="FindWindow" Variables="lpClassName;lpWindowName;" ParamCnt="2" />
-<Method Token="100663596" Name="SetParent" Variables="hWndChild;hWndNewParent;" ParamCnt="2" />
-<Method Token="100663597" Name="GetDesktopWindow" Variables="" ParamCnt="0" />
-<Method Token="100663598" Name="SetWallpaper" Variables="file;tpath;filez;npath;img;V_4;k;fi;V_7;V_8;V_9;" ParamCnt="1" />
-<Method Token="100663599" Name="SetRandomWallpaper" Variables="sid;lstimg;regkey;regkey2;valnames;r;l;wfile;V_7;V_8;V_9;V_10;k;line;subdirs;V_14;V_15;V_16;filez;V_18;m;V_20;V_21;V_22;V_23;V_24;V_25;" ParamCnt="1" />
-<Field Token="67109067" Name="SPI_SETDESKWALLPAPER" />
-<Field Token="67109068" Name="SPIF_UPDATEINIFILE" />
-<Field Token="67109069" Name="SettingsFolder" />
+<Method Token="100663593" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663594" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663595" Name="SystemParametersInfo" Variables="uiAction;uiParam;pvParam;fWinIni;" ParamCnt="4" />
+<Method Token="100663596" Name="FindWindow" Variables="lpClassName;lpWindowName;" ParamCnt="2" />
+<Method Token="100663597" Name="SetParent" Variables="hWndChild;hWndNewParent;" ParamCnt="2" />
+<Method Token="100663598" Name="GetDesktopWindow" Variables="" ParamCnt="0" />
+<Method Token="100663599" Name="SetWallpaper" Variables="file;tpath;filez;npath;img;V_4;k;fi;V_7;V_8;V_9;" ParamCnt="1" />
+<Method Token="100663600" Name="SetRandomWallpaper" Variables="sid;lstimg;regkey;regkey2;valnames;r;l;wfile;V_7;V_8;V_9;V_10;k;line;subdirs;V_14;V_15;V_16;filez;V_18;m;V_20;V_21;V_22;V_23;V_24;V_25;" ParamCnt="1" />
+<Field Token="67109070" Name="SPI_SETDESKWALLPAPER" />
+<Field Token="67109071" Name="SPIF_UPDATEINIFILE" />
+<Field Token="67109072" Name="SettingsFolder" />
 <Type Token="33554466" Name="SimpleRandomWallpaper.Properties.Resources" />
-<Method Token="100663600" Name=".ctor" Variables="this;" ParamCnt="1" />
-<Method Token="100663601" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
-<Method Token="100663602" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
-<Method Token="100663603" Name="set_Culture" Variables="value;" ParamCnt="1" />
-<Method Token="100663604" Name="get__4dots_logo_official" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663605" Name="get__4dots_logo_official_icon" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663606" Name="get_about" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663607" Name="get_add" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663608" Name="get_add1" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663609" Name="get_arrow_down_green" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663610" Name="get_arrow_left_blue" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663611" Name="get_arrow_right_blue" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663612" Name="get_arrow_up_green" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663613" Name="get_brush2" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663614" Name="get_brush4" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663615" Name="get_bullet_ball_glass_blue" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663616" Name="get_bullet_ball_glass_blue_16" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663617" Name="get_bullet_ball_glass_green" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663618" Name="get_bullet_ball_glass_red" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663619" Name="get_bullet_ball_glass_yellow" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663620" Name="get_cart_icon_b_24" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663621" Name="get_check" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663622" Name="get_copy" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663623" Name="get_cut" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663624" Name="get_delete" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663625" Name="get_delete1" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663626" Name="get_disk_blue" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663627" Name="get_document_preferences" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663628" Name="get_earth" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663629" Name="get_edit" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663630" Name="get_exit" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663631" Name="get_exit1" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663632" Name="get_facebook_24" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663633" Name="get_facebook_32" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663634" Name="get_flash" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663635" Name="get_flash1" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663636" Name="get_folder" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663637" Name="get_folder_add" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663638" Name="get_folder1" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663639" Name="get_googleplus_24" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663640" Name="get_help2" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663641" Name="get_import1" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663642" Name="get_information" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663643" Name="get_key1" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663644" Name="get_linkedin_24" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663645" Name="get_mail" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663646" Name="get_media_pause" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663647" Name="get_media_stop" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663648" Name="get_navigate_beginning" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663649" Name="get_navigate_end" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663650" Name="get_preferences" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663651" Name="get_simple_random_wallpaper_48" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663652" Name="get_twitter_24" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663653" Name="get_twitter_32" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663654" Name="get_warning" Variables="obj;V_1;" ParamCnt="0" />
-<Method Token="100663655" Name="get_youtube_32" Variables="obj;V_1;" ParamCnt="0" />
-<Field Token="67109070" Name="resourceMan" />
-<Field Token="67109071" Name="resourceCulture" />
+<Method Token="100663601" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663602" Name="get_ResourceManager" Variables="V_0;temp;V_2;" ParamCnt="0" />
+<Method Token="100663603" Name="get_Culture" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663604" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Method Token="100663605" Name="get__4dots_logo_official" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663606" Name="get__4dots_logo_official_icon" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663607" Name="get_about" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663608" Name="get_add" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663609" Name="get_add1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663610" Name="get_arrow_down_green" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663611" Name="get_arrow_left_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663612" Name="get_arrow_right_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663613" Name="get_arrow_up_green" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663614" Name="get_brush2" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663615" Name="get_brush4" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663616" Name="get_bullet_ball_glass_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663617" Name="get_bullet_ball_glass_blue_16" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663618" Name="get_bullet_ball_glass_green" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663619" Name="get_bullet_ball_glass_red" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663620" Name="get_bullet_ball_glass_yellow" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663621" Name="get_cart_icon_b_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663622" Name="get_check" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663623" Name="get_copy" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663624" Name="get_cut" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663625" Name="get_delete" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663626" Name="get_delete1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663627" Name="get_disk_blue" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663628" Name="get_document_preferences" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663629" Name="get_earth" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663630" Name="get_edit" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663631" Name="get_exit" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663632" Name="get_exit1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663633" Name="get_facebook_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663634" Name="get_facebook_32" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663635" Name="get_flash" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663636" Name="get_flash1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663637" Name="get_folder" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663638" Name="get_folder_add" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663639" Name="get_folder1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663640" Name="get_googleplus_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663641" Name="get_help2" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663642" Name="get_import1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663643" Name="get_information" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663644" Name="get_key1" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663645" Name="get_linkedin_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663646" Name="get_mail" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663647" Name="get_media_pause" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663648" Name="get_media_stop" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663649" Name="get_navigate_beginning" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663650" Name="get_navigate_end" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663651" Name="get_preferences" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663652" Name="get_simple_random_wallpaper_48" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663653" Name="get_twitter_24" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663654" Name="get_twitter_32" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663655" Name="get_warning" Variables="obj;V_1;" ParamCnt="0" />
+<Method Token="100663656" Name="get_youtube_32" Variables="obj;V_1;" ParamCnt="0" />
+<Field Token="67109073" Name="resourceMan" />
+<Field Token="67109074" Name="resourceCulture" />
 <Type Token="33554467" Name="SimpleRandomWallpaper.Properties.Settings" />
-<Method Token="100663656" Name=".ctor" Variables="this;" ParamCnt="1" />
-<Method Token="100663657" Name=".cctor" Variables="" ParamCnt="0" />
-<Method Token="100663658" Name="get_Default" Variables="V_0;" ParamCnt="0" />
-<Method Token="100663659" Name="get_Language" Variables="this;V_0;" ParamCnt="1" />
-<Method Token="100663660" Name="set_Language" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663661" Name="get_Maximized" Variables="this;V_0;" ParamCnt="1" />
-<Method Token="100663662" Name="set_Maximized" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663663" Name="get_Width" Variables="this;V_0;" ParamCnt="1" />
-<Method Token="100663664" Name="set_Width" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663665" Name="get_Height" Variables="this;V_0;" ParamCnt="1" />
-<Method Token="100663666" Name="set_Height" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663667" Name="get_Left" Variables="this;V_0;" ParamCnt="1" />
-<Method Token="100663668" Name="set_Left" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663669" Name="get_Top" Variables="this;V_0;" ParamCnt="1" />
-<Method Token="100663670" Name="set_Top" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663671" Name="get_Price" Variables="this;V_0;" ParamCnt="1" />
-<Method Token="100663672" Name="set_Price" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663673" Name="get_LastCheckVersion" Variables="this;V_0;" ParamCnt="1" />
-<Method Token="100663674" Name="set_LastCheckVersion" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663675" Name="get_ShowMessage" Variables="this;V_0;" ParamCnt="1" />
-<Method Token="100663676" Name="set_ShowMessage" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663677" Name="get_AddFolderRecent" Variables="this;V_0;" ParamCnt="1" />
-<Method Token="100663678" Name="set_AddFolderRecent" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663679" Name="get_AddFilesRecent" Variables="this;V_0;" ParamCnt="1" />
-<Method Token="100663680" Name="set_AddFilesRecent" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663681" Name="get_ImportListRecent" Variables="this;V_0;" ParamCnt="1" />
-<Method Token="100663682" Name="set_ImportListRecent" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663683" Name="get_Initialized" Variables="this;V_0;" ParamCnt="1" />
-<Method Token="100663684" Name="set_Initialized" Variables="this;value;" ParamCnt="2" />
-<Method Token="100663685" Name="get_CheckWeek" Variables="this;V_0;" ParamCnt="1" />
-<Method Token="100663686" Name="set_CheckWeek" Variables="this;value;" ParamCnt="2" />
-<Field Token="67109072" Name="defaultInstance" />
+<Method Token="100663657" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663658" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663659" Name="get_Default" Variables="V_0;" ParamCnt="0" />
+<Method Token="100663660" Name="get_Language" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663661" Name="set_Language" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663662" Name="get_Maximized" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663663" Name="set_Maximized" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663664" Name="get_Width" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663665" Name="set_Width" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663666" Name="get_Height" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663667" Name="set_Height" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663668" Name="get_Left" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663669" Name="set_Left" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663670" Name="get_Top" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663671" Name="set_Top" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663672" Name="get_Price" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663673" Name="set_Price" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663674" Name="get_LastCheckVersion" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663675" Name="set_LastCheckVersion" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663676" Name="get_ShowMessage" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663677" Name="set_ShowMessage" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663678" Name="get_AddFolderRecent" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663679" Name="set_AddFolderRecent" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663680" Name="get_AddFilesRecent" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663681" Name="set_AddFilesRecent" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663682" Name="get_ImportListRecent" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663683" Name="set_ImportListRecent" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663684" Name="get_Initialized" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663685" Name="set_Initialized" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663686" Name="get_CheckWeek" Variables="this;V_0;" ParamCnt="1" />
+<Method Token="100663687" Name="set_CheckWeek" Variables="this;value;" ParamCnt="2" />
+<Field Token="67109075" Name="defaultInstance" />
 <Type Token="33554468" Name="SimpleRandomWallpaper.ProcessExtensions/SW" />
-<Field Token="67109073" Name="value__" />
-<Field Token="67109074" Name="SW_HIDE" />
-<Field Token="67109075" Name="SW_SHOWNORMAL" />
-<Field Token="67109076" Name="SW_NORMAL" />
-<Field Token="67109077" Name="SW_SHOWMINIMIZED" />
-<Field Token="67109078" Name="SW_SHOWMAXIMIZED" />
-<Field Token="67109079" Name="SW_MAXIMIZE" />
-<Field Token="67109080" Name="SW_SHOWNOACTIVATE" />
-<Field Token="67109081" Name="SW_SHOW" />
-<Field Token="67109082" Name="SW_MINIMIZE" />
-<Field Token="67109083" Name="SW_SHOWMINNOACTIVE" />
-<Field Token="67109084" Name="SW_SHOWNA" />
-<Field Token="67109085" Name="SW_RESTORE" />
-<Field Token="67109086" Name="SW_SHOWDEFAULT" />
-<Field Token="67109087" Name="SW_MAX" />
+<Field Token="67109076" Name="value__" />
+<Field Token="67109077" Name="SW_HIDE" />
+<Field Token="67109078" Name="SW_SHOWNORMAL" />
+<Field Token="67109079" Name="SW_NORMAL" />
+<Field Token="67109080" Name="SW_SHOWMINIMIZED" />
+<Field Token="67109081" Name="SW_SHOWMAXIMIZED" />
+<Field Token="67109082" Name="SW_MAXIMIZE" />
+<Field Token="67109083" Name="SW_SHOWNOACTIVATE" />
+<Field Token="67109084" Name="SW_SHOW" />
+<Field Token="67109085" Name="SW_MINIMIZE" />
+<Field Token="67109086" Name="SW_SHOWMINNOACTIVE" />
+<Field Token="67109087" Name="SW_SHOWNA" />
+<Field Token="67109088" Name="SW_RESTORE" />
+<Field Token="67109089" Name="SW_SHOWDEFAULT" />
+<Field Token="67109090" Name="SW_MAX" />
 <Type Token="33554469" Name="SimpleRandomWallpaper.ProcessExtensions/WTS_CONNECTSTATE_CLASS" />
-<Field Token="67109088" Name="value__" />
-<Field Token="67109089" Name="WTSActive" />
-<Field Token="67109090" Name="WTSConnected" />
-<Field Token="67109091" Name="WTSConnectQuery" />
-<Field Token="67109092" Name="WTSShadow" />
-<Field Token="67109093" Name="WTSDisconnected" />
-<Field Token="67109094" Name="WTSIdle" />
-<Field Token="67109095" Name="WTSListen" />
-<Field Token="67109096" Name="WTSReset" />
-<Field Token="67109097" Name="WTSDown" />
-<Field Token="67109098" Name="WTSInit" />
+<Field Token="67109091" Name="value__" />
+<Field Token="67109092" Name="WTSActive" />
+<Field Token="67109093" Name="WTSConnected" />
+<Field Token="67109094" Name="WTSConnectQuery" />
+<Field Token="67109095" Name="WTSShadow" />
+<Field Token="67109096" Name="WTSDisconnected" />
+<Field Token="67109097" Name="WTSIdle" />
+<Field Token="67109098" Name="WTSListen" />
+<Field Token="67109099" Name="WTSReset" />
+<Field Token="67109100" Name="WTSDown" />
+<Field Token="67109101" Name="WTSInit" />
 <Type Token="33554470" Name="SimpleRandomWallpaper.ProcessExtensions/PROCESS_INFORMATION" />
-<Field Token="67109099" Name="hProcess" />
-<Field Token="67109100" Name="hThread" />
-<Field Token="67109101" Name="dwProcessId" />
-<Field Token="67109102" Name="dwThreadId" />
+<Field Token="67109102" Name="hProcess" />
+<Field Token="67109103" Name="hThread" />
+<Field Token="67109104" Name="dwProcessId" />
+<Field Token="67109105" Name="dwThreadId" />
 <Type Token="33554471" Name="SimpleRandomWallpaper.ProcessExtensions/SECURITY_IMPERSONATION_LEVEL" />
-<Field Token="67109103" Name="value__" />
-<Field Token="67109104" Name="SecurityAnonymous" />
-<Field Token="67109105" Name="SecurityIdentification" />
-<Field Token="67109106" Name="SecurityImpersonation" />
-<Field Token="67109107" Name="SecurityDelegation" />
+<Field Token="67109106" Name="value__" />
+<Field Token="67109107" Name="SecurityAnonymous" />
+<Field Token="67109108" Name="SecurityIdentification" />
+<Field Token="67109109" Name="SecurityImpersonation" />
+<Field Token="67109110" Name="SecurityDelegation" />
 <Type Token="33554472" Name="SimpleRandomWallpaper.ProcessExtensions/STARTUPINFO" />
-<Field Token="67109108" Name="cb" />
-<Field Token="67109109" Name="lpReserved" />
-<Field Token="67109110" Name="lpDesktop" />
-<Field Token="67109111" Name="lpTitle" />
-<Field Token="67109112" Name="dwX" />
-<Field Token="67109113" Name="dwY" />
-<Field Token="67109114" Name="dwXSize" />
-<Field Token="67109115" Name="dwYSize" />
-<Field Token="67109116" Name="dwXCountChars" />
-<Field Token="67109117" Name="dwYCountChars" />
-<Field Token="67109118" Name="dwFillAttribute" />
-<Field Token="67109119" Name="dwFlags" />
-<Field Token="67109120" Name="wShowWindow" />
-<Field Token="67109121" Name="cbReserved2" />
-<Field Token="67109122" Name="lpReserved2" />
-<Field Token="67109123" Name="hStdInput" />
-<Field Token="67109124" Name="hStdOutput" />
-<Field Token="67109125" Name="hStdError" />
+<Field Token="67109111" Name="cb" />
+<Field Token="67109112" Name="lpReserved" />
+<Field Token="67109113" Name="lpDesktop" />
+<Field Token="67109114" Name="lpTitle" />
+<Field Token="67109115" Name="dwX" />
+<Field Token="67109116" Name="dwY" />
+<Field Token="67109117" Name="dwXSize" />
+<Field Token="67109118" Name="dwYSize" />
+<Field Token="67109119" Name="dwXCountChars" />
+<Field Token="67109120" Name="dwYCountChars" />
+<Field Token="67109121" Name="dwFillAttribute" />
+<Field Token="67109122" Name="dwFlags" />
+<Field Token="67109123" Name="wShowWindow" />
+<Field Token="67109124" Name="cbReserved2" />
+<Field Token="67109125" Name="lpReserved2" />
+<Field Token="67109126" Name="hStdInput" />
+<Field Token="67109127" Name="hStdOutput" />
+<Field Token="67109128" Name="hStdError" />
 <Type Token="33554473" Name="SimpleRandomWallpaper.ProcessExtensions/TOKEN_TYPE" />
-<Field Token="67109126" Name="value__" />
-<Field Token="67109127" Name="TokenPrimary" />
-<Field Token="67109128" Name="TokenImpersonation" />
+<Field Token="67109129" Name="value__" />
+<Field Token="67109130" Name="TokenPrimary" />
+<Field Token="67109131" Name="TokenImpersonation" />
 <Type Token="33554474" Name="SimpleRandomWallpaper.ProcessExtensions/WTS_SESSION_INFO" />
-<Field Token="67109129" Name="SessionID" />
-<Field Token="67109130" Name="pWinStationName" />
-<Field Token="67109131" Name="State" />
+<Field Token="67109132" Name="SessionID" />
+<Field Token="67109133" Name="pWinStationName" />
+<Field Token="67109134" Name="State" />
 <Type Token="33554475" Name="SimpleRandomWallpaper.ProcessExtensions/TOKEN_INFORMATION_CLASS" />
-<Field Token="67109132" Name="value__" />
-<Field Token="67109133" Name="TokenUser" />
-<Field Token="67109134" Name="TokenGroups" />
-<Field Token="67109135" Name="TokenPrivileges" />
-<Field Token="67109136" Name="TokenOwner" />
-<Field Token="67109137" Name="TokenPrimaryGroup" />
-<Field Token="67109138" Name="TokenDefaultDacl" />
-<Field Token="67109139" Name="TokenSource" />
-<Field Token="67109140" Name="TokenType" />
-<Field Token="67109141" Name="TokenImpersonationLevel" />
-<Field Token="67109142" Name="TokenStatistics" />
-<Field Token="67109143" Name="TokenRestrictedSids" />
-<Field Token="67109144" Name="TokenSessionId" />
-<Field Token="67109145" Name="TokenGroupsAndPrivileges" />
-<Field Token="67109146" Name="TokenSessionReference" />
-<Field Token="67109147" Name="TokenSandBoxInert" />
-<Field Token="67109148" Name="TokenAuditPolicy" />
-<Field Token="67109149" Name="TokenOrigin" />
+<Field Token="67109135" Name="value__" />
+<Field Token="67109136" Name="TokenUser" />
+<Field Token="67109137" Name="TokenGroups" />
+<Field Token="67109138" Name="TokenPrivileges" />
+<Field Token="67109139" Name="TokenOwner" />
+<Field Token="67109140" Name="TokenPrimaryGroup" />
+<Field Token="67109141" Name="TokenDefaultDacl" />
+<Field Token="67109142" Name="TokenSource" />
+<Field Token="67109143" Name="TokenType" />
+<Field Token="67109144" Name="TokenImpersonationLevel" />
+<Field Token="67109145" Name="TokenStatistics" />
+<Field Token="67109146" Name="TokenRestrictedSids" />
+<Field Token="67109147" Name="TokenSessionId" />
+<Field Token="67109148" Name="TokenGroupsAndPrivileges" />
+<Field Token="67109149" Name="TokenSessionReference" />
+<Field Token="67109150" Name="TokenSandBoxInert" />
+<Field Token="67109151" Name="TokenAuditPolicy" />
+<Field Token="67109152" Name="TokenOrigin" />
 <Type Token="33554476" Name="SimpleRandomWallpaper.ProcessExtensions/TOKEN_USER" />
-<Field Token="67109150" Name="User" />
+<Field Token="67109153" Name="User" />
 <Type Token="33554477" Name="SimpleRandomWallpaper.ProcessExtensions/SID_AND_ATTRIBUTES" />
-<Field Token="67109151" Name="Sid" />
-<Field Token="67109152" Name="Attributes" />
+<Field Token="67109154" Name="Sid" />
+<Field Token="67109155" Name="Attributes" />
 <Type Token="33554435" Name="A.AssemblyInfoAttribute" />
 <Method Token="100663306" Name="" Variables="this;str;" ParamCnt="2" />
 </Assembly></Mappings>

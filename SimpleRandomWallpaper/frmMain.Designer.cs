@@ -47,6 +47,7 @@
             this.selectAllToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.seelctNoneToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.invertSelectionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.downloadSoftwareToolStripMenuItem = new com.softpcapps.download_software.DownloadSoftwareToolStripMenuItem();
             this.languageToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.languages1ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.languages2ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -54,6 +55,7 @@
             this.helpGuideToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.pleaseDonateToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.dotsSoftwarePRODUCTCATALOGToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.checkForNewVersionEachWeekToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.tiHelpFeedback = new System.Windows.Forms.ToolStripMenuItem();
             this.checkForNewVersionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripSeparator();
@@ -98,7 +100,6 @@
             this.btnOK = new System.Windows.Forms.Button();
             this.btnExit = new System.Windows.Forms.Button();
             this.chkEnableCurrentUser = new System.Windows.Forms.CheckBox();
-            this.checkForNewVersionEachWeekToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgFiles)).BeginInit();
             this.cmsFiles.SuspendLayout();
@@ -115,6 +116,7 @@
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.fileToolStripMenuItem,
             this.editToolStripMenuItem,
+            this.downloadSoftwareToolStripMenuItem,
             this.languageToolStripMenuItem,
             this.helpToolStripMenuItem});
             resources.ApplyResources(this.menuStrip1, "menuStrip1");
@@ -230,6 +232,11 @@
             resources.ApplyResources(this.invertSelectionToolStripMenuItem, "invertSelectionToolStripMenuItem");
             this.invertSelectionToolStripMenuItem.Click += new System.EventHandler(this.invertSelectionToolStripMenuItem_Click);
             // 
+            // downloadSoftwareToolStripMenuItem
+            // 
+            this.downloadSoftwareToolStripMenuItem.Name = "downloadSoftwareToolStripMenuItem";
+            resources.ApplyResources(this.downloadSoftwareToolStripMenuItem, "downloadSoftwareToolStripMenuItem");
+            // 
             // languageToolStripMenuItem
             // 
             this.languageToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
@@ -284,6 +291,12 @@
             this.dotsSoftwarePRODUCTCATALOGToolStripMenuItem.ForeColor = System.Drawing.Color.DarkBlue;
             this.dotsSoftwarePRODUCTCATALOGToolStripMenuItem.Name = "dotsSoftwarePRODUCTCATALOGToolStripMenuItem";
             this.dotsSoftwarePRODUCTCATALOGToolStripMenuItem.Click += new System.EventHandler(this.dotsSoftwarePRODUCTCATALOGToolStripMenuItem_Click);
+            // 
+            // checkForNewVersionEachWeekToolStripMenuItem
+            // 
+            this.checkForNewVersionEachWeekToolStripMenuItem.CheckOnClick = true;
+            this.checkForNewVersionEachWeekToolStripMenuItem.Name = "checkForNewVersionEachWeekToolStripMenuItem";
+            resources.ApplyResources(this.checkForNewVersionEachWeekToolStripMenuItem, "checkForNewVersionEachWeekToolStripMenuItem");
             // 
             // tiHelpFeedback
             // 
@@ -633,12 +646,6 @@
             this.chkEnableCurrentUser.Name = "chkEnableCurrentUser";
             this.chkEnableCurrentUser.UseVisualStyleBackColor = false;
             // 
-            // checkForNewVersionEachWeekToolStripMenuItem
-            // 
-            this.checkForNewVersionEachWeekToolStripMenuItem.CheckOnClick = true;
-            this.checkForNewVersionEachWeekToolStripMenuItem.Name = "checkForNewVersionEachWeekToolStripMenuItem";
-            resources.ApplyResources(this.checkForNewVersionEachWeekToolStripMenuItem, "checkForNewVersionEachWeekToolStripMenuItem");
-            // 
             // frmMain
             // 
             resources.ApplyResources(this, "$this");
@@ -754,5 +761,6 @@
         private System.Windows.Forms.ToolStripMenuItem importListFromExcelFileToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem enterListOfFIlesToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem checkForNewVersionEachWeekToolStripMenuItem;
+        private com.softpcapps.download_software.DownloadSoftwareToolStripMenuItem downloadSoftwareToolStripMenuItem;
     }
 }

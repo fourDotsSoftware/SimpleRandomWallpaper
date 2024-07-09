@@ -245,6 +245,12 @@
   <data name="editToolStripMenuItem.Text" xml:space="preserve">
     <value>&amp;Edit</value>
   </data>
+  <data name="downloadSoftwareToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>123, 20</value>
+  </data>
+  <data name="downloadSoftwareToolStripMenuItem.Text" xml:space="preserve">
+    <value>&amp;Other Apps from us</value>
+  </data>
   <data name="languages1ToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>140, 22</value>
   </data>
@@ -288,7 +294,7 @@
     <value>274, 22</value>
   </data>
   <data name="dotsSoftwarePRODUCTCATALOGToolStripMenuItem.Text" xml:space="preserve">
-    <value>4dots Software PRODUCT CATALOG</value>
+    <value>softpcapps Software PRODUCT CATALOG</value>
   </data>
   <data name="checkForNewVersionEachWeekToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>274, 22</value>
@@ -321,7 +327,7 @@
     <value>274, 22</value>
   </data>
   <data name="visit4dotsSoftwareWebsiteToolStripMenuItem.Text" xml:space="preserve">
-    <value>&amp;Visit 4dots Software Website</value>
+    <value>&amp;Visit softpcapps Software Website</value>
   </data>
   <data name="aboutToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
     <value>274, 22</value>
@@ -1498,6 +1504,12 @@
   <data name="&gt;&gt;invertSelectionToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="&gt;&gt;downloadSoftwareToolStripMenuItem.Name" xml:space="preserve">
+    <value>downloadSoftwareToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;downloadSoftwareToolStripMenuItem.Type" xml:space="preserve">
+    <value>com._4dots_software.download_software.DownloadSoftwareToolStripMenuItem, com.4dots-software.download-software, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
   <data name="&gt;&gt;languageToolStripMenuItem.Name" xml:space="preserve">
     <value>languageToolStripMenuItem</value>
   </data>
@@ -1538,6 +1550,12 @@
     <value>dotsSoftwarePRODUCTCATALOGToolStripMenuItem</value>
   </data>
   <data name="&gt;&gt;dotsSoftwarePRODUCTCATALOGToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;checkForNewVersionEachWeekToolStripMenuItem.Name" xml:space="preserve">
+    <value>checkForNewVersionEachWeekToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;checkForNewVersionEachWeekToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;tiHelpFeedback.Name" xml:space="preserve">
@@ -1671,12 +1689,6 @@
   </data>
   <data name="&gt;&gt;folderBrowserDialog1.Type" xml:space="preserve">
     <value>System.Windows.Forms.FolderBrowserDialog, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;checkForNewVersionEachWeekToolStripMenuItem.Name" xml:space="preserve">
-    <value>checkForNewVersionEachWeekToolStripMenuItem</value>
-  </data>
-  <data name="&gt;&gt;checkForNewVersionEachWeekToolStripMenuItem.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>frmMain</value>

@@ -19,11 +19,11 @@ namespace SimpleRandomWallpaper
 
                 try
                 {
-                    key2 = key.OpenSubKey("4dots Software",true);
+                    key2 = key.OpenSubKey("softpcapps Software",true);
 
                     if (key2 == null)
                     {
-                        key2 = key.CreateSubKey("4dots Software");
+                        key2 = key.CreateSubKey("softpcapps Software");
                     }
 
                     RegistryKey key3 = key2.OpenSubKey(AppRegKey,true);
@@ -77,11 +77,11 @@ namespace SimpleRandomWallpaper
 
             try
             {
-                key2 = key.OpenSubKey("4dots Software",true);
+                key2 = key.OpenSubKey("softpcapps Software",true);
 
                 if (key2 == null)
                 {
-                    key2 = key.CreateSubKey("4dots Software");
+                    key2 = key.CreateSubKey("softpcapps Software");
                 }
 
                 RegistryKey key3 = key2.OpenSubKey(AppRegKey, true);
@@ -135,7 +135,7 @@ namespace SimpleRandomWallpaper
 
                 try
                 {
-                    key2 = key.OpenSubKey("4dots Software");
+                    key2 = key.OpenSubKey("softpcapps Software");
 
                     RegistryKey key3 = key2.OpenSubKey(AppRegKey);
 
@@ -190,11 +190,11 @@ namespace SimpleRandomWallpaper
                 RegistryKey keym = Registry.LocalMachine;
                 RegistryKey keym2 = Registry.LocalMachine;
 
-                keym = keym.OpenSubKey("Software\\4dots Software", true);
+                keym = keym.OpenSubKey("Software\\softpcapps Software", true);
 
                 if (keym == null)
                 {
-                    keym = Registry.LocalMachine.CreateSubKey("SOFTWARE\\4dots Software");
+                    keym = Registry.LocalMachine.CreateSubKey("SOFTWARE\\softpcapps Software");
                 }
 
                 keym2 = keym.OpenSubKey(app, true);
@@ -248,11 +248,11 @@ namespace SimpleRandomWallpaper
                 RegistryKey keym = Registry.CurrentUser;
                 RegistryKey keym2 = Registry.CurrentUser;
 
-                keym = keym.OpenSubKey("Software\\4dots Software", true);
+                keym = keym.OpenSubKey("Software\\softpcapps Software", true);
 
                 if (keym == null)
                 {
-                    keym = Registry.CurrentUser.CreateSubKey("SOFTWARE\\4dots Software");
+                    keym = Registry.CurrentUser.CreateSubKey("SOFTWARE\\softpcapps Software");
                 }
 
                 keym2 = keym.OpenSubKey(app, true);

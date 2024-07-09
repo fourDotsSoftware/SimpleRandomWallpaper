@@ -6,7 +6,7 @@ using Excel;
 using System.Data;
 
 namespace SimpleRandomWallpaper
-{
+{ 
     class ExcelImporter
     {
         public void ImportListExcel(string filepath)

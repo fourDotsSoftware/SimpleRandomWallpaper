@@ -10,7 +10,7 @@ Unicode true
   !define MUI_PRODUCT "Simple Random Wallpaper"
   !define PRODUCT_SHORTCUT "Simple Random Wallpaper"
   !define MUI_ICON "simple-random-wallpaper-48.ico"
-  !define PRODUCT_VERSION "1.1"
+  !define PRODUCT_VERSION "1.4"
   	
  ; !define LIBRARY_SHELL_EXTENSION
 
@@ -19,7 +19,7 @@ Unicode true
   Var RevenyouProduct
   !define MUI_CUSTOMFUNCTION_GUIINIT myGuiInit
 
-  BrandingText "www.4dots-software.com"
+  BrandingText "softpcapps.com"
 
   !include "MUI2.nsh"
   !include Library.nsh
@@ -30,15 +30,32 @@ Unicode true
   Name "Simple Random Wallpaper"
   OutFile "SimpleRandomWallpaperSetup.exe"
 
-  InstallDir "$PROGRAMFILES\4dots Software\${PRODUCT_SHORTCUT}"
+  InstallDir "$PROGRAMFILES\softpcapps Software\${PRODUCT_SHORTCUT}"
 
-  InstallDirRegKey HKLM "Software\4dots Software\Simple Random Wallpaper" ""
+  InstallDirRegKey HKLM "Software\softpcapps Software\Simple Random Wallpaper" ""
+  
+  ;start version
+VIProductVersion "${PRODUCT_VERSION}.0.0"
+VIAddVersionKey /LANG=0 "ProductName" "${MUI_PRODUCT}"
+VIAddVersionKey /LANG=0 "ProductVersion" "${PRODUCT_VERSION}.0.0"
+VIAddVersionKey /LANG=0 "Comments" ""
+VIAddVersionKey /LANG=0 "CompanyName" "softpcapps Software"
+VIAddVersionKey /LANG=0 "LegalTrademarks" ""
+VIAddVersionKey /LANG=0 "LegalCopyright" "Copyright 2023 softpcapps Software"
+VIAddVersionKey /LANG=0 "FileDescription" "${MUI_PRODUCT}"
+VIAddVersionKey /LANG=0 "FileVersion" "${PRODUCT_VERSION}.0"
+;end version
+;start estimated size
+ !define ARP "Software\Microsoft\Windows\CurrentVersion\Uninstall\${PRODUCT_SHORTCUT}"
+ ;${APPNAME}"
+ !include "FileFunc.nsh"
+;end estimated size  
   
    ;copy translations start
   ;Show all languages, despite user's codepage
   !define MUI_LANGDLL_ALLLANGUAGES
   !define MUI_LANGDLL_REGISTRY_ROOT "HKCU" 
-  !define MUI_LANGDLL_REGISTRY_KEY "Software\4dots Software\${PRODUCT_SHORTCUT}" 
+  !define MUI_LANGDLL_REGISTRY_KEY "Software\softpcapps Software\${PRODUCT_SHORTCUT}" 
   !define MUI_LANGDLL_REGISTRY_VALUENAME "Installer Language"
 ;copy translations end
 
@@ -60,6 +77,8 @@ Unicode true
   !insertmacro MUI_PAGE_LICENSE "license_agreement.rtf" 
  ; !insertmacro MUI_PAGE_COMPONENTS
   !insertmacro MUI_PAGE_DIRECTORY 
+  
+  Page Custom CannotCancelPage
   !insertmacro MUI_PAGE_INSTFILES
   
   Page custom OptionsPage
@@ -186,14 +205,15 @@ ${EndIf}
 
  ;Call IsDotNetInstalledAdv
   
-  File "CryptoObfuscator_Output\${MUI_FILE}.exe"
-  File "C:\code\Misc\4dotsLanguageDownloader\bin\Debug\4dotsAdminActions.exe"
+;  File "CryptoObfuscator_Output\${MUI_FILE}.exe"
+  File "signedn\${MUI_FILE}.exe"
+  File "C:\code\Misc\4dotsLanguageDownloader\bin\Debug\signedn\4dotsAdminActions.exe"
   
   nsExec::Exec '"$INSTDIR\4dotsAdminActions.exe" -stopservice "Simple Random Wallpaper Service"'
 
   nsExec::Exec '"$INSTDIR\4dotsAdminActions.exe" -uninstallservice "$INSTDIR\SimpleRandomWallpaperService.exe"'  
   
-  File "SimpleRandomWallpaperService.exe";
+  File "signedn\SimpleRandomWallpaperService.exe";
   
   nsExec::Exec '"$INSTDIR\4dotsAdminActions.exe" -installservice "$INSTDIR\SimpleRandomWallpaperService.exe" "Simple Random Wallpaper Service"'
   
@@ -211,18 +231,38 @@ ${EndIf}
 ; 32bit things here
    ;File /oname=FreeImage.dll "FreeImagex86.dll" 
 ;${EndIf}            
-  
     
+  File "C:\code\com.softpcapps\com.softpcapps.download-software\com.softpcapps.download-software\bin\Debug\signedn\com.softpcapps.download-software.dll"
+  
+IfSilent 0 +2
+	Exec "$INSTDIR\${MUI_FILE}.exe"  
   
 ;write uninstall information to the registry
   WriteRegStr HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\${PRODUCT_SHORTCUT}" "DisplayName" "${PRODUCT_SHORTCUT} (remove only)"
   WriteRegStr HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\${PRODUCT_SHORTCUT}" "DisplayIcon" "$INSTDIR\${MUI_FILE}.exe"
   WriteRegStr HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\${PRODUCT_SHORTCUT}" "UninstallString" "$INSTDIR\Uninstall.exe"
-  WriteRegStr HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\${PRODUCT_SHORTCUT}" "Publisher" "4dots Software"   
+  WriteRegStr HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\${PRODUCT_SHORTCUT}" "Publisher" "softpcapps Software"   
+
+;begin new uninstall strings
+ WriteRegStr HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\${PRODUCT_SHORTCUT}" "ProductVersion" "${PRODUCT_VERSION}.0.0"   
+  WriteRegStr HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\${PRODUCT_SHORTCUT}" "DisplayVersion" "${PRODUCT_VERSION}.0.0"   
+  
+  WriteRegStr HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\${PRODUCT_SHORTCUT}" "VersionMajor" "${PRODUCT_VERSION}"   
+  
+  WriteRegStr HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\${PRODUCT_SHORTCUT}" "VersionMinor" "0.0"   
+
+  WriteRegStr HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\${PRODUCT_SHORTCUT}" \
+                 "QuietUninstallString" "$\"$INSTDIR\uninstall.exe$\" /S"
+
+ ${GetSize} "$INSTDIR" "/S=0K" $0 $1 $2
+ IntFmt $0 "0x%08X" $0
+ WriteRegDWORD HKLM "${ARP}" "EstimatedSize" "$0"
+ ;end new uninstall strings
+ 
 
  ;Store installation folder
-  WriteRegStr HKLM "Software\4dots Software\Simple Random Wallpaper" "" $INSTDIR
-  WriteRegStr HKLM "Software\4dots Software\Simple Random Wallpaper" "InstallationDirectory" $INSTDIR
+  WriteRegStr HKLM "Software\softpcapps Software\Simple Random Wallpaper" "" $INSTDIR
+  WriteRegStr HKLM "Software\softpcapps Software\Simple Random Wallpaper" "InstallationDirectory" $INSTDIR
    
   WriteUninstaller "$INSTDIR\Uninstall.exe"  
  
@@ -231,18 +271,24 @@ SectionEnd
 ;--------------------------------    
 ;Uninstaller Section  
 Section "Uninstall"
+
+   MessageBox MB_OK "If deletion of files fails then they will get deleted on next reboot."
+
    SetShellVarContext all
  
  ExecWait "$INSTDIR\${MUI_FILE}.exe /uninstall"  
  
+;start shortcut
+Delete "$DESKTOP\softpcapps Software PRODUCT CATALOG.lnk"
+;end shortcut
 
 
 ;Delete Files 
-  RMDir /r "$INSTDIR\*.*"    
+  RMDir /r /REBOOTOK "$INSTDIR\*.*"    
 
 ;Remove the installation directory
-;  RMDir "$INSTDIR\de-DE"
-  RMDir "$INSTDIR"
+;  RMDir /rebootok "$INSTDIR\de-DE"
+  RMDir /rebootok "$INSTDIR"
 
 ;Delete Start Menu Shortcuts
   Delete "$DESKTOP\${PRODUCT_SHORTCUT}.lnk"
@@ -253,12 +299,12 @@ Section "Uninstall"
 ;Delete Uninstaller And Unistall Registry Entries
   DeleteRegKey HKEY_LOCAL_MACHINE "SOFTWARE\${PRODUCT_SHORTCUT}"
   DeleteRegKey HKEY_LOCAL_MACHINE "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\${PRODUCT_SHORTCUT}"  
-  DeleteRegKey HKLM "Software\4dots Software\Simple Random Wallpaper"
-  DeleteRegKey HKCU "Software\4dots Software\Simple Random Wallpaper"
+  DeleteRegKey HKLM "Software\softpcapps Software\Simple Random Wallpaper"
+  DeleteRegKey HKCU "Software\softpcapps Software\Simple Random Wallpaper"
 
 SetShellVarContext current
- RMDir /r "$PROGRAMFILES\4dots Software\${PRODUCT_SHORTCUT}\*.*"
- RMDir "$PROGRAMFILES\4dots Software\${PRODUCT_SHORTCUT}"
+ RMDir /r "$PROGRAMFILES\softpcapps Software\${PRODUCT_SHORTCUT}\*.*"
+ RMDir "$PROGRAMFILES\softpcapps Software\${PRODUCT_SHORTCUT}"
 
 SectionEnd
 
@@ -272,6 +318,8 @@ FunctionEnd
 Function .onInit
   !insertmacro INSTALLOPTIONS_EXTRACT "NSISAdditionalActionsPage.ini"  
   
+  !insertmacro INSTALLOPTIONS_EXTRACT "NSISCannotCancelPage.ini"
+  
   ;copy translations start
   !insertmacro MUI_LANGDLL_DISPLAY
   ;copy translations end
@@ -280,7 +328,7 @@ FunctionEnd
 
 Function myGUIInit
   SetShellVarContext all
- StrCpy $INSTDIR "$PROGRAMFILES\4dots Software\${PRODUCT_SHORTCUT}"
+ StrCpy $INSTDIR "$PROGRAMFILES\softpcapps Software\${PRODUCT_SHORTCUT}"
 FunctionEnd
 
 ; Usage
@@ -425,7 +473,7 @@ Function DonatePage
 FunctionEnd
  
 Function DonateWebpage
-	ExecShell "" "https://www.4dots-software.com/donate.php" 
+	ExecShell "" "https://softpcapps.com/donate.php" 
 FunctionEnd
 
 Function OptionsPage
@@ -463,8 +511,19 @@ FunctionEnd
 
 ;Function that calls a messagebox when installation finished correctly
 Function .onInstSuccess
-	ExecShell "" "http://www.4dots-software.com/simple-random-wallpaper/how-to-use.php?afterinstall=true&version=${PRODUCT_VERSION}";
+	ExecShell "" "http://softpcapps.com/simple-random-wallpaper/how-to-use.php?afterinstall=true&version=${PRODUCT_VERSION}";
 FunctionEnd
+
+Function CannotCancelPage
+	; Prepare shortcut page with default values
+  !insertmacro MUI_HEADER_TEXT "Note" ""
+
+  ; Display shortcut page
+  !insertmacro INSTALLOPTIONS_DISPLAY "NSISCannotCancelPage.ini"
+  
+
+FunctionEnd
+
 
 ;copy translations start
 Function un.onInit

@@ -102,7 +102,7 @@ namespace SimpleRandomWallpaper
 
             if (regkey2 == null) return;
 
-            regkey = regkey2.OpenSubKey("4dots Software", false);
+            regkey = regkey2.OpenSubKey("softpcapps Software", false);
 
             if (regkey == null) return;
 

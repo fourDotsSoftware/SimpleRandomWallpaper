@@ -468,6 +468,30 @@ namespace SimpleRandomWallpaper
                 this.Cursor = null;
             }
         }
+
+        bool FreeForPersonalUse = false;
+        bool FreeForPersonalAndCommercialUse = true;
+
+        private void SetTitle()
+        {
+            string str = "";
+
+            if (!FreeForPersonalUse && !FreeForPersonalAndCommercialUse)
+            {
+                
+            }
+            else if (FreeForPersonalUse)
+            {
+                str += " - " + TranslateHelper.Translate("Free for Personal Use Only - Please Donate !");
+            }
+            else if (FreeForPersonalAndCommercialUse)
+            {
+                str += " - " + TranslateHelper.Translate("Free for Personal and Commercial Use - Please Donate !");
+            }
+
+            this.Text = Module.ApplicationTitle + str.ToUpper();
+        }
+
         private void SetupOnLoad()
         {
             dgFiles.DataSource = dt;
@@ -475,6 +499,9 @@ namespace SimpleRandomWallpaper
             //3this.Icon = Properties.Resources.pdf_compress_48;
 
             this.Text = Module.ApplicationTitle;
+
+            SetTitle();
+
             //this.Width = System.Windows.Forms.Screen.PrimaryScreen.WorkingArea.Width;
             //this.Left = 0;
             AddLanguageMenuItems();
@@ -521,8 +548,8 @@ namespace SimpleRandomWallpaper
 
             if (interval == string.Empty)
             {
-                nudD.Value = 1;
-                nudM.Value = 0;
+                nudD.Value = 0;
+                nudM.Value = 30;
                 nudS.Value = 0;
                 nudH.Value = 0;
             }
@@ -597,7 +624,7 @@ namespace SimpleRandomWallpaper
 
             if (regkey2 == null) return;
 
-            regkey = regkey2.OpenSubKey("4dots Software", false);
+            regkey = regkey2.OpenSubKey("softpcapps Software", false);
 
             if (regkey == null) return;
 
@@ -696,6 +723,9 @@ namespace SimpleRandomWallpaper
         private void SaveSizeLocation()
         {
             Properties.Settings.Default.Maximized = (this.WindowState == FormWindowState.Maximized);
+
+            if (this.WindowState == System.Windows.Forms.FormWindowState.Minimized) return;
+
             Properties.Settings.Default.Left = this.Left;
             Properties.Settings.Default.Top = this.Top;
             Properties.Settings.Default.Width = this.Width;
@@ -794,11 +824,11 @@ namespace SimpleRandomWallpaper
 
                 try
                 {
-                    key = key.OpenSubKey("Software\\4dots Software", true);
+                    key = key.OpenSubKey("Software\\softpcapps Software", true);
 
                     if (key == null)
                     {
-                        key = Registry.CurrentUser.CreateSubKey("SOFTWARE\\4dots Software");
+                        key = Registry.CurrentUser.CreateSubKey("SOFTWARE\\softpcapps Software");
                     }
 
                     key2 = key.OpenSubKey(frmLanguage.RegKeyName, true);
@@ -908,12 +938,12 @@ namespace SimpleRandomWallpaper
 
         private void pleaseDonateToolStripMenuItem1_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("http://www.4dots-software.com/donate.php");
+            System.Diagnostics.Process.Start("http://softpcapps.com/donate.php");
         }
 
         private void dotsSoftwarePRODUCTCATALOGToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("http://www.4dots-software.com/downloads/4dots-Software-PRODUCT-CATALOG.pdf");
+            System.Diagnostics.Process.Start("http://softpcapps.com/downloads/4dots-Software-PRODUCT-CATALOG.pdf");
         }
 
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
@@ -929,7 +959,7 @@ namespace SimpleRandomWallpaper
             f.ShowDialog();
             */
 
-            System.Diagnostics.Process.Start("https://www.4dots-software.com/support/bugfeature.php?app=" + System.Web.HttpUtility.UrlEncode(Module.ShortApplicationTitle));
+            System.Diagnostics.Process.Start("https://softpcapps.com/support/bugfeature.php?app=" + System.Web.HttpUtility.UrlEncode(Module.ShortApplicationTitle));
         }
 
         private void followUsOnTwitterToolStripMenuItem_Click(object sender, EventArgs e)
@@ -939,7 +969,7 @@ namespace SimpleRandomWallpaper
 
         private void visit4dotsSoftwareWebsiteToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            System.Diagnostics.Process.Start("http://www.4dots-software.com");
+            System.Diagnostics.Process.Start("http://softpcapps.com");
         }
 
         private void checkForNewVersionToolStripMenuItem_Click(object sender, EventArgs e)

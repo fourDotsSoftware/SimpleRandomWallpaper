@@ -75,7 +75,7 @@ namespace SimpleRandomWallpaper
             {
                 Module.DeleteApplicationSettingsFile();
 
-                System.Diagnostics.Process.Start("https://www.4dots-software.com/support/bugfeature.php?uninstall=true&app=" + System.Web.HttpUtility.UrlEncode(Module.ShortApplicationTitle));
+                System.Diagnostics.Process.Start("https://softpcapps.com/support/bugfeature.php?uninstall=true&app=" + System.Web.HttpUtility.UrlEncode(Module.ShortApplicationTitle));
 
                 Environment.Exit(0);
 

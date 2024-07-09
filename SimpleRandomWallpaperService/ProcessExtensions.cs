@@ -179,9 +179,10 @@ namespace SimpleRandomWallpaperService
                 for (var i = 0; i < sessionCount; i++)
                 {
                     var si = (WTS_SESSION_INFO)Marshal.PtrToStructure((IntPtr)current, typeof(WTS_SESSION_INFO));
-                    //7current += arrayElementSize;
+                                        
+                    //current += arrayElementSize;
 
-                    current = new IntPtr(arrayElementSize+(int)current);
+                    current = new IntPtr(arrayElementSize+current.ToInt64());
 
                     if (si.State == WTS_CONNECTSTATE_CLASS.WTSActive)
                     {

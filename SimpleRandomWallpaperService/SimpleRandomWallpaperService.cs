@@ -18,96 +18,104 @@ namespace SimpleRandomWallpaperService
             InitializeComponent();
 
             timFirstChange.Elapsed += TimFirstChange_Elapsed;
-
             timChange.Elapsed += TimChange_Elapsed;
         }
 
         private void TimChange_Elapsed(object sender, System.Timers.ElapsedEventArgs e)
         {
-            RunChangeWallpaper();
+            //Module.DebugWrite("tim change elapsed");
+
+            try
+            {
+                RunChangeWallpaper();
+            }
+            catch { }
         }
 
         private void TimFirstChange_Elapsed(object sender, System.Timers.ElapsedEventArgs e)
-        {
-            RunChangeWallpaper();
+        {                       
+            
+            try
+            {
+                RunChangeWallpaper();
+            }
+            catch { }
 
             timChange.Enabled = true;
             timChange.Start();
-
+            
             timFirstChange.Enabled = false;
             timFirstChange.Stop();
         }
 
         protected override void OnStart(string[] args)
         {
-            string sid = ProcessExtensions.GetCurrentSessionUsername();
-
-            string account = new System.Security.Principal.SecurityIdentifier(sid).Translate(typeof(System.Security.Principal.NTAccount)).ToString();
-
-            string lastchange = RegistryHelper2.GetKeyValueWithSid(sid, Module.ApplicationName, "LastChange");
-
-            string interval = RegistryHelper2.GetKeyValueWithSid(sid, Module.ApplicationName, "Interval");
-            
-            string enabled=RegistryHelper2.GetKeyValueWithSid(sid, Module.ApplicationName, "Enabled");
-
-            string enabledall = RegistryHelper2.GetKeyValueLM(Module.ApplicationName, "EnabledForAll");
-
-            if ((enabled==string.Empty || enabled==bool.FalseString) && enabledall!=bool.TrueString)
-            {
-                return;
-            }
-            else if (enabled==bool.TrueString)
-            {
-
-            }
-            else if(enabledall==bool.TrueString)
-            {               
-                interval = RegistryHelper2.GetKeyValueLMLowPriv(Module.ApplicationName, "Interval");                
-            }
-            else
-            {
-                return;
-            }
-
-            TimeSpan tsday = new TimeSpan(1, 0, 0, 0);
-
-            int iInterval = (int)tsday.TotalSeconds;
-
             try
-            {
-                iInterval = int.Parse(interval);
-            }
-            catch
-            {
+            {       
+                while (!System.Diagnostics.Process.GetCurrentProcess().Responding)
+                {
+                    System.Windows.Forms.Application.DoEvents();
+                }
 
-            }
-
-            iInterval = iInterval * 1000;
-
-            if (lastchange==string.Empty)
-            {
-                RunChangeWallpaper();
-                
-                timChange.Interval = iInterval;
-                timChange.Enabled = true;
-                timChange.Start();
-            }
-            else
-            {
-                int iFirstInterval = 0;
+                /*
+                while (CPUUsageMeter.CPUUsageHigh)
+                {
+                    System.Threading.Thread.Sleep(3000);
+                }
+                */
 
                 try
                 {
-                    DateTime dtlast = DateTime.FromFileTimeUtc(long.Parse(lastchange));
+                    string sid = ProcessExtensions.GetCurrentSessionUsername();
 
-                    DateTime dtnow = DateTime.Now;
+                    string account = new System.Security.Principal.SecurityIdentifier(sid).Translate(typeof(System.Security.Principal.NTAccount)).ToString();
 
-                    TimeSpan ts = dtnow - dtlast;
+                    string lastchange = RegistryHelper2.GetKeyValueWithSid(sid, Module.ApplicationName, "LastChange");
 
-                    iFirstInterval = iInterval - ((int)ts.TotalSeconds * 1000);
+                    string interval = RegistryHelper2.GetKeyValueWithSid(sid, Module.ApplicationName, "Interval");
 
-                    if (iFirstInterval<=0)
+                    string enabled = RegistryHelper2.GetKeyValueWithSid(sid, Module.ApplicationName, "Enabled");
+
+                    string enabledall = RegistryHelper2.GetKeyValueLM(Module.ApplicationName, "EnabledForAll");
+
+                    if ((enabled == string.Empty || enabled == bool.FalseString) && enabledall != bool.TrueString)
                     {
+                        return;
+                    }
+                    else if (enabled == bool.TrueString)
+                    {
+
+                    }
+                    else if (enabledall == bool.TrueString)
+                    {
+                        interval = RegistryHelper2.GetKeyValueLMLowPriv(Module.ApplicationName, "Interval");
+                    }
+                    else
+                    {
+                        return;
+                    }
+
+                    TimeSpan tsday = new TimeSpan(1, 0, 0, 0);
+
+                    int iInterval = (int)tsday.TotalSeconds;
+
+                    try
+                    {
+                        iInterval = int.Parse(interval);
+                    }
+                    catch
+                    {
+
+                    }
+
+                    Module.DebugWrite("interval=" + interval);
+
+                    iInterval = iInterval * 1000;
+
+                    if (lastchange == string.Empty)
+                    {
+                        Module.DebugWrite("1");
+
                         RunChangeWallpaper();
 
                         timChange.Interval = iInterval;
@@ -116,76 +124,133 @@ namespace SimpleRandomWallpaperService
                     }
                     else
                     {
-                        timFirstChange.Interval = iFirstInterval;
-                        timFirstChange.Enabled = true;
-                        timFirstChange.Start();
+                        int iFirstInterval = 0;
 
-                        timChange.Interval = iInterval;
+                        try
+                        {
+                            DateTime dtlast = DateTime.FromFileTimeUtc(long.Parse(lastchange));
+
+                            DateTime dtnow = DateTime.Now;
+
+                            TimeSpan ts = dtnow - dtlast;
+
+                            iFirstInterval = iInterval - ((int)ts.TotalSeconds * 1000);
+
+                            if (iFirstInterval <= 0)
+                            {
+                                Module.DebugWrite("2");
+
+                                RunChangeWallpaper();
+
+                                Module.DebugWrite("2b interval=" + iInterval.ToString());
+
+                                timChange.Interval = iInterval;
+                                timChange.Enabled = true;
+                                timChange.Start();
+                            }
+                            else
+                            {
+                                Module.DebugWrite("3");
+
+                                timFirstChange.Interval = iFirstInterval;
+                                timFirstChange.Enabled = true;
+                                timFirstChange.Start();
+
+                                timChange.Interval = iInterval;
+                            }
+                        }
+                        catch (Exception ex)
+                        {
+                            Module.DebugWrite("4" + ex.ToString());
+                        }
                     }
                 }
-                catch
+                catch (Exception exm)
                 {
 
+                    Module.DebugWrite("5" + exm.ToString());
                 }
             }
-
-
+            catch (Exception ex)
+            {
+                //System.IO.File.WriteAllText(@"c:\1\srwservice.txt", ex.ToString());
+            }
         }
 
         private void RunChangeWallpaper()
         {
-            string sid = ProcessExtensions.GetCurrentSessionUsername();
-
-            string enabled = RegistryHelper2.GetKeyValueWithSid(sid, Module.ApplicationName, "Enabled");
-
-            string enabledall = RegistryHelper2.GetKeyValueLM(Module.ApplicationName, "EnabledForAll");
-
-            bool enabledforall = false;
-
-            if (((enabled == bool.FalseString) || (enabled == string.Empty)) && (enabledall != bool.TrueString))
+            while (CPUUsageMeter.CPUUsageHigh)
             {
-                return;
-            }
-            else if (enabled == bool.TrueString)
-            {
-
-            }
-            else if (enabledall == bool.TrueString)
-            {
-                enabledforall = true;
+                System.Threading.Thread.Sleep(3000);
             }
 
-            string dir=RegistryHelper2.GetKeyValueLM(Module.ApplicationName,"InstallationDirectory");
-
-            string exepath = System.IO.Path.Combine(dir, "SimpleRandomWallpaper.exe");
-            
-            if (enabledforall)
+            try
             {
-                sid = "allusers";
+                Module.DebugWrite("run change wallpaper");
+
+                string sid = ProcessExtensions.GetCurrentSessionUsername();
+
+                string enabled = RegistryHelper2.GetKeyValueWithSid(sid, Module.ApplicationName, "Enabled");
+
+                string enabledall = RegistryHelper2.GetKeyValueLM(Module.ApplicationName, "EnabledForAll");
+
+                bool enabledforall = false;
+
+                if (((enabled == bool.FalseString) || (enabled == string.Empty)) && (enabledall != bool.TrueString))
+                {
+                    return;
+                }
+                else if (enabled == bool.TrueString)
+                {
+
+                }
+                else if (enabledall == bool.TrueString)
+                {
+                    enabledforall = true;
+                }
+
+                string dir = RegistryHelper2.GetKeyValueLM(Module.ApplicationName, "InstallationDirectory");
+
+                string exepath = System.IO.Path.Combine(dir, "SimpleRandomWallpaper.exe");
+
+                if (enabledforall)
+                {
+                    sid = "allusers";
+                }
+
+                string args = " -setwallpaper \"" + sid + "\"";
+
+                ProcessExtensions.StartProcessAsCurrentUser(exepath, args, null, false);
+
+                /*
+                System.Diagnostics.Process pr = new Process();
+                pr.StartInfo.FileName = "\"" + exepath + "\"";
+                pr.StartInfo.WindowStyle = ProcessWindowStyle.Hidden;
+                pr.StartInfo.Arguments = "-setwallpaper " + sid;
+                pr.Start();
+                */
             }
+            catch (Exception ex){
 
-            string args = " -setwallpaper \"" + sid + "\"";
-
-            ProcessExtensions.StartProcessAsCurrentUser(exepath, args, null, false);
-
-            /*
-            System.Diagnostics.Process pr = new Process();
-            pr.StartInfo.FileName = "\"" + exepath + "\"";
-            pr.StartInfo.WindowStyle = ProcessWindowStyle.Hidden;
-            pr.StartInfo.Arguments = "-setwallpaper " + sid;
-            pr.Start();
-            */
+                Module.DebugWrite("run change wallpaper ex" + ex.ToString());
+            }
         }
 
         protected override void OnStop()
         {
         }
-
+                
         protected override void OnSessionChange(SessionChangeDescription changeDescription)
         {
-            base.OnSessionChange(changeDescription);
+            try
+            {
+                Module.DebugWrite("on session change");
 
-            OnStart(new string[] { });
+                base.OnSessionChange(changeDescription);
+
+                OnStart(new string[] { });
+            }
+            catch { }
         }
     }
 }

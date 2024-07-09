@@ -35,6 +35,9 @@
     <ApplicationIcon>simple-random-wallpaper-48.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="com.softpcapps.download-software">
+      <HintPath>..\..\..\..\com.softpcapps\com.softpcapps.download-software\com.softpcapps.download-software\bin\Debug\com.softpcapps.download-software.dll</HintPath>
+    </Reference>
     <Reference Include="Excel, Version=2.1.2.3, Culture=neutral, PublicKeyToken=93517dbe6a4012fa, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>bin\Debug\Excel.dll</HintPath>

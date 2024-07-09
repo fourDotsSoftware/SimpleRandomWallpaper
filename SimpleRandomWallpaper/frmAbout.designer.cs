@@ -29,7 +29,6 @@ namespace SimpleRandomWallpaper
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmAbout));
-            this.niceLine3 = new SimpleRandomWallpaper.NiceLine();
             this.niceLine1 = new SimpleRandomWallpaper.NiceLine();
             this.label2 = new System.Windows.Forms.Label();
             this.linkLabel2 = new SimpleRandomWallpaper.URLLinkLabel();
@@ -42,14 +41,14 @@ namespace SimpleRandomWallpaper
             this.ullProductWebpage = new SimpleRandomWallpaper.URLLinkLabel();
             this.niceLine2 = new SimpleRandomWallpaper.NiceLine();
             this.niceLine4 = new SimpleRandomWallpaper.NiceLine();
+            this.label4 = new System.Windows.Forms.Label();
+            this.urlLinkLabel1 = new SimpleRandomWallpaper.URLLinkLabel();
+            this.label5 = new System.Windows.Forms.Label();
+            this.urlLinkLabel2 = new SimpleRandomWallpaper.URLLinkLabel();
+            this.label6 = new System.Windows.Forms.Label();
+            this.urlLinkLabel3 = new SimpleRandomWallpaper.URLLinkLabel();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
-            // 
-            // niceLine3
-            // 
-            this.niceLine3.BackColor = System.Drawing.Color.Transparent;
-            resources.ApplyResources(this.niceLine3, "niceLine3");
-            this.niceLine3.Name = "niceLine3";
             // 
             // niceLine1
             // 
@@ -133,15 +132,59 @@ namespace SimpleRandomWallpaper
             resources.ApplyResources(this.niceLine4, "niceLine4");
             this.niceLine4.Name = "niceLine4";
             // 
+            // label4
+            // 
+            resources.ApplyResources(this.label4, "label4");
+            this.label4.BackColor = System.Drawing.Color.Transparent;
+            this.label4.Name = "label4";
+            // 
+            // urlLinkLabel1
+            // 
+            resources.ApplyResources(this.urlLinkLabel1, "urlLinkLabel1");
+            this.urlLinkLabel1.BackColor = System.Drawing.Color.Transparent;
+            this.urlLinkLabel1.Name = "urlLinkLabel1";
+            this.urlLinkLabel1.TabStop = true;
+            // 
+            // label5
+            // 
+            resources.ApplyResources(this.label5, "label5");
+            this.label5.BackColor = System.Drawing.Color.Transparent;
+            this.label5.Name = "label5";
+            // 
+            // urlLinkLabel2
+            // 
+            resources.ApplyResources(this.urlLinkLabel2, "urlLinkLabel2");
+            this.urlLinkLabel2.BackColor = System.Drawing.Color.Transparent;
+            this.urlLinkLabel2.Name = "urlLinkLabel2";
+            this.urlLinkLabel2.TabStop = true;
+            // 
+            // label6
+            // 
+            resources.ApplyResources(this.label6, "label6");
+            this.label6.BackColor = System.Drawing.Color.Transparent;
+            this.label6.Name = "label6";
+            // 
+            // urlLinkLabel3
+            // 
+            resources.ApplyResources(this.urlLinkLabel3, "urlLinkLabel3");
+            this.urlLinkLabel3.BackColor = System.Drawing.Color.Transparent;
+            this.urlLinkLabel3.Name = "urlLinkLabel3";
+            this.urlLinkLabel3.TabStop = true;
+            // 
             // frmAbout
             // 
             resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.Controls.Add(this.label6);
+            this.Controls.Add(this.urlLinkLabel3);
+            this.Controls.Add(this.label5);
+            this.Controls.Add(this.urlLinkLabel2);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.urlLinkLabel1);
             this.Controls.Add(this.niceLine4);
             this.Controls.Add(this.niceLine2);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.ullProductWebpage);
-            this.Controls.Add(this.niceLine3);
             this.Controls.Add(this.niceLine1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.linkLabel2);
@@ -170,10 +213,15 @@ namespace SimpleRandomWallpaper
         private System.Windows.Forms.Label label2;
         private URLLinkLabel linkLabel2;
         private NiceLine niceLine1;
-        private NiceLine niceLine3;
         private System.Windows.Forms.Label label3;
         private URLLinkLabel ullProductWebpage;
         private NiceLine niceLine2;
         private NiceLine niceLine4;
+        private System.Windows.Forms.Label label4;
+        private URLLinkLabel urlLinkLabel1;
+        private System.Windows.Forms.Label label5;
+        private URLLinkLabel urlLinkLabel2;
+        private System.Windows.Forms.Label label6;
+        private URLLinkLabel urlLinkLabel3;
     }
 }

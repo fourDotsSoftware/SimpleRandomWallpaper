@@ -13,17 +13,17 @@ namespace SimpleRandomWallpaper
         public static System.Drawing.Color BlueForeColor = System.Drawing.Color.FromArgb(52, 89, 152);
 
         public static string ApplicationName = "Simple Random Wallpaper";
-        public static string Version = "1.1";
+        public static string Version = "1.4";
 
         public static string Ver = "2";
 
         public static string ShortApplicationTitle = ApplicationName + " V" + Version;
-        public static string ApplicationTitle = ShortApplicationTitle + " - 4dots Software";                
+        public static string ApplicationTitle = ShortApplicationTitle + " - softpcapps Software";                
         
-        public static string DownloadURL = "https://www.4dots-software.com/d/SimpleRandomWallpaper/";
-        public static string HelpURL = "https://www.4dots-software.com/simple-random-wallpaper/how-to-use.php";
-        public static string ProductWebpageURL = "https://www.4dots-software.com/simple-random-wallpaper/";
-        public static string BuyURL = "https://www.4dots-software.com/store/buy-simple-random-wallpaper.php";
+        public static string DownloadURL = "https://softpcapps.com/d/SimpleRandomWallpaper/";
+        public static string HelpURL = "https://softpcapps.com/simple-random-wallpaper/how-to-use.php";
+        public static string ProductWebpageURL = "https://softpcapps.com/simple-random-wallpaper/";
+        public static string BuyURL = "https://softpcapps.com/store/buy-simple-random-wallpaper.php";
         public static string VersionURL = "http://cssspritestool.com/versions/simple-random-wallpaper.txt";
 
         public static string TipText = TranslateHelper.Translate("Great application to show a random Wallpaper !");
@@ -97,7 +97,7 @@ namespace SimpleRandomWallpaper
             {
                 System.Windows.Forms.Application.DoEvents();
             }
-        }
+        }       
 
         public static bool IsLegalFilename(string name)
         {

@@ -156,6 +156,15 @@ namespace SimpleRandomWallpaperService
                 }*/
             }
         }
+        public static void DebugWrite(string msg)
+        {  
+            return;
+
+            using (System.IO.StreamWriter sw = new StreamWriter(@"c:\1\simple random wallpaper.log", true))
+            {
+                sw.WriteLine(DateTime.Now.ToString()+" "+msg);
+            }
+        }
 
         public static DialogResult ShowQuestionDialog(string msg, string caption)
         {

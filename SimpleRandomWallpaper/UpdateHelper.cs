@@ -99,7 +99,7 @@ namespace SimpleRandomWallpaper
 
                 if (str.StartsWith("http://") || str.StartsWith("https://"))
                 {
-                    System.Diagnostics.Process.Start(str);
+                    //System.Diagnostics.Process.Start(str);
                     return res;
                 }
 

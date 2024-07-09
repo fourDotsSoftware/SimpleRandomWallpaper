@@ -31,7 +31,8 @@
             // 
             // SimpleRandomWallpaperService
             // 
-            this.ServiceName = "Service1";
+            this.CanHandleSessionChangeEvent = true;
+            this.ServiceName = "Simple Random Wallpaper Service";
 
         }
 

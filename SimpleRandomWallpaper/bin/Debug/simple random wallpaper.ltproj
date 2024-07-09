@@ -207,15 +207,15 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
-    &lt;value&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/value&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;value&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/value&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
     &lt;key&gt;ullProductWebpage.Text&lt;/key&gt;
     &lt;rowstatus&gt;0&lt;/rowstatus&gt;
     &lt;editstatus&gt;1&lt;/editstatus&gt;
     &lt;not_translate&gt;true&lt;/not_translate&gt;
-    &lt;undovalue&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/undovalue&gt;
+    &lt;undovalue&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/undovalue&gt;
     &lt;maxlength /&gt;
     &lt;validation /&gt;
     &lt;help /&gt;
@@ -302,15 +302,15 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
-    &lt;value&gt;http://www.4dots-software.com&lt;/value&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
+    &lt;value&gt;http://softpcapps.com&lt;/value&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
     &lt;key&gt;linkLabel1.Text&lt;/key&gt;
     &lt;rowstatus&gt;0&lt;/rowstatus&gt;
     &lt;editstatus&gt;1&lt;/editstatus&gt;
     &lt;not_translate&gt;true&lt;/not_translate&gt;
-    &lt;undovalue&gt;http://www.4dots-software.com&lt;/undovalue&gt;
+    &lt;undovalue&gt;http://softpcapps.com&lt;/undovalue&gt;
     &lt;maxlength /&gt;
     &lt;validation /&gt;
     &lt;help /&gt;
@@ -321,15 +321,15 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
-    &lt;value&gt;http://www.4dots-software.com/support/&lt;/value&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
+    &lt;value&gt;http://softpcapps.com/support/&lt;/value&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
     &lt;key&gt;linkLabel2.Text&lt;/key&gt;
     &lt;rowstatus&gt;0&lt;/rowstatus&gt;
     &lt;editstatus&gt;1&lt;/editstatus&gt;
     &lt;not_translate&gt;true&lt;/not_translate&gt;
-    &lt;undovalue&gt;http://www.4dots-software.com/support/&lt;/undovalue&gt;
+    &lt;undovalue&gt;http://softpcapps.com/support/&lt;/undovalue&gt;
     &lt;maxlength /&gt;
     &lt;validation /&gt;
     &lt;help /&gt;
@@ -2242,7 +2242,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -2337,7 +2337,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -2356,7 +2356,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -4277,7 +4277,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -4372,7 +4372,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -4391,7 +4391,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -6312,7 +6312,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -6407,7 +6407,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -6426,7 +6426,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -8347,7 +8347,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -8442,7 +8442,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -8461,7 +8461,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -10382,7 +10382,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -10477,7 +10477,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -10496,7 +10496,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -12417,7 +12417,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -12512,7 +12512,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -12531,7 +12531,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -14452,7 +14452,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -14547,7 +14547,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -14566,7 +14566,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -16487,7 +16487,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -16582,7 +16582,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -16601,7 +16601,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -18522,7 +18522,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -18617,7 +18617,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -18636,7 +18636,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -20557,7 +20557,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -20652,7 +20652,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -20671,7 +20671,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -22592,7 +22592,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -22687,7 +22687,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -22706,7 +22706,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -24627,7 +24627,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -24722,7 +24722,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -24741,7 +24741,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -26662,7 +26662,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -26757,7 +26757,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -26776,7 +26776,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -28697,7 +28697,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -28792,7 +28792,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -28811,7 +28811,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -30732,7 +30732,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -30827,7 +30827,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -30846,7 +30846,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -32767,7 +32767,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -32862,7 +32862,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -32881,7 +32881,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -34802,7 +34802,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -34897,7 +34897,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -34916,7 +34916,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -36837,7 +36837,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -36932,7 +36932,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -36951,7 +36951,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -38872,7 +38872,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -38967,7 +38967,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -38986,7 +38986,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -40907,7 +40907,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -41002,7 +41002,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -41021,7 +41021,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -42942,7 +42942,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -43037,7 +43037,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -43056,7 +43056,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -44977,7 +44977,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -45072,7 +45072,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -45091,7 +45091,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -47012,7 +47012,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -47107,7 +47107,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -47126,7 +47126,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -49047,7 +49047,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -49142,7 +49142,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -49161,7 +49161,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -51082,7 +51082,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -51177,7 +51177,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -51196,7 +51196,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -53117,7 +53117,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -53212,7 +53212,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -53231,7 +53231,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -55152,7 +55152,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -55247,7 +55247,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -55266,7 +55266,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -57187,7 +57187,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -57282,7 +57282,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -57301,7 +57301,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -59222,7 +59222,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -59317,7 +59317,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -59336,7 +59336,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -61257,7 +61257,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -61352,7 +61352,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -61371,7 +61371,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -63292,7 +63292,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -63387,7 +63387,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -63406,7 +63406,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -65327,7 +65327,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -65422,7 +65422,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -65441,7 +65441,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -67362,7 +67362,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -67457,7 +67457,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -67476,7 +67476,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -69397,7 +69397,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -69492,7 +69492,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -69511,7 +69511,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -71432,7 +71432,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -71527,7 +71527,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -71546,7 +71546,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -73467,7 +73467,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -73562,7 +73562,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -73581,7 +73581,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -75502,7 +75502,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -75597,7 +75597,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -75616,7 +75616,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -77537,7 +77537,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -77632,7 +77632,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -77651,7 +77651,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -79572,7 +79572,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -79667,7 +79667,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -79686,7 +79686,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -81607,7 +81607,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -81702,7 +81702,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -81721,7 +81721,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -83642,7 +83642,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -83737,7 +83737,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -83756,7 +83756,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -85677,7 +85677,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -85772,7 +85772,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -85791,7 +85791,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -87712,7 +87712,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -87807,7 +87807,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -87826,7 +87826,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -89747,7 +89747,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -89842,7 +89842,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -89861,7 +89861,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -91782,7 +91782,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -91877,7 +91877,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -91896,7 +91896,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -93817,7 +93817,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/batch-document-image-extractor/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/batch-document-image-extractor/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -93912,7 +93912,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;
@@ -93931,7 +93931,7 @@
     &lt;pseudo /&gt;
   &lt;/table&gt;
   &lt;table&gt;
-    &lt;name&gt;http://www.4dots-software.com/support/&lt;/name&gt;
+    &lt;name&gt;http://softpcapps.com/support/&lt;/name&gt;
     &lt;value /&gt;
     &lt;comments /&gt;
     &lt;trstatus&gt;2&lt;/trstatus&gt;

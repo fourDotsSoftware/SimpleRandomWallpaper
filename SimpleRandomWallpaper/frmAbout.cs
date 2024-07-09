@@ -19,7 +19,7 @@ namespace SimpleRandomWallpaper
         {
             lblAbout.Text = Module.ApplicationTitle + "\n\n" +
             "Developed by Alexander Triantafyllou\n" +
-            "Copyright © 2020 - 4dots Software\n";
+            "Copyright © 2020 - softpcapps Software\n";
 
             ullProductWebpage.Text = Module.ProductWebpageURL;            
         }
@@ -31,12 +31,12 @@ namespace SimpleRandomWallpaper
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            System.Diagnostics.Process.Start("http://www.4dots-software.com");
+            System.Diagnostics.Process.Start("http://softpcapps.com");
         }
 
         private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            System.Diagnostics.Process.Start("http://www.4dots-software.com/support/");
+            System.Diagnostics.Process.Start("http://softpcapps.com/support/");
         }        
     }
 }
